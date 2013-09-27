@@ -1,11 +1,10 @@
 <xml src="s0301m-s1.xml">
+
+<p rend="nikaya"><nikaya>saṃyuttanikāyo</nikaya></p>
+
+<div id="sn1" n="sn1" type="book"/>
+<head rend="book"><book>sagāthāvaggo</book></head>
 <sutra id="s1"/>
-
-<p rend="nikaya">saṃyuttanikāyo</p>
-
-<div id="sn1" n="sn1" type="book">
-<head rend="book">sagāthāvaggo</head>
-
 <div id="sn1_1" n="sn1_1" type="samyutta">
 <head rend="chapter">1. devatāsaṃyuttaṃ</head>
 

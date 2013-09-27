@@ -1,11 +1,11 @@
 <xml src="s0302m-s12.xml">
-<sutra id="s12"/>
+
 
 <p rend="nikaya">saṃyuttanikāyo</p>
 
-<div id="sn2" n="sn2" type="book">
-<head rend="book">nidānavaggo</head>
-
+<div id="sn2" n="sn2" type="book"/>
+<head rend="book"><book>nidānavaggo</book></head>
+<sutra id="s12"/>
 <div id="sn2_1" n="sn2_1" type="samyutta">
 <head rend="chapter">1. nidānasaṃyuttaṃ</head>
 

@@ -141,7 +141,7 @@
 <p rend="gathalast">vīmaṃsakā kosambi ca brāhmaṇo, dūsī ca māro dasamo ca vaggo||</p>
 
 <trailer rend="centre">sāleyyavaggo niṭṭhito pañcamo|</trailer>
-</div>
+<vaggaend/>
 
 <p rend="bodytext">idaṃ vaggānamuddānaṃ –</p>
 
@@ -150,4 +150,5 @@
 <p rend="gathalast">kakaco ceva gosiṅgo, sāleyyo ca ime pañca||</p>
 
 <trailer rend="centre">mūlapaṇṇāsakaṃ samattaṃ|</trailer>
+<bookend/>
 </xml>

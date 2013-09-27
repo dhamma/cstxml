@@ -1,11 +1,10 @@
 <xml src="s0103m-d24.xml">
-<sutra id="d24"/>
 
 <p rend="nikaya">dīghanikāyo</p>
 
-<div id="dn3" n="dn3" type="book">
-<head rend="book">pāthikavaggapāḷi</head>
-
+<div id="dn3" n="dn3" type="book"/>
+<head rend="book"><book>pāthikavaggapāḷi</book></head>
+<sutra id="d24"/>
 <div id="dn3_1" n="dn3_1" type="sutta">
 <head rend="chapter">1. pāthikasuttaṃ</head>
 

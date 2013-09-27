@@ -1,14 +1,13 @@
 <xml src="s0203m-m101.xml">
-<sutra id="m101"/>
 
 <p rend="nikaya">majjhimanikāye</p>
 
-<div id="mn3" n="mn3" type="book">
-<head rend="book">uparipaṇṇāsapāḷi</head>
+<div id="mn3" n="mn3" type="book"/>
+<head rend="book"><book>uparipaṇṇāsapāḷi</book></head>
 
-<div id="mn3_1" n="mn3_1" type="vagga">
+<div id="mn3_1" n="mn3_1" type="vagga"/>
 <head rend="chapter">1. devadahavaggo</head>
-
+<sutra id="m101"/>
 <p rend="subhead">1. devadahasuttaṃ</p>
 
 <p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> evaṃ <pb ed="M" n="3.0001"/><pb ed="V" n="3.0001"/><pb ed="P" n="2.0214"/><pb ed="T" n="3.0001"/> me sutaṃ – ekaṃ samayaṃ bhagavā sakkesu viharati devadahaṃ nāma sakyānaṃ nigamo| tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti| ‘‘bhadante’’ti te bhikkhū bhagavato paccassosuṃ| bhagavā etadavoca – ‘‘santi, bhikkhave, eke samaṇabrāhmaṇā evaṃvādino evaṃdiṭṭhino – ‘yaṃ kiñcāyaṃ purisapuggalo paṭisaṃvedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā, sabbaṃ taṃ pubbekatahetu| iti purāṇānaṃ kammānaṃ tapasā byantībhāvā, navānaṃ kammānaṃ akaraṇā, āyatiṃ anavassavo; āyatiṃ anavassavā kammakkhayo; kammakkhayā <pb ed="V" n="3.0002"/> dukkhakkhayo; dukkhakkhayā vedanākkhayo; vedanākkhayā sabbaṃ dukkhaṃ nijjiṇṇaṃ bhavissatī’ti| evaṃvādino, bhikkhave, nigaṇṭhā|</p>

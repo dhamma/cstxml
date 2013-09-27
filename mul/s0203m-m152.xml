@@ -31,7 +31,7 @@
 <p rend="centre">indriyabhāvanāsuttaṃ niṭṭhitaṃ dasamaṃ|</p>
 
 <trailer rend="centre">saḷāyatanavaggo niṭṭhito pañcamo|</trailer>
-</div>
+<vaggaend/>
 
 <p rend="bodytext">tassuddānaṃ –</p>
 
@@ -52,4 +52,5 @@
 <p rend="centre">tīhi paṇṇāsakehi paṭimaṇḍito sakalo</p>
 
 <trailer rend="centre">majjhimanikāyo samatto|</trailer>
+<bookend/>
 </xml>

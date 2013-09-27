@@ -61,7 +61,7 @@
 <p rend="centre">saṅgāravasuttaṃ niṭṭhitaṃ dasamaṃ|</p>
 
 <trailer rend="centre">brāhmaṇavaggo niṭṭhito pañcamo|</trailer>
-</div>
+<vaggaend/>
 
 <p rend="bodytext">tassuddānaṃ –</p>
 
@@ -76,4 +76,5 @@
 <p rend="gathalast">rājavaggo brāhmaṇoti, pañca majjhimāgame||</p>
 
 <trailer rend="centre">majjhimapaṇṇāsakaṃ samattaṃ|</trailer>
+<bookend/>
 </xml>

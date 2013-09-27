@@ -1,14 +1,14 @@
 <xml src="s0201m-m1.xml">
-<sutra id="m1"/>
 
-<p rend="nikaya">majjhimanikāyo</p>
 
-<div id="mn1" n="mn1" type="book">
-<head rend="book">mūlapaṇṇāsapāḷi</head>
+<p rend="nikaya"><nikaya>majjhimanikāyo</nikaya></p>
 
-<div id="mn1_1" n="mn1_1" type="vagga">
+<div id="mn1" n="mn1" type="book"/>
+<head rend="book"><book>mūlapaṇṇāsapāḷi</book></head>
+
+<div id="mn1_1" n="mn1_1" type="vagga"/>
 <head rend="chapter">1. mūlapariyāyavaggo</head>
-
+<sutra id="m1"/>
 <p rend="subhead">1. mūlapariyāyasuttaṃ</p>
 
 <p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> evaṃ <pb ed="M" n="1.0001"/><pb ed="V" n="1.0001"/><pb ed="P" n="1.0001"/><pb ed="T" n="1.0001"/> me sutaṃ – ekaṃ samayaṃ bhagavā ukkaṭṭhāyaṃ viharati subhagavane sālarājamūle| tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti| ‘‘bhadante’’ti te bhikkhū bhagavato paccassosuṃ| bhagavā etadavoca – ‘‘sabbadhammamūlapariyāyaṃ vo, bhikkhave, desessāmi| taṃ suṇātha, sādhukaṃ manasi karotha, bhāsissāmī’’ti| ‘‘evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ| bhagavā etadavoca –</p>
