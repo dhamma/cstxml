@@ -1,13 +1,13 @@
 <xml src="s0202a-m51.xml">
-<sutra id="m51"/>
 
 <p rend="nikaya">majjhimanikāye</p>
 
-<div id="mn2" n="mn2" type="book">
-<head rend="book">majjhimapaṇṇāsa-aṭṭhakathā</head>
+<div id="mn2" n="mn2" type="book"/>
+<head rend="book"><book>majjhimapaṇṇāsa-aṭṭhakathā</book></head>
 
-<div id="mn2_1" n="mn2_1" type="vagga">
+<div id="mn2_1" n="mn2_1" type="vagga"/>
 <head rend="chapter">1. gahapativaggo</head>
+<sutra id="m51"/>
 
 <p rend="subhead">1. kandarakasuttavaṇṇanā</p>
 

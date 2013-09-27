@@ -1,14 +1,13 @@
 <xml src="s0201a-m1.xml">
-<sutra id="m1"/>
 
 <p rend="nikaya">majjhimanikāye</p>
 
-<div id="mn1" n="mn1" type="book">
-<head rend="book">mūlapaṇṇāsa-aṭṭhakathā</head>
-
+<div id="mn1" n="mn1" type="book"/>
+<head rend="book"><book>mūlapaṇṇāsa-aṭṭhakathā</book></head>
+<sutra id="m0"/>
 <p rend="subhead">(paṭhamo bhāgo)</p>
 
-<div id="mn1_0" n="mn1_0" type="vagga">
+<div id="mn1_0" n="mn1_0" type="vagga"/>
 <p rend="subsubhead">ganthārambhakathā</p>
 
 <p rend="gatha1">karuṇāsītalahadayaṃ<pb ed="V" n="1.0001"/><pb ed="M" n="1.0001"/><pb ed="P" n="1.0001"/>, paññāpajjotavihatamohatamaṃ|</p>
@@ -90,11 +89,11 @@
 <p rend="gathalast">anusandhinayā ete, majjhimassa pakāsitā’’ti||</p>
 
 <p rend="bodytext">tattha paṇṇāsāsu <hi rend="bold">mūlapaṇṇāsā</hi> ādi, vaggesu <hi rend="bold">mūlapariyāyavaggo,</hi> suttesu <hi rend="bold">mūlapariyāyasuttaṃ</hi>| tassāpi ‘‘evaṃ me suta’’ntiādikaṃ āyasmatā ānandena paṭhamamahāsaṅgītikāle vuttaṃ nidānamādi| sā panesā paṭhamamahāsaṅgīti sumaṅgalavilāsiniyā dīghanikāyaṭṭhakathāya ādimhi vitthāritā| tasmā sā tattha vitthāritanayeneva veditabbā|</p>
-</div>
+<vaggaend/>
 
-<div id="mn1_1" n="mn1_1" type="vagga">
+<div id="mn1_1" n="mn1_1" type="vagga"/>
 <head rend="chapter">1. mūlapariyāyavaggo</head>
-
+<sutra id="m1"/>
 <p rend="subhead">1. mūlapariyāyasuttavaṇṇanā</p>
 
 <p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> yaṃ <pb ed="V" n="1.0005"/><pb ed="M" n="1.0004"/><pb ed="P" n="1.0003"/> panetaṃ ‘‘evaṃ me suta’’ntiādikaṃ nidānaṃ| tattha <hi rend="bold">eva</hi>nti nipātapadaṃ| <hi rend="bold">me</hi>tiādīni nāmapadāni| <hi rend="bold">ukkaṭṭhāyaṃ viharatī</hi>ti ettha <hi rend="bold">vī</hi>ti upasaggapadaṃ, <hi rend="bold">haratī</hi>ti ākhyātapadanti iminā tāva nayena padavibhāgo veditabbo|</p>
