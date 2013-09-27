@@ -1,0 +1,687 @@
+<xml src="s0301m-s3.xml">
+<sutra id="s3"/>
+<div id="sn1_3" n="sn1_3" type="samyutta">
+<head rend="chapter">3. kosalasaṃyuttaṃ</head>
+
+<p rend="title">1. paṭhamavaggo</p>
+
+<p rend="subhead">1. daharasuttaṃ</p>
+
+<p rend="bodytext" n="112"><hi rend="paranum">112</hi><hi rend="dot">.</hi> evaṃ <pb ed="T" n="1.0098"/><pb ed="V" n="1.0084"/><pb ed="M" n="1.0068"/><pb ed="P" n="1.0068"/> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme| atha kho rājā pasenadi kosalo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi| sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca – ‘‘bhavampi no gotamo anuttaraṃ sammāsambodhiṃ abhisambuddhoti paṭijānātī’’ti? ‘‘yañhi taṃ, mahārāja, sammā vadamāno vadeyya ‘anuttaraṃ sammāsambodhiṃ abhisambuddho’ti, mameva <note>mamaṃ (sabbattha)</note> taṃ sammā vadamāno vadeyya| ahañhi, mahārāja, anuttaraṃ sammāsambodhiṃ abhisambuddho’’ti|</p>
+
+<p rend="bodytext">‘‘yepi te, bho gotama, samaṇabrāhmaṇā saṅghino gaṇino gaṇācariyā ñātā yasassino titthakarā sādhusammatā bahujanassa, seyyathidaṃ – pūraṇo kassapo, makkhali gosālo, nigaṇṭho nāṭaputto, sañcayo belaṭṭhaputto, pakudho kaccāyano, ajito kesakambalo; tepi mayā <pb ed="T" n="1.0099"/> ‘anuttaraṃ sammāsambodhiṃ abhisambuddhoti paṭijānāthā’ti puṭṭhā samānā anuttaraṃ sammāsambodhiṃ abhisambuddhoti na paṭijānanti| kiṃ pana bhavaṃ gotamo daharo ceva jātiyā navo ca pabbajjāyā’’ti?</p>
+
+<p rend="bodytext">‘‘cattāro <pb ed="P" n="1.0069"/> kho me, mahārāja, daharāti na uññātabbā, daharāti na paribhotabbā| katame cattāro? khattiyo kho, mahārāja, daharoti na uññātabbo, daharoti na paribhotabbo| urago kho, mahārāja, daharoti na uññātabbo, daharoti na paribhotabbo| aggi <pb ed="V" n="1.0085"/> kho, mahārāja, daharoti na uññātabbo, daharoti na paribhotabbo| bhikkhu, kho, mahārāja, daharoti na uññātabbo, daharoti na paribhotabbo| ime kho, mahārāja, cattāro daharāti na uññātabbā, daharāti na paribhotabbā’’ti|</p>
+
+<p rend="bodytext">idamavoca <pb ed="M" n="1.0069"/> bhagavā| idaṃ vatvāna sugato athāparaṃ etadavoca satthā –</p>
+
+<p rend="gatha1">‘‘khattiyaṃ jātisampannaṃ, abhijātaṃ yasassinaṃ|</p>
+
+<p rend="gathalast">daharoti nāvajāneyya, na naṃ paribhave naro||</p>
+
+<p rend="gatha1">‘‘ṭhānañhi so manujindo, rajjaṃ laddhāna khattiyo|</p>
+
+<p rend="gatha2">so kuddho rājadaṇḍena, tasmiṃ pakkamate bhusaṃ|</p>
+
+<p rend="gathalast">tasmā taṃ parivajjeyya, rakkhaṃ jīvitamattano||</p>
+
+<p rend="gatha1">‘‘gāme vā yadi vā raññe, yattha passe bhujaṅgamaṃ|</p>
+
+<p rend="gathalast">daharoti nāvajāneyya, na naṃ paribhave naro||</p>
+
+<p rend="gatha1">‘‘uccāvacehi <pb ed="T" n="1.0100"/> vaṇṇehi, urago carati tejasī <note>tejasā (sī. ka.), tejasi (pī. ka.)</note>|</p>
+
+<p rend="gatha2">so āsajja ḍaṃse bālaṃ, naraṃ nāriñca ekadā|</p>
+
+<p rend="gathalast">tasmā taṃ parivajjeyya, rakkhaṃ jīvitamattano||</p>
+
+<p rend="gatha1">‘‘pahūtabhakkhaṃ jālinaṃ, pāvakaṃ kaṇhavattaniṃ|</p>
+
+<p rend="gathalast">daharoti nāvajāneyya, na naṃ paribhave naro||</p>
+
+<p rend="gatha1">‘‘laddhā hi so upādānaṃ, mahā hutvāna pāvako|</p>
+
+<p rend="gatha2">so āsajja ḍahe <note>dahe</note> bālaṃ, naraṃ nāriñca ekadā|</p>
+
+<p rend="gathalast">tasmā taṃ parivajjeyya, rakkhaṃ jīvitamattano||</p>
+
+<p rend="gatha1">‘‘vanaṃ yadaggi ḍahati <note>dahati (ka.)</note>, pāvako kaṇhavattanī|</p>
+
+<p rend="gathalast">jāyanti tattha pārohā, ahorattānamaccaye||</p>
+
+<p rend="gatha1">‘‘yañca <pb ed="V" n="1.0086"/> kho sīlasampanno, bhikkhu ḍahati tejasā|</p>
+
+<p rend="gatha2">na tassa puttā pasavo, dāyādā vindare dhanaṃ|</p>
+
+<p rend="gathalast">anapaccā adāyādā, tālāvatthū bhavanti te||</p>
+
+<p rend="gatha1">‘‘tasmā <pb ed="P" n="1.0070"/> hi paṇḍito poso, sampassaṃ atthamattano|</p>
+
+<p rend="gatha2">bhujaṅgamaṃ pāvakañca, khattiyañca yasassinaṃ|</p>
+
+<p rend="gathalast">bhikkhuñca sīlasampannaṃ, sammadeva samācare’’ti||</p>
+
+<p rend="bodytext">evaṃ vutte, rājā pasenadi kosalo bhagavantaṃ etadavoca – ‘‘abhikkantaṃ, bhante, abhikkantaṃ, bhante! seyyathāpi bhante, nikkujjitaṃ <note>nikujjitaṃ (?)</note> vā ukkujjeyya<pb ed="M" n="1.0070"/>, paṭicchannaṃ vā vivareyya, mūḷhassa vā maggaṃ ācikkheyya<pb ed="T" n="1.0101"/>, andhakāre vā telapajjotaṃ dhāreyya – ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṃ bhagavatā anekapariyāyena dhammo pakāsito| esāhaṃ, bhante, bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca| upāsakaṃ maṃ, bhante, bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata’’nti|</p>
+
+<p rend="subhead">2. purisasuttaṃ</p>
+
+<p rend="bodytext" n="113"><hi rend="paranum">113</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| atha kho rājā pasenadi kosalo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca – ‘‘kati nu kho, bhante, purisassa dhammā ajjhattaṃ uppajjamānā uppajjanti ahitāya dukkhāya aphāsuvihārāyā’’ti?</p>
+
+<p rend="bodytext">‘‘tayo kho, mahārāja, purisassa dhammā ajjhattaṃ uppajjamānā uppajjanti ahitāya dukkhāya aphāsuvihārāya| katame tayo? lobho kho, mahārāja, purisassa dhammo ajjhattaṃ uppajjamāno uppajjati ahitāya dukkhāya aphāsuvihārāya| doso kho, mahārāja, purisassa dhammo ajjhattaṃ uppajjamāno uppajjati ahitāya dukkhāya aphāsuvihārāya| moho kho, mahārāja, purisassa dhammo ajjhattaṃ uppajjamāno uppajjati ahitāya dukkhāya aphāsuvihārāya<pb ed="V" n="1.0087"/>| ime kho, mahārāja, tayo purisassa dhammā ajjhattaṃ uppajjamānā uppajjanti ahitāya dukkhāya aphāsuvihārāyā’’ti| idamavoca…pe.…</p>
+
+<p rend="gatha1">‘‘lobho <pb ed="T" n="1.0102"/> doso ca moho ca, purisaṃ pāpacetasaṃ|</p>
+
+<p rend="gathalast">hiṃsanti attasambhūtā, tacasāraṃva samphala’’nti <note>sapphalanti (syā. kaṃ.)</note>||</p>
+
+<p rend="subhead">3. jarāmaraṇasuttaṃ</p>
+
+<p rend="bodytext" n="114"><hi rend="paranum">114</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="P" n="1.0071"/>| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca – ‘‘atthi nu kho, bhante, jātassa aññatra jarāmaraṇā’’ti? ‘‘natthi kho, mahārāja, jātassa aññatra jarāmaraṇā| yepi te, mahārāja, khattiyamahāsālā aḍḍhā mahaddhanā mahābhogā pahūtajātarūparajatā <pb ed="M" n="1.0071"/> pahūtavittūpakaraṇā pahūtadhanadhaññā, tesampi jātānaṃ natthi aññatra jarāmaraṇā| yepi te, mahārāja, brāhmaṇamahāsālā…pe.… gahapatimahāsālā aḍḍhā mahaddhanā mahābhogā pahūtajātarūparajatā pahūtavittūpakaraṇā pahūtadhanadhaññā, tesampi jātānaṃ natthi aññatra jarāmaraṇā| yepi te, mahārāja, bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṃyojanā sammadaññāvimuttā, tesaṃ pāyaṃ kāyo bhedanadhammo nikkhepanadhammo’’ti| idamavoca…pe.…</p>
+
+<p rend="gatha1">‘‘jīranti ve rājarathā sucittā,</p>
+
+<p rend="gatha2">atho sarīrampi jaraṃ upeti|</p>
+
+<p rend="gatha3">satañca dhammo na jaraṃ upeti,</p>
+
+<p rend="gathalast">santo have sabbhi pavedayantī’’ti||</p>
+
+<p rend="subhead">4. piyasuttaṃ</p>
+
+<p rend="bodytext" n="115"><hi rend="paranum">115</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="T" n="1.0103"/>| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca <pb ed="V" n="1.0088"/> – ‘‘idha mayhaṃ, bhante, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi – ‘kesaṃ nu kho piyo attā, kesaṃ appiyo attā’ti? tassa mayhaṃ, bhante, etadahosi – ‘ye ca kho keci kāyena duccaritaṃ caranti, vācāya duccaritaṃ caranti, manasā duccaritaṃ caranti; tesaṃ appiyo attā’| kiñcāpi te evaṃ vadeyyuṃ – ‘piyo no attā’ti, atha kho tesaṃ appiyo attā| taṃ kissa hetu? yañhi appiyo appiyassa <pb ed="P" n="1.0072"/> kareyya, taṃ te attanāva attano karonti; tasmā tesaṃ appiyo attā| ye ca kho keci kāyena sucaritaṃ caranti, vācāya sucaritaṃ caranti, manasā sucaritaṃ caranti; tesaṃ piyo attā| kiñcāpi te evaṃ vadeyyuṃ – ‘appiyo no attā’ti; atha kho tesaṃ piyo attā| taṃ kissa hetu? yañhi piyo piyassa kareyya, taṃ te attanāva attano karonti; tasmā tesaṃ piyo attā’’ti|</p>
+
+<p rend="bodytext">‘‘evametaṃ, mahārāja, evametaṃ, mahārāja! ye hi keci, mahārāja, kāyena duccaritaṃ caranti, vācāya duccaritaṃ caranti, manasā duccaritaṃ caranti; tesaṃ appiyo attā| kiñcāpi te evaṃ vadeyyuṃ – ‘piyo no attā’ti, atha kho tesaṃ appiyo attā| taṃ kissa hetu? yañhi, mahārāja, appiyo appiyassa kareyya, taṃ te attanāva attano karonti; tasmā tesaṃ appiyo attā| ye ca kho keci, mahārāja<pb ed="T" n="1.0104"/>, kāyena <pb ed="M" n="1.0072"/> sucaritaṃ caranti, vācāya sucaritaṃ caranti, manasā sucaritaṃ caranti; tesaṃ piyo attā| kiñcāpi te evaṃ vadeyyuṃ – ‘appiyo no attā’ti; atha kho tesaṃ piyo attā| taṃ kissa hetu? yañhi mahārāja, piyo piyassa kareyya, taṃ te attanāva attano karonti; tasmā tesaṃ piyo attā’’ti| idamavoca…pe.…</p>
+
+<p rend="gatha1">‘‘attānañce piyaṃ jaññā, na naṃ pāpena saṃyuje|</p>
+
+<p rend="gathalast">na hi taṃ sulabhaṃ hoti, sukhaṃ dukkaṭakārinā||</p>
+
+<p rend="gatha1">‘‘antakenādhipannassa, jahato mānusaṃ bhavaṃ|</p>
+
+<p rend="gatha2">kiñhi tassa sakaṃ hoti, kiñca ādāya gacchati|</p>
+
+<p rend="gathalast">kiñcassa anugaṃ hoti, chāyāva anapāyinī <note>anupāyinī (syā. kaṃ. ka.)</note>||</p>
+
+<p rend="gatha1">‘‘ubho <pb ed="V" n="1.0089"/> puññañca pāpañca, yaṃ macco kurute idha|</p>
+
+<p rend="gatha2">tañhi tassa sakaṃ hoti, tañca <note>taṃva (?)</note> ādāya gacchati|</p>
+
+<p rend="gathalast">tañcassa <note>taṃvassa (?)</note> anugaṃ hoti, chāyāva anapāyinī||</p>
+
+<p rend="gatha1">‘‘tasmā kareyya kalyāṇaṃ, nicayaṃ samparāyikaṃ|</p>
+
+<p rend="gathalast">puññāni paralokasmiṃ, patiṭṭhā honti pāṇina’’ntntti||</p>
+
+<p rend="subhead">5. attarakkhitasuttaṃ</p>
+
+<p rend="bodytext" n="116"><hi rend="paranum">116</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca – ‘‘idha mayhaṃ, bhante, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko <pb ed="T" n="1.0105"/> udapādi – ‘kesaṃ nu kho rakkhito attā, kesaṃ arakkhito attā’ti? tassa mayhaṃ, bhante, etadahosi – ‘ye kho keci kāyena duccaritaṃ caranti, vācāya duccaritaṃ caranti, manasā duccaritaṃ caranti; tesaṃ arakkhito attā| kiñcāpi te hatthikāyo vā rakkheyya, assakāyo vā rakkheyya, rathakāyo vā rakkheyya, pattikāyo <pb ed="P" n="1.0073"/> vā rakkheyya; atha kho tesaṃ arakkhito attā| taṃ kissa hetu? bāhirā hesā rakkhā, nesā rakkhā ajjhattikā; tasmā tesaṃ arakkhito attā| ye ca kho keci kāyena sucaritaṃ caranti, vācāya sucaritaṃ caranti, manasā sucaritaṃ caranti; tesaṃ rakkhito attā| kiñcāpi te neva hatthikāyo rakkheyya, na assakāyo rakkheyya, na rathakāyo rakkheyya<pb ed="M" n="1.0073"/>, na pattikāyo rakkheyya; atha kho tesaṃ rakkhito attā| taṃ kissa hetu? ajjhattikā hesā rakkhā, nesā rakkhā bāhirā; tasmā tesaṃ rakkhito attā’’’ti|</p>
+
+<p rend="bodytext">‘‘evametaṃ, mahārāja, evametaṃ, mahārāja! ye hi keci, mahārāja, kāyena duccaritaṃ caranti…pe.… tesaṃ arakkhito attā| taṃ kissa hetu? bāhirā hesā, mahārāja, rakkhā, nesā rakkhā ajjhattikā; tasmā tesaṃ arakkhito attā| ye ca kho keci, mahārāja, kāyena sucaritaṃ caranti, vācāya sucaritaṃ caranti, manasā sucaritaṃ caranti; tesaṃ rakkhito attā| kiñcāpi te neva hatthikāyo rakkheyya, na assakāyo <pb ed="T" n="1.0106"/> rakkheyya, na rathakāyo rakkheyya, na pattikāyo rakkheyya; atha kho tesaṃ rakkhito attā| taṃ kissa hetu? ajjhattikā <pb ed="V" n="1.0090"/> hesā, mahārāja, rakkhā, nesā rakkhā bāhirā; tasmā tesaṃ rakkhito attā’’ti| idamavoca…pe.…</p>
+
+<p rend="gatha1">‘‘kāyena saṃvaro sādhu, sādhu vācāya saṃvaro|</p>
+
+<p rend="gatha2">manasā saṃvaro sādhu, sādhu sabbattha saṃvaro|</p>
+
+<p rend="gathalast">sabbattha saṃvuto lajjī, rakkhitoti pavuccatī’’ti||</p>
+
+<p rend="subhead">6. appakasuttaṃ</p>
+
+<p rend="bodytext" n="117"><hi rend="paranum">117</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca – ‘‘idha mayhaṃ, bhante, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi – ‘appakā te sattā lokasmiṃ ye uḷāre uḷāre bhoge labhitvā na ceva majjanti, na ca pamajjanti, na ca kāmesu gedhaṃ āpajjanti, na ca sattesu vippaṭipajjanti| atha kho eteva bahutarā sattā lokasmiṃ ye uḷāre uḷāre bhoge labhitvā majjanti ceva pamajjanti<pb ed="P" n="1.0074"/>, ca kāmesu ca gedhaṃ āpajjanti, sattesu ca vippaṭipajjantī’’’ti|</p>
+
+<p rend="bodytext">‘‘evametaṃ, mahārāja, evametaṃ, mahārāja! appakā te, mahārāja, sattā lokasmiṃ, ye uḷāre uḷāre bhoge labhitvā na ceva majjanti, na ca pamajjanti, na ca kāmesu gedhaṃ āpajjanti, na <pb ed="T" n="1.0107"/> ca sattesu vippaṭipajjanti| atha kho eteva bahutarā sattā lokasmiṃ, ye uḷāre uḷāre bhoge labhitvā <pb ed="M" n="1.0074"/> majjanti ceva pamajjanti ca kāmesu ca gedhaṃ āpajjanti, sattesu ca vippaṭipajjantī’’ti| idamavoca…pe.…</p>
+
+<p rend="gatha1">‘‘sārattā kāmabhogesu, giddhā kāmesu mucchitā|</p>
+
+<p rend="gatha2">atisāraṃ na bujjhanti, migā kūṭaṃva oḍḍitaṃ|</p>
+
+<p rend="gathalast">pacchāsaṃ kaṭukaṃ hoti, vipāko hissa pāpako’’ti||</p>
+
+<p rend="subhead">7. aḍḍakaraṇasuttaṃ</p>
+
+<p rend="bodytext" n="118"><hi rend="paranum">118</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="V" n="1.0091"/>| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca – ‘‘idhāhaṃ, bhante, aḍḍakaraṇe <note>atthakaraṇe (sī. syā. kaṃ. pī.)</note> nisinno passāmi khattiyamahāsālepi brāhmaṇamahāsālepi gahapatimahāsālepi aḍḍhe mahaddhane mahābhoge pahūtajātarūparajate pahūtavittūpakaraṇe pahūtadhanadhaññe kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ sampajānamusā bhāsante| tassa mayhaṃ, bhante, etadahosi – ‘alaṃ dāni me aḍḍakaraṇena, bhadramukho dāni aḍḍakaraṇena paññāyissatī’’’ti|</p>
+
+<p rend="bodytext">‘‘(evametaṃ, mahārāja, evametaṃ mahārāja!) <note>( ) sī. pī. potthakesu natthi</note> yepi te, mahārāja, khattiyamahāsālā brāhmaṇamahāsālā gahapatimahāsālā aḍḍhā mahaddhanā mahābhogā pahūtajātarūparajatā pahūtavittūpakaraṇā <pb ed="T" n="1.0108"/> pahūtadhanadhaññā kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ sampajānamusā bhāsanti; tesaṃ taṃ bhavissati dīgharattaṃ ahitāya dukkhāyā’’ti| idamavoca…pe.…</p>
+
+<p rend="gatha1">‘‘sārattā kāmabhogesu, giddhā kāmesu mucchitā|</p>
+
+<p rend="gatha2">atisāraṃ na bujjhanti, macchā khippaṃva oḍḍitaṃ|</p>
+
+<p rend="gathalast">pacchāsaṃ kaṭukaṃ hoti, vipāko hissa pāpako’’ti||</p>
+
+<p rend="subhead">8. mallikāsuttaṃ</p>
+
+<p rend="bodytext" n="119"><hi rend="paranum">119</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="P" n="1.0075"/>| tena kho pana samayena rājā pasenadi kosalo mallikāya deviyā saddhiṃ uparipāsādavaragato hoti| atha kho rājā pasenadi kosalo mallikaṃ deviṃ etadavoca – ‘‘atthi nu kho te, mallike, kocañño attanā piyataro’’ti? ‘‘natthi kho me, mahārāja, kocañño attanā piyataro| tuyhaṃ pana, mahārāja, atthañño <pb ed="M" n="1.0075"/> koci attanā piyataro’’ti? ‘‘mayhampi kho, mallike, natthañño koci attanā piyataro’’ti|</p>
+
+<p rend="bodytext">atha kho rājā pasenadi kosalo pāsādā orohitvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi| ekamantaṃ nisinno kho rājā pasenadi <pb ed="V" n="1.0092"/> kosalo bhagavantaṃ etadavoca – ‘‘idhāhaṃ, bhante, mallikāya deviyā saddhiṃ uparipāsādavaragato mallikaṃ deviṃ etadavocaṃ – ‘atthi nu kho te, mallike, kocañño <pb ed="T" n="1.0109"/> attanā piyataro’ti? evaṃ vutte, bhante, mallikā devī maṃ etadavoca – ‘natthi kho me, mahārāja, kocañño attanā piyataro| tuyhaṃ pana, mahārāja, atthañño koci attanā piyataro’ti? evaṃ vuttāhaṃ, bhante, mallikaṃ deviṃ etadavocaṃ – ‘mayhampi kho, mallike, natthañño koci attanā piyataro’’ti|</p>
+
+<p rend="bodytext">atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi –</p>
+
+<p rend="gatha1">‘‘sabbā disā anuparigamma cetasā,</p>
+
+<p rend="gatha2">nevajjhagā piyataramattanā kvaci|</p>
+
+<p rend="gatha3">evaṃ piyo puthu attā paresaṃ,</p>
+
+<p rend="gathalast">tasmā na hiṃse paramattakāmo’’ti||</p>
+
+<p rend="subhead">9. yaññasuttaṃ</p>
+
+<p rend="bodytext" n="120"><hi rend="paranum">120</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| tena kho pana samayena rañño pasenadissa kosalassa mahāyañño paccupaṭṭhito hoti, pañca ca usabhasatāni pañca ca vacchatarasatāni pañca ca vacchatarisatāni pañca ca <pb ed="P" n="1.0076"/> ajasatāni pañca ca urabbhasatāni thūṇūpanītāni honti yaññatthāya| yepissa te honti dāsāti vā pessāti vā kammakarāti vā, tepi daṇḍatajjitā bhayatajjitā assumukhā rudamānā parikammāni karonti|</p>
+
+<p rend="bodytext">atha kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya <pb ed="T" n="1.0110"/> sāvatthiṃ piṇḍāya pavisiṃsu| sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu| ekamantaṃ nisinno kho te bhikkhū bhagavantaṃ etadavocuṃ – ‘‘idha, bhante, rañño pasenadissa kosalassa mahāyañño paccupaṭṭhito <pb ed="M" n="1.0076"/> hoti, pañca ca usabhasatāni pañca ca vacchatarasatāni pañca ca vacchatarisatāni pañca ca ajasatāni pañca ca urabbhasatāni thūṇūpanītāni honti yaññatthāya<pb ed="V" n="1.0093"/>| yepissa te honti dāsāti vā pessāti vā kammakarāti vā, tepi daṇḍatajjitā bhayatajjitā assumukhā rudamānā parikammāni karontī’’ti|</p>
+
+<p rend="bodytext">atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imā gāthāyo abhāsi –</p>
+
+<p rend="gatha1">‘‘assamedhaṃ purisamedhaṃ, sammāpāsaṃ vājapeyyaṃ niraggaḷhaṃ|</p>
+
+<p rend="gathalast">mahāyaññā mahārambhā <note>vājapeyyuṃ| niraggaḷaṃ mahārambhā (ka.)</note>, na te honti mahapphalā||</p>
+
+<p rend="gatha1">‘‘ajeḷakā ca gāvo ca, vividhā yattha haññare|</p>
+
+<p rend="gathalast">na taṃ sammaggatā yaññaṃ, upayanti mahesino||</p>
+
+<p rend="gatha1">‘‘ye ca yaññā nirārambhā, yajanti anukulaṃ sadā|</p>
+
+<p rend="gatha2">ajeḷakā ca gāvo ca, vividhā nettha haññare|</p>
+
+<p rend="gathalast">etaṃ <pb ed="T" n="1.0111"/> sammaggatā yaññaṃ, upayanti mahesino||</p>
+
+<p rend="gatha1">‘‘etaṃ yajetha medhāvī, eso yañño mahapphalo|</p>
+
+<p rend="gatha2">etañhi yajamānassa, seyyo hoti na pāpiyo|</p>
+
+<p rend="gathalast">yañño ca vipulo hoti, pasīdanti ca devatā’’ti||</p>
+
+<p rend="subhead">10. bandhanasuttaṃ</p>
+
+<p rend="bodytext" n="121"><hi rend="paranum">121</hi><hi rend="dot">.</hi> tena kho pana samayena raññā pasenadinā kosalena mahājanakāyo bandhāpito hoti, appekacce rajjūhi appekacce andūhi appekacce saṅkhalikāhi|</p>
+
+<p rend="bodytext">atha <pb ed="P" n="1.0077"/> kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pavisiṃsu| sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu| ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ – ‘‘idha, bhante, raññā pasenadinā kosalena mahājanakāyo <pb ed="V" n="1.0094"/> bandhāpito, appekacce rajjūhi appekacce andūhi appekacce saṅkhalikāhī’’ti|</p>
+
+<p rend="bodytext">atha <pb ed="M" n="1.0077"/> kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imā gāthāyo abhāsi –</p>
+
+<p rend="gatha1">‘‘na <pb ed="T" n="1.0112"/> taṃ daḷhaṃ bandhanamāhu dhīrā,</p>
+
+<p rend="gatha2">yadāyasaṃ dārujaṃ pabbajañca|</p>
+
+<p rend="gatha1">sārattarattā maṇikuṇḍalesu,</p>
+
+<p rend="gathalast">puttesu dāresu ca yā apekkhā||</p>
+
+<p rend="gatha1">‘‘etaṃ daḷhaṃ bandhanamāhu dhīrā,</p>
+
+<p rend="gatha2">ohārinaṃ sithilaṃ duppamuñcaṃ|</p>
+
+<p rend="gatha1">etampi chetvāna paribbajanti,</p>
+
+<p rend="gathalast">anapekkhino kāmasukhaṃ pahāyā’’ti||</p>
+
+<p rend="centre">paṭhamo vaggo|</p>
+
+<p rend="bodytext">tassuddānaṃ –</p>
+
+<p rend="gatha1">daharo puriso jarā, piyaṃ attānarakkhito|</p>
+
+<p rend="gatha2">appakā aḍḍakaraṇaṃ, mallikā yaññabandhananti||</p>
+
+<p rend="title">2. dutiyavaggo</p>
+
+<p rend="subhead">1. sattajaṭilasuttaṃ</p>
+
+<p rend="bodytext" n="122"><hi rend="paranum">122</hi><hi rend="dot">.</hi> ekaṃ <pb ed="T" n="1.0113"/> samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde| tena kho pana samayena bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito bahidvārakoṭṭhake nisinno hoti| atha <pb ed="V" n="1.0095"/> kho rājā pasenadi kosalo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi|</p>
+
+<p rend="bodytext">tena <pb ed="P" n="1.0078"/> kho pana samayena satta ca jaṭilā satta ca nigaṇṭhā satta ca acelakā satta ca ekasāṭakā satta ca paribbājakā parūḷhakacchanakhalomā khārivividhamādāya <note>khārividhaṃ ādāya (pī.) dī. ni. 1.280 tadaṭṭhakathāpi oloketabbā</note> bhagavato avidūre atikkamanti| atha kho rājā pasenadi kosalo uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā dakkhiṇajāṇumaṇḍalaṃ <pb ed="M" n="1.0078"/> pathaviyaṃ nihantvā yena te satta ca jaṭilā satta ca nigaṇṭhā satta ca acelakā satta ca ekasāṭakā satta ca paribbājakā tenañjaliṃ paṇāmetvā tikkhattuṃ nāmaṃ sāvesi – ‘‘rājāhaṃ, bhante, pasenadi kosalo…pe.… rājāhaṃ, bhante, pasenadi kosalo’’ti|</p>
+
+<p rend="bodytext">atha kho rājā pasenadi kosalo acirapakkantesu tesu <pb ed="T" n="1.0114"/> sattasu ca jaṭilesu sattasu ca nigaṇṭhesu sattasu ca acelakesu sattasu ca ekasāṭakesu sattasu ca paribbājakesu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca – ‘‘ye te, bhante, loke arahanto vā arahattamaggaṃ vā samāpannā ete tesaṃ aññatarā’’ti|</p>
+
+<p rend="bodytext">‘‘dujjānaṃ kho etaṃ, mahārāja, tayā gihinā kāmabhoginā puttasambādhasayanaṃ ajjhāvasantena kāsikacandanaṃ paccanubhontena mālāgandhavilepanaṃ dhārayantena jātarūparajataṃ sādiyantena – ‘ime vā arahanto, ime vā arahattamaggaṃ samāpannā’’’ti|</p>
+
+<p rend="bodytext">‘‘saṃvāsena kho, mahārāja, sīlaṃ veditabbaṃ| tañca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena| saṃvohārena kho, mahārāja, soceyyaṃ veditabbaṃ| tañca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena| āpadāsu kho, mahārāja, thāmo veditabbo| so ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena| sākacchāya<pb ed="P" n="1.0079"/>, kho, mahārāja, paññā veditabbā| sā ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no <pb ed="T" n="1.0115"/> amanasikarotā; paññavatā, no duppaññenā’’ti|</p>
+
+<p rend="bodytext">‘‘acchariyaṃ<pb ed="V" n="1.0096"/>, bhante, abbhutaṃ bhante! yāva subhāsitamidaṃ, bhante, bhagavatā – ‘dujjānaṃ kho etaṃ, mahārāja, tayā gihinā kāmabhoginā puttasambādhasayanaṃ ajjhāvasantena kāsikacandanaṃ paccanubhontena mālāgandhavilepanaṃ dhārayantena jātarūparajataṃ sādiyantena – ime vā arahanto, ime vā arahattamaggaṃ samāpannā’ti| saṃvāsena kho, mahārāja, sīlaṃ veditabbaṃ| tañca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena| saṃvohārena kho mahārāja<pb ed="M" n="1.0079"/>, soceyyaṃ veditabbaṃ| tañca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena| āpadāsu kho, mahārāja, thāmo veditabbo| so ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññena| sākacchāya kho, mahārāja, paññā veditabbā| sā ca kho dīghena addhunā, na ittaraṃ; manasikarotā, no amanasikarotā; paññavatā, no duppaññenā’’ti|</p>
+
+<p rend="bodytext">‘‘ete, bhante, mama purisā carā ocarakā janapadaṃ ocaritvā āgacchanti| tehi paṭhamaṃ ociṇṇaṃ ahaṃ pacchā osāpayissāmi <note>oyāyissāmi (sī.), ohayissāmi (syā. kaṃ.)</note>| idāni te, bhante, taṃ rajojallaṃ pavāhetvā sunhātā suvilittā kappitakesamassū odātavatthā <note>odātavatthavasanā (sī.)</note> pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricāressantī’’ti|</p>
+
+<p rend="bodytext">atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imā gāthāyo abhāsi –</p>
+
+<p rend="gatha1">‘‘na vaṇṇarūpena naro sujāno,</p>
+
+<p rend="gatha2">na vissase ittaradassanena|</p>
+
+<p rend="gatha2">susaññatānañhi viyañjanena,</p>
+
+<p rend="gathalast">asaññatā lokamimaṃ caranti||</p>
+
+<p rend="gatha1">‘‘patirūpako mattikākuṇḍalova,</p>
+
+<p rend="gatha2">lohaḍḍhamāsova suvaṇṇachanno|</p>
+
+<p rend="gatha2">caranti <pb ed="T" n="1.0116"/> loke <note>eke (sī. pī.)</note> parivārachannā,</p>
+
+<p rend="gathalast">anto asuddhā bahi sobhamānā’’ti||</p>
+
+<p rend="subhead">2. pañcarājasuttaṃ</p>
+
+<p rend="bodytext" n="123"><hi rend="paranum">123</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="V" n="1.0097"/>| tena kho pana samayena pañcannaṃ rājūnaṃ pasenadipamukhānaṃ pañcahi kāmaguṇehi samappitānaṃ samaṅgībhūtānaṃ paricārayamānānaṃ ayamantarākathā udapādi – ‘‘kiṃ nu kho kāmānaṃ agga’’nti? tatrekacce <note>tatreke (sī. pī.)</note> evamāhaṃsu – ‘‘rūpā kāmānaṃ agga’’nti| ekacce evamāhaṃsu <pb ed="M" n="1.0080"/> – ‘‘saddā kāmānaṃ agga’’nti| ekacce evamāhaṃsu – ‘‘gandhā kāmānaṃ agga’’nti| ekacce evamāhaṃsu – ‘‘rasā kāmānaṃ agga’’nti| ekacce evamāhaṃsu <pb ed="P" n="1.0080"/> – ‘‘phoṭṭhabbā kāmānaṃ agga’’nti| yato kho te rājāno nāsakkhiṃsu aññamaññaṃ saññāpetuṃ|</p>
+
+<p rend="bodytext">atha kho rājā pasenadi kosalo te rājāno etadavoca – ‘‘āyāma, mārisā, yena bhagavā tenupasaṅkamissāma; upasaṅkamitvā bhagavantaṃ etamatthaṃ paṭipucchissāma| yathā no bhagavā byākarissati tathā naṃ dhāressāmā’’ti <note>dhāreyyāmāti (sī. syā. kaṃ. pī.)</note>| ‘‘evaṃ, mārisā’’ti kho te rājāno rañño pasenadissa kosalassa paccassosuṃ|</p>
+
+<p rend="bodytext">atha kho te pañca rājāno pasenadipamukhā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca <pb ed="T" n="1.0117"/> – ‘‘idha, bhante, amhākaṃ pañcannaṃ rājūnaṃ pañcahi kāmaguṇehi samappitānaṃ samaṅgībhūtānaṃ paricārayamānānaṃ ayamantarākathā udapādi – ‘kiṃ nu kho kāmānaṃ agga’nti? ekacce evamāhaṃsu – ‘rūpā kāmānaṃ agga’nti| ekacce evamāhaṃsu – ‘saddā kāmānaṃ agga’nti| ekacce evamāhaṃsu – ‘gandhā kāmānaṃ agga’nti| ekacce evamāhaṃsu – ‘rasā kāmānaṃ agga’nti| ekacce evamāhaṃsu – ‘phoṭṭhabbā kāmānaṃ agga’nti| kiṃ nu kho, bhante, kāmānaṃ agga’’nti?</p>
+
+<p rend="bodytext">‘‘manāpapariyantaṃ khvāhaṃ, mahārāja, pañcasu kāmaguṇesu agganti vadāmi| teva <note>te ca (sī. pī. ka.), ye ca (syā. kaṃ.)</note>, mahārāja, rūpā ekaccassa manāpā honti, teva <note>te ca (sī. pī. ka.)</note> rūpā ekaccassa amanāpā honti| yehi ca yo rūpehi attamano hoti paripuṇṇasaṅkappo, so tehi rūpehi aññaṃ rūpaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti| te tassa rūpā paramā honti| te tassa rūpā anuttarā honti|</p>
+
+<p rend="bodytext">‘‘teva<pb ed="V" n="1.0098"/>, mahārāja, saddā ekaccassa manāpā honti, teva saddā ekaccassa amanāpā honti| yehi ca yo saddehi attamano hoti paripuṇṇasaṅkappo, so tehi saddehi aññaṃ saddaṃ uttaritaraṃ vā <pb ed="M" n="1.0081"/> paṇītataraṃ vā na pattheti| te tassa saddā paramā honti| te tassa saddā anuttarā honti|</p>
+
+<p rend="bodytext">‘‘teva, mahārāja, gandhā ekaccassa manāpā honti, teva gandhā ekaccassa amanāpā honti| yehi ca yo gandhehi attamano hoti paripuṇṇasaṅkappo, so tehi gandhehi aññaṃ gandhaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti| te tassa gandhā paramā honti| te tassa gandhā anuttarā honti|</p>
+
+<p rend="bodytext">‘‘teva, mahārāja, rasā ekaccassa manāpā honti, teva rasā ekaccassa amanāpā honti| yehi ca yo rasehi attamano hoti paripuṇṇasaṅkappo, so tehi rasehi aññaṃ rasaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti| te tassa rasā paramā honti| te tassa rasā anuttarā honti|</p>
+
+<p rend="bodytext">‘‘teva, mahārāja, phoṭṭhabbā ekaccassa manāpā honti, teva phoṭṭhabbā ekaccassa amanāpā honti| yehi <pb ed="P" n="1.0081"/> ca yo phoṭṭhabbehi attamano hoti paripuṇṇasaṅkappo, so tehi phoṭṭhabbehi aññaṃ phoṭṭhabbaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti| te tassa <pb ed="T" n="1.0118"/> phoṭṭhabbā paramā honti| te tassa phoṭṭhabbā anuttarā hontī’’ti|</p>
+
+<p rend="bodytext">tena kho pana samayena candanaṅgaliko upāsako tassaṃ parisāyaṃ nisinno hoti| atha kho candanaṅgaliko upāsako uṭṭhāyāsanā ekaṃsaṃ uttarāsaṅgaṃ karitvā yena bhagavā tenañjaliṃ paṇāmetvā bhagavantaṃ etadavoca – ‘‘paṭibhāti maṃ bhagavā, paṭibhāti maṃ sugatā’’ti| ‘‘paṭibhātu taṃ candanaṅgalikā’’ti bhagavā avoca|</p>
+
+<p rend="bodytext">atha kho candanaṅgaliko upāsako bhagavato sammukhā tadanurūpāya gāthāya abhitthavi –</p>
+
+<p rend="gatha1">‘‘padumaṃ <pb ed="V" n="1.0099"/> yathā kokanadaṃ sugandhaṃ,</p>
+
+<p rend="gatha2">pāto siyā phullamavītagandhaṃ|</p>
+
+<p rend="gatha3">aṅgīrasaṃ passa virocamānaṃ,</p>
+
+<p rend="gathalast">tapantamādiccamivantalikkhe’’ti||</p>
+
+<p rend="bodytext">atha <pb ed="M" n="1.0082"/> kho te pañca rājāno candanaṅgalikaṃ upāsakaṃ pañcahi uttarāsaṅgehi acchādesuṃ| atha kho candanaṅgaliko upāsako tehi pañcahi uttarāsaṅgehi bhagavantaṃ acchādesīti|</p>
+
+<p rend="subhead">3. doṇapākasuttaṃ</p>
+
+<p rend="bodytext" n="124"><hi rend="paranum">124</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| tena kho pana samayena rājā pasenadi kosalo doṇapākakuraṃ <note>doṇapākasudaṃ (sī.), doṇapākaṃ sudaṃ (pī.)</note> bhuñjati| atha kho rājā pasenadi <pb ed="T" n="1.0119"/> kosalo bhuttāvī mahassāsī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi|</p>
+
+<p rend="bodytext">atha kho bhagavā rājānaṃ pasenadiṃ kosalaṃ bhuttāviṃ mahassāsiṃ viditvā tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi –</p>
+
+<p rend="gatha1">‘‘manujassa sadā satīmato,</p>
+
+<p rend="gatha2">mattaṃ jānato laddhabhojane|</p>
+
+<p rend="gatha3">tanukassa <note>tanu tassa (sī. pī.)</note> bhavanti vedanā,</p>
+
+<p rend="gathalast">saṇikaṃ jīrati āyupālaya’’nti||</p>
+
+<p rend="bodytext">tena <pb ed="P" n="1.0082"/> kho pana samayena sudassano māṇavo rañño pasenadissa kosalassa piṭṭhito ṭhito hoti| atha kho rājā pasenadi kosalo sudassanaṃ māṇavaṃ āmantesi – ‘‘ehi tvaṃ, tāta sudassana, bhagavato santike imaṃ gāthaṃ pariyāpuṇitvā mama bhattābhihāre (bhattābhihāre) <note>( ) sī. syā. kaṃ. pī. potthakesu natthi</note> bhāsa| ahañca te devasikaṃ kahāpaṇasataṃ (kahāpaṇasataṃ) <note>( ) sī. syā. kaṃ. potthakesu natthi</note> niccaṃ bhikkhaṃ pavattayissāmī’’ti| ‘‘evaṃ devā’’ti kho sudassano māṇavo rañño pasenadissa kosalassa paṭissutvā bhagavato santike imaṃ gāthaṃ pariyāpuṇitvā rañño pasenadissa kosalassa bhattābhihāre sudaṃ bhāsati –</p>
+
+<p rend="gatha1">‘‘manujassa <pb ed="V" n="1.0100"/> sadā satīmato,</p>
+
+<p rend="gatha2">mattaṃ jānato laddhabhojane|</p>
+
+<p rend="gatha3">tanukassa <pb ed="T" n="1.0120"/> bhavanti vedanā,</p>
+
+<p rend="gathalast">saṇikaṃ jīrati āyupālaya’’nti||</p>
+
+<p rend="bodytext">atha <pb ed="M" n="1.0083"/> kho rājā pasenadi kosalo anupubbena nāḷikodanaparamatāya <note>nāḷikodanamattāya (ka.)</note> saṇṭhāsi| atha kho rājā pasenadi kosalo aparena samayena susallikhitagatto pāṇinā gattāni anumajjanto tāyaṃ velāyaṃ imaṃ udānaṃ udānesi – ‘‘ubhayena vata maṃ so bhagavā atthena anukampi – diṭṭhadhammikena ceva atthena samparāyikena cā’’ti|</p>
+
+<p rend="subhead">4. paṭhamasaṅgāmasuttaṃ</p>
+
+<p rend="bodytext" n="125"><hi rend="paranum">125</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| atha kho rājā māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā rājānaṃ pasenadiṃ kosalaṃ abbhuyyāsi yena kāsi| assosi kho rājā pasenadi kosalo – ‘‘rājā kira māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā mamaṃ abbhuyyāto yena kāsī’’ti| atha <pb ed="P" n="1.0083"/> kho rājā pasenadi kosalo caturaṅginiṃ senaṃ sannayhitvā rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ paccuyyāsi yena kāsi| atha kho rājā ca māgadho ajātasattu vedehiputto rājā ca pasenadi kosalo saṅgāmesuṃ| tasmiṃ kho pana saṅgāme rājā māgadho ajātasattu vedehiputto rājānaṃ pasenadiṃ kosalaṃ parājesi| parājito ca rājā pasenadi kosalo sakameva <note>saṅgāmā (ka.)</note> rājadhāniṃ sāvatthiṃ paccuyyāsi <note>pāyāsi (sī. pī.)</note>|</p>
+
+<p rend="bodytext">atha <pb ed="T" n="1.0121"/> kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pavisiṃsu| sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu| ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ –</p>
+
+<p rend="bodytext">‘‘idha, bhante, rājā māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā rājānaṃ pasenadiṃ kosalaṃ abbhuyyāsi yena kāsi| assosi kho, bhante, rājā pasenadi kosalo – ‘rājā <pb ed="V" n="1.0101"/> kira māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā mamaṃ abbhuyyāto yena kāsī’ti| atha kho, bhante, rājā pasenadi kosalo <pb ed="M" n="1.0084"/> caturaṅginiṃ senaṃ sannayhitvā rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ paccuyyāsi yena kāsi| atha kho, bhante, rājā ca māgadho ajātasattu vedehiputto rājā ca pasenadi kosalo saṅgāmesuṃ| tasmiṃ kho pana, bhante, saṅgāme rājā māgadho ajātasattu vedehiputto rājānaṃ pasenadiṃ kosalaṃ parājesi| parājito ca, bhante, rājā pasenadi kosalo sakameva rājadhāniṃ sāvatthiṃ paccuyyāsī’’ti|</p>
+
+<p rend="bodytext">‘‘rājā, bhikkhave, māgadho ajātasattu vedehiputto pāpamitto pāpasahāyo pāpasampavaṅko; rājā ca kho, bhikkhave, pasenadi kosalo kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko| ajjeva <note>ajjatañca (sī. pī.), ajjevaṃ (syā. kaṃ.)</note>, bhikkhave<pb ed="T" n="1.0122"/>, rājā pasenadi kosalo imaṃ rattiṃ dukkhaṃ seti parājito’’ti| idamavoca…pe.…</p>
+
+<p rend="gatha1">‘‘jayaṃ veraṃ pasavati, dukkhaṃ seti parājito|</p>
+
+<p rend="gathalast">upasanto sukhaṃ seti, hitvā jayaparājaya’’nti||</p>
+
+<p rend="subhead">5. dutiyasaṅgāmasuttaṃ</p>
+
+<p rend="bodytext" n="126"><hi rend="paranum">126</hi><hi rend="dot">.</hi> <note>ettha ‘‘atha kho rājā pasenadi kosalo caturaṅginiṃ senaṃ sannayhitvā rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ abbhuyyāsī’’ti ādinā pāṭhena bhavitabbaṃ| aṭṭhakathāyaṃ hi ‘‘abbhuyyāsīti parājaye garahappatto…pe.… vuttajayakāraṇaṃ sutvā abhiuyyāsī’’ti vuttaṃ</note> atha kho rājā māgadho ajātasattu vedehiputto caturaṅginiṃ <pb ed="P" n="1.0084"/> senaṃ sannayhitvā rājānaṃ pasenadiṃ kosalaṃ abbhuyyāsi yena kāsi| assosi kho rājā pasenadi kosalo – ‘‘rājā kira māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā mamaṃ abbhuyyāto yena kāsī’’ti| atha kho rājā pasenadi kosalo caturaṅginiṃ senaṃ sannayhitvā rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ paccuyyāsi yena kāsi| atha kho rājā ca māgadho ajātasattu vedehiputto rājā ca pasenadi kosalo saṅgāmesuṃ| tasmiṃ kho pana saṅgāme rājā pasenadi kosalo rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ parājesi, jīvaggāhañca naṃ aggahesi| atha kho rañño pasenadissa kosalassa etadahosi – ‘‘kiñcāpi kho myāyaṃ <pb ed="M" n="1.0085"/> rājā māgadho ajātasattu vedehiputto adubbhantassa dubbhati, atha ca pana me bhāgineyyo hoti| yaṃnūnāhaṃ rañño māgadhassa ajātasattuno vedehiputtassa sabbaṃ hatthikāyaṃ pariyādiyitvā sabbaṃ <pb ed="V" n="1.0102"/> assakāyaṃ pariyādiyitvā sabbaṃ rathakāyaṃ pariyādiyitvā sabbaṃ <pb ed="T" n="1.0123"/> pattikāyaṃ pariyādiyitvā jīvantameva naṃ osajjeyya’’nti <note>ossajjeyyanti (sī. syā. kaṃ. pī.)</note>|</p>
+
+<p rend="bodytext">atha kho rājā pasenadi kosalo rañño māgadhassa ajātasattuno vedehiputtassa sabbaṃ hatthikāyaṃ pariyādiyitvā sabbaṃ assakāyaṃ pariyādiyitvā sabbaṃ rathakāyaṃ pariyādiyitvā sabbaṃ pattikāyaṃ pariyādiyitvā jīvantameva naṃ osajji <note>ossaji (sī.), ossajji (syā. kaṃ. pī.)</note>|</p>
+
+<p rend="bodytext">atha kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiṃ piṇḍāya pavisiṃsu| sāvatthiyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu| ekamantaṃ nisinnā kho te bhikkhū bhagavantaṃ etadavocuṃ –</p>
+
+<p rend="bodytext">‘‘idha<pb ed="P" n="1.0085"/>, bhante, rājā māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā rājānaṃ pasenadiṃ kosalaṃ abbhuyyāsi yena kāsi| assosi kho, bhante, rājā pasenadi kosalo – ‘rājā kira māgadho ajātasattu vedehiputto caturaṅginiṃ senaṃ sannayhitvā mamaṃ abbhuyyāto yena kāsī’ti| atha kho, bhante, rājā pasenadi kosalo caturaṅginiṃ senaṃ sannayhitvā rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ paccuyyāsi yena kāsi| atha kho, bhante, rājā ca māgadho ajātasattu vedehiputto rājā ca pasenadi kosalo saṅgāmesuṃ| tasmiṃ kho pana, bhante, saṅgāme rājā pasenadi kosalo rājānaṃ māgadhaṃ ajātasattuṃ vedehiputtaṃ parājesi, jīvaggāhañca naṃ aggahesi| atha kho, bhante, rañño pasenadissa <pb ed="T" n="1.0124"/> kosalassa etadahosi – ‘kiñcāpi kho myāyaṃ rājā māgadho ajātasattu vedehiputto adubbhantassa dubbhati, atha ca pana me bhāgineyyo hoti| yaṃnūnāhaṃ rañño māgadhassa ajātasattuno vedehiputtassa sabbaṃ hatthikāyaṃ pariyādiyitvā sabbaṃ assakāyaṃ sabbaṃ rathakāyaṃ sabbaṃ pattikāyaṃ pariyādiyitvā jīvantameva naṃ osajjeyya’’’nti|</p>
+
+<p rend="bodytext">‘‘atha <pb ed="M" n="1.0086"/> kho, bhante, rājā pasenadi kosalo rañño māgadhassa ajātasattuno vedehiputtassa sabbaṃ hatthikāyaṃ pariyādiyitvā sabbaṃ assakāyaṃ pariyādiyitvā sabbaṃ rathakāyaṃ pariyādiyitvā <pb ed="V" n="1.0103"/> sabbaṃ pattikāyaṃ pariyādiyitvā jīvantameva naṃ osajjī’’ti| atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imā gāthāyo abhāsi –</p>
+
+<p rend="gatha1">‘‘vilumpateva puriso, yāvassa upakappati|</p>
+
+<p rend="gathalast">yadā caññe vilumpanti, so vilutto viluppati <note>vilumpati (sī. pī. ka.)</note>||</p>
+
+<p rend="gatha1">‘‘ṭhānañhi maññati bālo, yāva pāpaṃ na paccati|</p>
+
+<p rend="gathalast">yadā ca paccati pāpaṃ, atha dukkhaṃ nigacchati||</p>
+
+<p rend="gatha1">‘‘hantā labhati <note>labhati hantā (sī. syā. kaṃ.)</note> hantāraṃ, jetāraṃ labhate jayaṃ|</p>
+
+<p rend="gatha2">akkosako ca akkosaṃ, rosetārañca rosako|</p>
+
+<p rend="gathalast">atha kammavivaṭṭena, so vilutto viluppatī’’ti||</p>
+
+<p rend="subhead">6. mallikāsuttaṃ</p>
+
+<p rend="bodytext" n="127"><hi rend="paranum">127</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="T" n="1.0125"/><pb ed="P" n="1.0086"/>| atha kho rājā pasenadi kosalo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi| atha kho aññataro puriso yena rājā pasenadi kosalo tenupasaṅkami; upasaṅkamitvā rañño pasenadissa kosalassa upakaṇṇake ārocesi – ‘‘mallikā, deva, devī dhītaraṃ vijātā’’ti| evaṃ vutte, rājā pasenadi kosalo anattamano ahosi|</p>
+
+<p rend="bodytext">atha kho bhagavā rājānaṃ pasenadiṃ kosalaṃ anattamanataṃ viditvā tāyaṃ velāyaṃ imā gāthāyo abhāsi –</p>
+
+<p rend="gatha1">‘‘itthīpi hi ekacciyā, seyyā posa janādhipa|</p>
+
+<p rend="gathalast">medhāvinī sīlavatī, sassudevā patibbatā||</p>
+
+<p rend="gatha1">‘‘tassā <pb ed="V" n="1.0104"/> yo jāyati poso, sūro hoti disampati|</p>
+
+<p rend="gathalast">tādisā subhagiyā <note>subhariyāputto (ka.)</note> putto, rajjampi anusāsatī’’ti||</p>
+
+<p rend="subhead">7. appamādasuttaṃ</p>
+
+<p rend="bodytext" n="128"><hi rend="paranum">128</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="M" n="1.0087"/>| ekamantaṃ nisīdi| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca – ‘‘atthi nu kho, bhante, eko dhammo yo ubho atthe samadhiggayha tiṭṭhati – diṭṭhadhammikañceva atthaṃ samparāyikañcā’’ti?</p>
+
+<p rend="bodytext">‘‘atthi kho, mahārāja, eko dhammo yo ubho atthe samadhiggayha tiṭṭhati – diṭṭhadhammikañceva atthaṃ samparāyikañcā’’ti|</p>
+
+<p rend="bodytext">‘‘katamo <pb ed="T" n="1.0126"/> pana, bhante, eko dhammo, yo ubho atthe samadhiggayha tiṭṭhati – diṭṭhadhammikañceva atthaṃ samparāyikañcā’’ti?</p>
+
+<p rend="bodytext">‘‘appamādo kho, mahārāja, eko dhammo, yo ubho atthe samadhiggayha tiṭṭhati – diṭṭhadhammikañceva atthaṃ samparāyikañcāti| seyyathāpi, mahārāja, yāni kānici jaṅgalānaṃ <note>jaṅgamānaṃ (sī. pī.)</note> pāṇānaṃ padajātāni, sabbāni tāni hatthipade samodhānaṃ gacchanti, hatthipadaṃ tesaṃ aggamakkhāyati – yadidaṃ mahantattena; evameva kho, mahārāja, appamādo eko dhammo, yo ubho <pb ed="P" n="1.0087"/> atthe samadhiggayha tiṭṭhati – diṭṭhadhammikañceva atthaṃ samparāyikañcā’’ti| idamavoca…pe.…</p>
+
+<p rend="gatha1">‘‘āyuṃ arogiyaṃ vaṇṇaṃ, saggaṃ uccākulīnataṃ|</p>
+
+<p rend="gathalast">ratiyo patthayantena, uḷārā aparāparā||</p>
+
+<p rend="gatha1">‘‘appamādaṃ pasaṃsanti, puññakiriyāsu paṇḍitā|</p>
+
+<p rend="gathalast">appamatto ubho atthe, adhiggaṇhāti paṇḍito||</p>
+
+<p rend="gatha1">‘‘diṭṭhe <pb ed="V" n="1.0105"/> dhamme ca yo attho, yo cattho samparāyiko|</p>
+
+<p rend="gathalast">atthābhisamayā dhīro, paṇḍitoti pavuccatī’’ti||</p>
+
+<p rend="subhead">8. kalyāṇamittasuttaṃ</p>
+
+<p rend="bodytext" n="129"><hi rend="paranum">129</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca – ‘‘idha mayhaṃ<pb ed="T" n="1.0127"/>, bhante, rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi – ‘svākkhāto bhagavatā dhammo, so ca kho kalyāṇamittassa kalyāṇasahāyassa kalyāṇasampavaṅkassa, no pāpamittassa no pāpasahāyassa no pāpasampavaṅkassā’’’ti|</p>
+
+<p rend="bodytext">‘‘evametaṃ, mahārāja, evametaṃ, mahārāja! svākkhāto<pb ed="M" n="1.0088"/>, mahārāja, mayā dhammo| so ca kho kalyāṇamittassa kalyāṇasahāyassa kalyāṇasampavaṅkassa, no pāpamittassa no pāpasahāyassa no pāpasampavaṅkassāti|</p>
+
+<p rend="bodytext">‘‘ekamidāhaṃ, mahārāja, samayaṃ sakkesu viharāmi nagarakaṃ nāma sakyānaṃ nigamo| atha kho, mahārāja, ānando bhikkhu yenāhaṃ tenupasaṅkami; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ nisīdi| ekamantaṃ nisinno kho, mahārāja, ānando bhikkhu maṃ etadavoca – ‘upaḍḍhamidaṃ, bhante, brahmacariyassa – yadidaṃ kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā’’’ti|</p>
+
+<p rend="bodytext">‘‘evaṃ vuttāhaṃ, mahārāja, ānandaṃ bhikkhuṃ etadavocaṃ – ‘mā hevaṃ, ānanda, mā hevaṃ, ānanda! sakalameva hidaṃ, ānanda, brahmacariyaṃ – yadidaṃ kalyāṇamittatā <pb ed="P" n="1.0088"/> kalyāṇasahāyatā kalyāṇasampavaṅkatā| kalyāṇamittassetaṃ, ānanda, bhikkhuno pāṭikaṅkhaṃ kalyāṇasahāyassa kalyāṇasampavaṅkassa ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāvessati ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarissati’’’|</p>
+
+<p rend="bodytext">‘‘kathañca, ānanda, bhikkhu kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko <pb ed="T" n="1.0128"/> ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti, ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti? idhānanda, bhikkhu sammādiṭṭhiṃ bhāveti <pb ed="V" n="1.0106"/> vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ, sammāsaṅkappaṃ bhāveti…pe.… sammāvācaṃ bhāveti…pe.… sammākammantaṃ bhāveti…pe.… sammāājīvaṃ bhāveti…pe.… sammāvāyāmaṃ bhāveti…pe.… sammāsatiṃ bhāveti…pe.… sammāsamādhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ| evaṃ kho, ānanda, bhikkhu kalyāṇamitto kalyāṇasahāyo kalyāṇasampavaṅko ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāveti, ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkaroti| tadamināpetaṃ, ānanda, pariyāyena veditabbaṃ yathā sakalamevidaṃ brahmacariyaṃ – yadidaṃ kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā’’ti|</p>
+
+<p rend="bodytext">‘‘mamañhi, ānanda, kalyāṇamittaṃ āgamma jātidhammā sattā jātiyā parimuccanti, jarādhammā sattā jarāya parimuccanti, byādhidhammā sattā byādhito parimuccanti, maraṇadhammā sattā maraṇena parimuccanti, sokaparidevadukkhadomanassupāyāsadhammā sattā sokaparidevadukkhadomanassupāyāsehi parimuccanti| iminā kho etaṃ, ānanda, pariyāyena veditabbaṃ yathā sakalamevidaṃ <pb ed="M" n="1.0089"/> brahmacariyaṃ – yadidaṃ kalyāṇamittatā kalyāṇasahāyatā kalyāṇasampavaṅkatā’’ti|</p>
+
+<p rend="bodytext">‘‘tasmātiha te, mahārāja, evaṃ sikkhitabbaṃ – ‘kalyāṇamitto bhavissāmi kalyāṇasahāyo kalyāṇasampavaṅko’ti| evañhi te<pb ed="T" n="1.0129"/>, mahārāja, sikkhitabbaṃ|</p>
+
+<p rend="bodytext">‘‘kalyāṇamittassa te, mahārāja, kalyāṇasahāyassa kalyāṇasampavaṅkassa ayaṃ eko <pb ed="P" n="1.0089"/> dhammo upanissāya vihātabbo – appamādo kusalesu dhammesu|</p>
+
+<p rend="bodytext">‘‘appamattassa te, mahārāja, viharato appamādaṃ upanissāya, itthāgārassa anuyantassa evaṃ bhavissati – ‘rājā kho appamatto viharati, appamādaṃ upanissāya| handa, mayampi appamattā viharāma, appamādaṃ upanissāyā’’’ti|</p>
+
+<p rend="bodytext">‘‘appamattassa <pb ed="V" n="1.0107"/> te, mahārāja, viharato appamādaṃ upanissāya, khattiyānampi anuyantānaṃ evaṃ bhavissati – ‘rājā kho appamatto viharati appamādaṃ upanissāya| handa, mayampi appamattā viharāma, appamādaṃ upanissāyā’’’ti|</p>
+
+<p rend="bodytext">‘‘appamattassa te, mahārāja, viharato appamādaṃ upanissāya, balakāyassapi evaṃ bhavissati – ‘rājā kho appamatto viharati appamādaṃ upanissāya| handa, mayampi appamattā viharāma, appamādaṃ upanissāyā’’’ti|</p>
+
+<p rend="bodytext">‘‘appamattassa te, mahārāja, viharato appamādaṃ upanissāya, negamajānapadassapi evaṃ bhavissati – ‘rājā kho appamatto viharati, appamādaṃ upanissāya| handa, mayampi appamattā viharāma, appamādaṃ upanissāyā’’’ti?</p>
+
+<p rend="bodytext">‘‘appamattassa te, mahārāja, viharato appamādaṃ upanissāya, attāpi gutto rakkhito bhavissati – itthāgārampi guttaṃ rakkhitaṃ bhavissati, kosakoṭṭhāgārampi guttaṃ rakkhitaṃ bhavissatī’’ti| idamavoca…pe.…</p>
+
+<p rend="gatha1">‘‘bhoge <pb ed="T" n="1.0130"/> patthayamānena, uḷāre aparāpare|</p>
+
+<p rend="gathalast">appamādaṃ pasaṃsanti, puññakiriyāsu paṇḍitā||</p>
+
+<p rend="gatha1">‘‘appamatto ubho atthe, adhiggaṇhāti paṇḍito|</p>
+
+<p rend="gatha2">diṭṭhe <pb ed="M" n="1.0090"/> dhamme ca yo attho, yo cattho samparāyiko|</p>
+
+<p rend="gathalast">atthābhisamayā dhīro, paṇḍitoti pavuccatī’’ti||</p>
+
+<p rend="subhead">9. paṭhamaputtakasuttaṃ</p>
+
+<p rend="bodytext" n="130"><hi rend="paranum">130</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| atha kho rājā pasenadi kosalo divā divassa yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi| ekamantaṃ nisinnaṃ kho rājānaṃ pasenadiṃ kosalaṃ bhagavā etadavoca – ‘‘handa, kuto nu tvaṃ, mahārāja, āgacchasi divā divassā’’ti?</p>
+
+<p rend="bodytext">‘‘idha, bhante, sāvatthiyaṃ seṭṭhi gahapati kālaṅkato| tamahaṃ aputtakaṃ sāpateyyaṃ rājantepuraṃ atiharitvā āgacchāmi| asīti, bhante, satasahassāni hiraññasseva, ko pana <pb ed="P" n="1.0090"/> vādo rūpiyassa<pb ed="V" n="1.0108"/>! tassa kho pana, bhante, seṭṭhissa gahapatissa evarūpo bhattabhogo ahosi – kaṇājakaṃ bhuñjati bilaṅgadutiyaṃ| evarūpo vatthabhogo ahosi – sāṇaṃ dhāreti tipakkhavasanaṃ| evarūpo yānabhogo ahosi – jajjararathakena yāti paṇṇachattakena dhāriyamānenā’’ti|</p>
+
+<p rend="bodytext">‘‘evametaṃ, mahārāja, evametaṃ, mahārāja! asappuriso kho, mahārāja, uḷāre bhoge labhitvā nevattānaṃ sukheti pīṇeti, na mātāpitaro sukheti pīṇeti, na puttadāraṃ sukheti pīṇeti, na dāsakammakaraporise <pb ed="T" n="1.0131"/> sukheti pīṇeti, na mittāmacce sukheti pīṇeti, na samaṇabrāhmaṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhāpeti sovaggikaṃ sukhavipākaṃ saggasaṃvattanikaṃ| tassa te bhoge evaṃ sammā aparibhuñjiyamāne <note>aparibhuñjamāno (sabbattha)</note> rājāno vā haranti corā vā haranti aggi vā ḍahati udakaṃ vā vahati appiyā vā dāyādā haranti| evaṃsa te <note>evaṃ sante (sī. pī.)</note>, mahārāja, bhogā sammā aparibhuñjiyamānā parikkhayaṃ gacchanti, no paribhogaṃ|</p>
+
+<p rend="bodytext">‘‘seyyathāpi, mahārāja, amanussaṭṭhāne pokkharaṇī acchodakā sītodakā sātodakā setodakā supatitthā ramaṇīyā| taṃ jano neva hareyya na piveyya na nahāyeyya na yathāpaccayaṃ vā kareyya| evañhi taṃ, mahārāja, udakaṃ sammā aparibhuñjiyamānaṃ <note>aparibhuñjamānaṃ (syā. kaṃ.)</note> parikkhayaṃ gaccheyya<pb ed="M" n="1.0091"/>, no paribhogaṃ| evameva kho, mahārāja, asappuriso uḷāre bhoge labhitvā nevattānaṃ sukheti pīṇeti, na mātāpitaro sukheti pīṇeti, na puttadāraṃ sukheti pīṇeti, na dāsakammakaraporise sukheti pīṇeti, na mittāmacce sukheti pīṇeti, na samaṇabrāhmaṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhāpeti sovaggikaṃ sukhavipākaṃ saggasaṃvattanikaṃ| tassa te bhoge evaṃ sammā aparibhuñjiyamāne rājāno vā haranti corā vā haranti aggi vā ḍahati udakaṃ vā vahati appiyā vā dāyādā haranti| evaṃsa te <note>evaṃ sante (sī. pī.)</note>, mahārāja, bhogā sammā aparibhuñjiyamānā parikkhayaṃ gacchanti, no paribhogaṃ|</p>
+
+<p rend="bodytext">‘‘sappuriso ca kho, mahārāja, uḷāre bhoge labhitvā attānaṃ sukheti pīṇeti, mātāpitaro sukheti pīṇeti, puttadāraṃ sukheti pīṇeti, dāsakammakaraporise sukheti pīṇeti, mittāmacce sukheti pīṇeti, samaṇabrāhmaṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhāpeti sovaggikaṃ <pb ed="T" n="1.0132"/> sukhavipākaṃ saggasaṃvattanikaṃ| tassa te bhoge evaṃ sammā paribhuñjiyamāne neva rājāno haranti<pb ed="V" n="1.0109"/><pb ed="P" n="1.0091"/>, na corā haranti, na aggi ḍahati, na udakaṃ vahati, na appiyā dāyādā haranti| evaṃsa te, mahārāja, bhogā sammā paribhuñjiyamānā paribhogaṃ gacchanti, no parikkhayaṃ|</p>
+
+<p rend="bodytext">‘‘seyyathāpi, mahārāja, gāmassa vā nigamassa vā avidūre pokkharaṇī acchodakā sītodakā sātodakā setodakā supatitthā ramaṇīyā| tañca udakaṃ jano hareyyapi piveyyapi nahāyeyyapi yathāpaccayampi kareyya| evañhi taṃ, mahārāja, udakaṃ sammā paribhuñjiyamānaṃ paribhogaṃ gaccheyya, no parikkhayaṃ| evameva kho, mahārāja, sappuriso uḷāre bhoge labhitvā attānaṃ sukheti pīṇeti, mātāpitaro sukheti pīṇeti, puttadāraṃ sukheti pīṇeti, dāsakammakaraporise sukheti pīṇeti, mittāmacce sukheti pīṇeti, samaṇabrāhmaṇesu uddhaggikaṃ dakkhiṇaṃ patiṭṭhāpeti sovaggikaṃ sukhavipākaṃ saggasaṃvattanikaṃ| tassa te bhoge evaṃ sammā paribhuñjiyamāne neva rājāno haranti, na corā haranti, na aggi ḍahati, na udakaṃ vahati, na appiyā dāyādā haranti| evaṃsa te, mahārāja, bhogā sammā paribhuñjiyamānā paribhogaṃ gacchanti, no parikkhaya’’nti|</p>
+
+<p rend="gatha1">‘‘amanussaṭṭhāne <pb ed="M" n="1.0092"/> udakaṃva sītaṃ,</p>
+
+<p rend="gatha2">tadapeyyamānaṃ parisosameti|</p>
+
+<p rend="gatha3">evaṃ dhanaṃ kāpuriso labhitvā,</p>
+
+<p rend="gathalast">nevattanā bhuñjati no dadāti||</p>
+
+<p rend="gatha1">dhīro ca viññū adhigamma bhoge,</p>
+
+<p rend="gatha2">so bhuñjati kiccakaro ca hoti|</p>
+
+<p rend="gatha3">so ñātisaṅghaṃ nisabho bharitvā,</p>
+
+<p rend="gathalast">anindito saggamupeti ṭhāna’’nti||</p>
+
+<p rend="subhead">10. dutiyaputtakasuttaṃ</p>
+
+<p rend="bodytext" n="131"><hi rend="paranum">131</hi><hi rend="dot">.</hi> atha <pb ed="T" n="1.0133"/> kho rājā pasenadi kosalo divā divassa yena bhagavā tenupasaṅkami; upasaṅkamitvā <pb ed="V" n="1.0110"/> ekamantaṃ nisinnaṃ kho rājānaṃ pasenadiṃ kosalaṃ bhagavā etadavoca – ‘‘handa, kuto nu tvaṃ, mahārāja, āgacchasi divā divassā’’ti?</p>
+
+<p rend="bodytext">‘‘idha, bhante, sāvatthiyaṃ seṭṭhi gahapati kālaṅkato| tamahaṃ aputtakaṃ sāpateyyaṃ rājantepuraṃ atiharitvā āgacchāmi| sataṃ, bhante, satasahassāni hiraññasseva, ko pana vādo rūpiyassa! tassa kho pana, bhante, seṭṭhissa gahapatissa evarūpo bhattabhogo ahosi – kaṇājakaṃ bhuñjati bilaṅgadutiyaṃ| evarūpo vatthabhogo ahosi – sāṇaṃ dhāreti tipakkhavasanaṃ<pb ed="P" n="1.0092"/>| evarūpo yānabhogo ahosi – jajjararathakena yāti paṇṇachattakena dhāriyamānenā’’ti|</p>
+
+<p rend="bodytext">‘‘evametaṃ, mahārāja, evametaṃ, mahārāja! bhūtapubbaṃ so, mahārāja, seṭṭhi gahapati taggarasikhiṃ nāma paccekasambuddhaṃ piṇḍapātena paṭipādesi| ‘detha samaṇassa piṇḍa’nti vatvā uṭṭhāyāsanā pakkāmi| datvā ca pana pacchā vippaṭisārī ahosi – ‘varametaṃ piṇḍapātaṃ dāsā vā kammakarā vā bhuñjeyyu’nti| bhātu ca pana ekaputtakaṃ sāpateyyassa kāraṇā jīvitā voropesi|</p>
+
+<p rend="bodytext">‘‘yaṃ kho so, mahārāja, seṭṭhi gahapati taggarasikhiṃ paccekasambuddhaṃ piṇḍapātena paṭipādesi, tassa kammassa vipākena sattakkhattuṃ sugatiṃ saggaṃ lokaṃ upapajji| tasseva <pb ed="T" n="1.0134"/> kammassa vipākāvasesena imissāyeva sāvatthiyā <pb ed="M" n="1.0093"/> sattakkhattuṃ seṭṭhittaṃ kāresi| yaṃ kho so, mahārāja, seṭṭhi gahapati datvā pacchā vippaṭisārī ahosi – ‘varametaṃ piṇḍapātaṃ dāsā vā kammakarā vā bhuñjeyyu’nti, tassa kammassa vipākena nāssuḷārāya bhattabhogāya cittaṃ namati, nāssuḷārāya vatthabhogāya cittaṃ namati, nāssuḷārāya yānabhogāya cittaṃ namati, nāssuḷārānaṃ pañcannaṃ kāmaguṇānaṃ bhogāya cittaṃ namati| yaṃ kho so, mahārāja, seṭṭhi gahapati bhātu ca pana ekaputtakaṃ sāpateyyassa kāraṇā jīvitā voropesi, tassa kammassa vipākena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni vassasatasahassāni niraye paccittha| tasseva kammassa vipākāvasesena idaṃ sattamaṃ aputtakaṃ sāpateyyaṃ rājakosaṃ paveseti| tassa kho, mahārāja, seṭṭhissa gahapatissa purāṇañca puññaṃ parikkhīṇaṃ, navañca puññaṃ anupacitaṃ| ajja pana, mahārāja, seṭṭhi gahapati mahāroruve niraye paccatī’’ti<pb ed="V" n="1.0111"/>| ‘‘evaṃ, bhante, seṭṭhi gahapati mahāroruvaṃ nirayaṃ upapanno’’ti| ‘‘evaṃ<pb ed="P" n="1.0093"/>, mahārāja, seṭṭhi gahapati mahāroruvaṃ nirayaṃ upapanno’’ti| idamavoca…pe.…|</p>
+
+<p rend="gatha1">‘‘dhaññaṃ dhanaṃ rajataṃ jātarūpaṃ, pariggahaṃ vāpi yadatthi kiñci|</p>
+
+<p rend="gathalast">dāsā kammakarā pessā, ye cassa anujīvino||</p>
+
+<p rend="gatha1">‘‘sabbaṃ <pb ed="T" n="1.0135"/> nādāya gantabbaṃ, sabbaṃ nikkhippagāminaṃ <note>nikkhīpagāminaṃ (syā. kaṃ. ka.)</note>|</p>
+
+<p rend="gathalast">yañca karoti kāyena, vācāya uda cetasā||</p>
+
+<p rend="gatha1">‘‘tañhi tassa sakaṃ hoti, tañca ādāya gacchati|</p>
+
+<p rend="gathalast">tañcassa anugaṃ hoti, chāyāva anapāyinī||</p>
+
+<p rend="gatha1">‘‘tasmā kareyya kalyāṇaṃ, nicayaṃ samparāyikaṃ|</p>
+
+<p rend="gathalast">puññāni paralokasmiṃ, patiṭṭhā honti pāṇina’’ntntti||</p>
+
+<p rend="centre">dutiyo vaggo|</p>
+
+<p rend="bodytext">tassuddānaṃ –</p>
+
+<p rend="gatha1">jaṭilā pañca rājāno, doṇapākakurena ca|</p>
+
+<p rend="gatha2">saṅgāmena dve vuttāni, mallikā <note>dhītarā (bahūsu)</note> dve appamādena ca|</p>
+
+<p rend="gathalast">aputtakena dve vuttā, vaggo tena pavuccatīti||</p>
+
+<p rend="title">3. tatiyavaggo</p>
+
+<p rend="subhead">1. puggalasuttaṃ</p>
+
+<p rend="bodytext" n="132"><hi rend="paranum">132</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="T" n="1.0136"/><pb ed="V" n="1.0112"/><pb ed="M" n="1.0094"/>| atha kho rājā pasenadi kosalo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi| ekamantaṃ nisinnaṃ kho rājānaṃ pasenadiṃ kosalaṃ bhagavā etadavoca – ‘‘cattārome, mahārāja, puggalā santo saṃvijjamānā lokasmiṃ| katame cattāro? tamotamaparāyano, tamojotiparāyano, jotitamaparāyano, jotijotiparāyano’’|</p>
+
+<p rend="bodytext">‘‘kathañca, mahārāja puggalo tamotamaparāyano hoti? idha, mahārāja, ekacco puggalo nīce kule paccājāto hoti, caṇḍālakule vā venakule <note>veṇakule (sī. syā. kaṃ. pī.)</note> vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike<pb ed="P" n="1.0094"/>, yattha kasirena ghāsacchādo labbhati| so ca hoti dubbaṇṇo duddasiko okoṭimako bavhābādho <note>bahvābādho (ka.)</note> kāṇo vā kuṇī vā khañjo vā pakkhahato vā, na lābhī annassa pānassa vatthassa yānassa mālāgandhavilepanassa seyyāvasathapadīpeyyassa| so kāyena duccaritaṃ carati, vācāya duccaritaṃ carati, manasā duccaritaṃ carati| so kāyena duccaritaṃ caritvā vācāya duccaritaṃ caritvā manasā duccaritaṃ caritvā, kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati|</p>
+
+<p rend="bodytext">‘‘seyyathāpi, mahārāja<pb ed="T" n="1.0137"/>, puriso andhakārā vā andhakāraṃ gaccheyya, tamā vā tamaṃ gaccheyya, lohitamalā vā lohitamalaṃ gaccheyya| tathūpamāhaṃ, mahārāja, imaṃ puggalaṃ vadāmi| evaṃ kho, mahārāja, puggalo tamotamaparāyano hoti|</p>
+
+<p rend="bodytext">‘‘kathañca, mahārāja, puggalo tamojotiparāyano hoti? idha, mahārāja, ekacco puggalo nīce kule paccājāto hoti, caṇḍālakule vā venakule vā nesādakule vā rathakārakule vā pukkusakule vā dalidde appannapānabhojane kasiravuttike, yattha kasirena ghāsacchādo labbhati| so ca kho hoti dubbaṇṇo duddasiko <pb ed="M" n="1.0095"/> okoṭimako bavhābādho, kāṇo vā <pb ed="V" n="1.0113"/> kuṇī vā khañjo vā pakkhahato vā, na lābhī annassa pānassa vatthassa yānassa mālāgandhavilepanassa seyyāvasathapadīpeyyassa| so kāyena sucaritaṃ carati, vācāya sucaritaṃ carati, manasā sucaritaṃ carati| so kāyena sucaritaṃ caritvā vācāya sucaritaṃ caritvā manasā sucaritaṃ caritvā, kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati|</p>
+
+<p rend="bodytext">‘‘seyyathāpi, mahārāja, puriso pathaviyā vā pallaṅkaṃ āroheyya, pallaṅkā vā assapiṭṭhiṃ āroheyya, assapiṭṭhiyā vā hatthikkhandhaṃ āroheyya, hatthikkhandhā vā pāsādaṃ āroheyya| tathūpamāhaṃ, mahārāja, imaṃ puggalaṃ vadāmi| evaṃ kho, mahārāja, puggalo tamojotiparāyano hoti|</p>
+
+<p rend="bodytext">‘‘kathañca, mahārāja, puggalo jotitamaparāyano hoti? idha<pb ed="T" n="1.0138"/>, mahārāja, ekacco puggalo ucce kule paccājāto hoti, khattiyamahāsālakule vā brāhmaṇamahāsālakule vā gahapatimahāsālakule vā, aḍḍhe mahaddhane mahābhoge pahūtajātarūparajate <pb ed="P" n="1.0095"/> pahūtavittūpakaraṇe pahūtadhanadhaññe| so ca hoti abhirūpo dassanīyo pāsādiko, paramāya vaṇṇapokkharatāya samannāgato, lābhī annassa pānassa vatthassa yānassa mālāgandhavilepanassa seyyāvasathapadīpeyyassa| so kāyena duccaritaṃ carati, vācāya duccaritaṃ carati, manasā duccaritaṃ carati| so kāyena duccaritaṃ caritvā vācāya duccaritaṃ caritvā manasā duccaritaṃ caritvā, kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati|</p>
+
+<p rend="bodytext">‘‘seyyathāpi, mahārāja, puriso pāsādā vā hatthikkhandhaṃ oroheyya, hatthikkhandhā vā assapiṭṭhiṃ oroheyya, assapiṭṭhiyā vā pallaṅkaṃ oroheyya, pallaṅkā vā pathaviṃ oroheyya, pathaviyā vā andhakāraṃ paviseyya| tathūpamāhaṃ, mahārāja, imaṃ puggalaṃ vadāmi| evaṃ kho, mahārāja, puggalo jotitamaparāyano hoti|</p>
+
+<p rend="bodytext">‘‘kathañca, mahārāja, puggalo jotijotiparāyano hoti? idha, mahārāja, ekacco puggalo ucce kule paccājāto hoti, khattiyamahāsālakule vā brāhmaṇamahāsālakule vā gahapatimahāsālakule <pb ed="M" n="1.0096"/> vā, aḍḍhe mahaddhane mahābhoge pahūtajātarūparajate pahūtavittūpakaraṇe <pb ed="T" n="1.0139"/> pahūtadhanadhaññe| so ca hoti abhirūpo dassanīyo pāsādiko, paramāya vaṇṇapokkharatāya samannāgato<pb ed="V" n="1.0114"/>, lābhī annassa pānassa vatthassa yānassa mālāgandhavilepanassa seyyāvasathapadīpeyyassa| so kāyena sucaritaṃ carati, vācāya sucaritaṃ carati, manasā sucaritaṃ carati| so kāyena sucaritaṃ caritvā vācāya sucaritaṃ caritvā manasā sucaritaṃ caritvā, kāyassa bhedā paraṃ maraṇā sugatiṃ saggaṃ lokaṃ upapajjati|</p>
+
+<p rend="bodytext">‘‘seyyathāpi, mahārāja, puriso pallaṅkā vā pallaṅkaṃ saṅkameyya, assapiṭṭhiyā vā assapiṭṭhiṃ saṅkameyya, hatthikkhandhā vā hatthikkhandhaṃ saṅkameyya, pāsādā vā pāsādaṃ saṅkameyya| tathūpamāhaṃ, mahārāja, imaṃ puggalaṃ vadāmi| evaṃ kho, mahārāja, puggalo jotijotiparāyano hoti| ime <pb ed="P" n="1.0096"/> kho, mahārāja, cattāro puggalā santo saṃvijjamānā lokasmi’’nti| idamavoca…pe.…</p>
+
+<p rend="gatha1">‘‘daliddo puriso rāja, assaddho hoti maccharī|</p>
+
+<p rend="gathalast">kadariyo pāpasaṅkappo, micchādiṭṭhi anādaro||</p>
+
+<p rend="gatha1">‘‘samaṇe brāhmaṇe vāpi, aññe vāpi vanibbake|</p>
+
+<p rend="gathalast">akkosati paribhāsati, natthiko hoti rosako||</p>
+
+<p rend="gatha1">‘‘dadamānaṃ nivāreti, yācamānāna bhojanaṃ|</p>
+
+<p rend="gatha2">tādiso puriso rāja, mīyamāno janādhipa|</p>
+
+<p rend="gathalast">upeti nirayaṃ ghoraṃ, tamotamaparāyano||</p>
+
+<p rend="gatha1">‘‘daliddo puriso rāja, saddho hoti amaccharī|</p>
+
+<p rend="gathalast">dadāti <pb ed="T" n="1.0140"/> seṭṭhasaṅkappo, abyaggamanaso naro||</p>
+
+<p rend="gatha1">‘‘samaṇe brāhmaṇe vāpi, aññe vāpi vanibbake|</p>
+
+<p rend="gathalast">uṭṭhāya abhivādeti, samacariyāya sikkhati||</p>
+
+<p rend="gatha1">‘‘dadamānaṃ <pb ed="V" n="1.0115"/> na vāreti <note>na nivāreti (sī.)</note>, yācamānāna bhojanaṃ|</p>
+
+<p rend="gatha2">tādiso puriso rāja, mīyamāno janādhipa|</p>
+
+<p rend="gathalast">upeti tidivaṃ ṭhānaṃ, tamojotiparāyano||</p>
+
+<p rend="gatha1">‘‘aḍḍho <pb ed="M" n="1.0097"/> ce <note>aḍḍho ve (pī. ka.)</note> puriso rāja, assaddho hoti maccharī|</p>
+
+<p rend="gathalast">kadariyo pāpasaṅkappo, micchādiṭṭhi anādaro||</p>
+
+<p rend="gatha1">‘‘samaṇe brāhmaṇe vāpi, aññe vāpi vanibbake|</p>
+
+<p rend="gathalast">akkosati paribhāsati, natthiko hoti rosako||</p>
+
+<p rend="gatha1">‘‘dadamānaṃ nivāreti, yācamānāna bhojanaṃ|</p>
+
+<p rend="gatha2">tādiso puriso rāja, mīyamāno janādhipa|</p>
+
+<p rend="gathalast">upeti nirayaṃ ghoraṃ, jotitamaparāyano||</p>
+
+<p rend="gatha1">‘‘aḍḍho ce puriso rāja, saddho hoti amaccharī|</p>
+
+<p rend="gathalast">dadāti seṭṭhasaṅkappo, abyaggamanaso naro||</p>
+
+<p rend="gatha1">‘‘samaṇe brāhmaṇe vāpi, aññe vāpi vanibbake|</p>
+
+<p rend="gathalast">uṭṭhāya abhivādeti, samacariyāya sikkhati||</p>
+
+<p rend="gatha1">‘‘dadamānaṃ na vāreti, yācamānāna bhojanaṃ|</p>
+
+<p rend="gatha2">tādiso puriso rāja, mīyamāno janādhipa|</p>
+
+<p rend="gathalast">upeti tidivaṃ ṭhānaṃ, jotijotiparāyano’’ti||</p>
+
+<p rend="subhead">2. ayyikāsuttaṃ</p>
+
+<p rend="bodytext" n="133"><hi rend="paranum">133</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="T" n="1.0141"/>| ekamantaṃ nisinnaṃ kho rājānaṃ pasenadiṃ kosalaṃ bhagavā <pb ed="P" n="1.0097"/> etadavoca – ‘‘handa, kuto nu tvaṃ, mahārāja, āgacchasi divādivassā’’ti?</p>
+
+<p rend="bodytext">‘‘ayyikā <pb ed="V" n="1.0116"/> me, bhante, kālaṅkatā jiṇṇā vuḍḍhā mahallikā addhagatā vayoanuppattā vīsavassasatikā jātiyā| ayyikā kho pana me, bhante, piyā hoti manāpā| hatthiratanena cepāhaṃ, bhante, labheyyaṃ ‘mā me ayyikā kālamakāsī’ti, hatthiratanampāhaṃ dadeyyaṃ – ‘mā me ayyikā kālamakāsī’ti| assaratanena cepāhaṃ, bhante, labheyyaṃ ‘mā me ayyikā kālamakāsī’ti, assaratanampāhaṃ dadeyyaṃ – ‘mā me ayyikā kālamakāsī’ti| gāmavarena cepāhaṃ bhante, labheyyaṃ ‘mā me ayyikā kālamakāsī’ti, gāmavarampāhaṃ dadeyyaṃ – ‘mā me ayyikā kālamakāsī’ti| janapadapadesena <note>janapadena (sī. syā. pī.)</note> cepāhaṃ, bhante, labheyyaṃ <pb ed="M" n="1.0098"/> ‘mā me ayyikā kālamakāsī’ti, janapadapadesampāhaṃ dadeyyaṃ – ‘mā me ayyikā kālamakāsī’ti| ‘sabbe sattā, mahārāja, maraṇadhammā maraṇapariyosānā maraṇaṃ anatītā’ti| ‘acchariyaṃ, bhante, abbhutaṃ, bhante! yāvasubhāsitamidaṃ, bhante, bhagavatā – sabbe sattā maraṇadhammā maraṇapariyosānā maraṇaṃ anatītā’’’ti|</p>
+
+<p rend="bodytext">‘‘evametaṃ, mahārāja, evametaṃ, mahārāja! sabbe sattā maraṇadhammā <pb ed="T" n="1.0142"/> maraṇapariyosānā maraṇaṃ anatītā| seyyathāpi, mahārāja, yāni kānici kumbhakārabhājanāni āmakāni ceva pakkāni ca sabbāni tāni bhedanadhammāni bhedanapariyosānāni bhedanaṃ anatītāni; evameva kho, mahārāja, sabbe sattā maraṇadhammā maraṇapariyosānā maraṇaṃ anatītā’’ti| idamavoca…pe.…</p>
+
+<p rend="gatha1">‘‘sabbe sattā marissanti, maraṇantañhi jīvitaṃ|</p>
+
+<p rend="gatha2">yathākammaṃ gamissanti, puññapāpaphalūpagā|</p>
+
+<p rend="gathalast">nirayaṃ pāpakammantā, puññakammā ca suggatiṃ||</p>
+
+<p rend="gatha1">‘‘tasmā kareyya kalyāṇaṃ, nicayaṃ samparāyikaṃ|</p>
+
+<p rend="gathalast">puññāni paralokasmiṃ, patiṭṭhā honti pāṇina’’nti||</p>
+
+<p rend="subhead">3. lokasuttaṃ</p>
+
+<p rend="bodytext" n="134"><hi rend="paranum">134</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="P" n="1.0098"/>| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca <pb ed="V" n="1.0117"/> – ‘‘kati nu kho, bhante, lokassa dhammā uppajjamānā uppajjanti ahitāya dukkhāya aphāsuvihārāyā’’ti? ‘‘tayo kho, mahārāja, lokassa dhammā uppajjamānā uppajjanti ahitāya dukkhāya aphāsuvihārāya| katame tayo? lobho kho, mahārāja, lokassa dhammo, uppajjamāno uppajjati ahitāya dukkhāya aphāsuvihārāya| doso <pb ed="T" n="1.0143"/> kho, mahārāja, lokassa dhammo, uppajjamāno uppajjati ahitāya dukkhāya aphāsuvihārāya| moho kho, mahārāja, lokassa dhammo, uppajjamāno uppajjati ahitāya dukkhāya aphāsuvihārāya| ime kho, mahārāja, tayo lokassa dhammā uppajjamānā uppajjanti ahitāya dukkhāya aphāsuvihārāyā’’ti| idamavoca…pe.…</p>
+
+<p rend="gatha1">‘‘lobho <pb ed="M" n="1.0099"/> doso ca moho ca, purisaṃ pāpacetasaṃ|</p>
+
+<p rend="gathalast">hiṃsanti attasambhūtā, tacasāraṃva samphala’’nti||</p>
+
+<p rend="subhead">4. issattasuttaṃ</p>
+
+<p rend="bodytext" n="135"><hi rend="paranum">135</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| ekamantaṃ nisinno kho rājā pasenadi kosalo bhagavantaṃ etadavoca – ‘‘kattha nu kho, bhante, dānaṃ dātabba’’nti? ‘‘yattha kho, mahārāja, cittaṃ pasīdatī’’ti| ‘‘kattha pana, bhante, dinnaṃ mahapphala’’nti? ‘‘aññaṃ kho etaṃ, mahārāja, kattha dānaṃ dātabbaṃ, aññaṃ panetaṃ kattha dinnaṃ mahapphalanti? sīlavato kho, mahārāja, dinnaṃ mahapphalaṃ, no tathā dussīle| tena hi, mahārāja, taññevettha paṭipucchissāmi| yathā, te khameyya, tathā naṃ byākareyyāsi| taṃ kiṃ maññasi, mahārāja, idha tyassa yuddhaṃ paccupaṭṭhitaṃ saṅgāmo samupabyūḷho <note>samūpabbūḷho (sī.), samupabbuḷho (pī.)</note>| atha āgaccheyya khattiyakumāro asikkhito akatahattho akatayoggo akatūpāsano <pb ed="P" n="1.0099"/> bhīru chambhī utrāsī palāyī| bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā’’ti? ‘‘nāhaṃ, bhante, bhareyyaṃ taṃ purisaṃ, na ca me attho tādisena purisenā’’ti| ‘‘atha āgaccheyya brāhmaṇakumāro asikkhito…pe.… atha āgaccheyya vessakumāro asikkhito…pe.… atha āgaccheyya suddakumāro asikkhito…pe.… na ca me attho tādisena purisenā’’ti|</p>
+
+<p rend="bodytext">‘‘taṃ kiṃ maññasi, mahārāja, idha tyassa yuddhaṃ paccupaṭṭhitaṃ saṅgāmo samupabyūḷho| atha āgaccheyya <pb ed="V" n="1.0118"/> khattiyakumāro susikkhito katahattho katayoggo katūpāsano abhīru acchambhī anutrāsī apalāyī| bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā’’ti? ‘‘bhareyyāhaṃ, bhante<pb ed="T" n="1.0144"/>, taṃ purisaṃ, attho ca me tādisena purisenā’’ti| ‘‘atha āgaccheyya brāhmaṇakumāro…pe.… atha āgaccheyya vessakumāro…pe.… atha āgaccheyya suddakumāro susikkhito katahattho katayoggo katūpāsano abhīru acchambhī anutrāsī apalāyī| bhareyyāsi taṃ purisaṃ, attho ca te tādisena purisenā’’ti? ‘‘bhareyyāhaṃ, bhante, taṃ purisaṃ, attho ca me tādisena purisenā’’ti|</p>
+
+<p rend="bodytext">‘‘evameva kho, mahārāja, yasmā kasmā cepi <note>yasmā cepi (sī. syā. kaṃ. ka.)</note> kulā agārasmā anagāriyaṃ pabbajito hoti, so ca hoti pañcaṅgavippahīno pañcaṅgasamannāgato, tasmiṃ <pb ed="M" n="1.0100"/> dinnaṃ mahapphalaṃ hoti| katamāni pañcaṅgāni pahīnāni honti? kāmacchando pahīno hoti, byāpādo pahīno hoti, thinamiddhaṃ pahīnaṃ hoti, uddhaccakukkuccaṃ pahīnaṃ hoti, vicikicchā pahīnā hoti| imāni pañcaṅgāni pahīnāni honti| katamehi pañcahaṅgehi <pb ed="T" n="1.0145"/> samannāgato hoti? asekkhena sīlakkhandhena samannāgato hoti, asekkhena samādhikkhandhena samannāgato hoti, asekkhena paññākkhandhena samannāgato <pb ed="P" n="1.0100"/> hoti, asekkhena vimuttikkhandhena samannāgato hoti, asekkhena vimuttiñāṇadassanakkhandhena samannāgato hoti| imehi pañcahaṅgehi samannāgato hoti| iti pañcaṅgavippahīne pañcaṅgasamannāgate dinnaṃ mahapphala’’nti| idamavoca bhagavā…pe.… satthā –</p>
+
+<p rend="gatha1">‘‘issattaṃ <note>issatthaṃ (sī. syā. kaṃ.)</note> balavīriyañca <note>balaviriyañca (sī. syā. kaṃ. pī.)</note>, yasmiṃ vijjetha māṇave|</p>
+
+<p rend="gathalast">taṃ yuddhattho bhare rājā, nāsūraṃ jātipaccayā||</p>
+
+<p rend="gatha1">‘‘tatheva khantisoraccaṃ, dhammā yasmiṃ patiṭṭhitā|</p>
+
+<p rend="gathalast">ariyavuttiṃ medhāviṃ, hīnajaccampi pūjaye||</p>
+
+<p rend="gatha1">‘‘kāraye assame ramme, vāsayettha bahussute|</p>
+
+<p rend="gathalast">papañca vivane kayirā, dugge saṅkamanāni ca||</p>
+
+<p rend="gatha1">‘‘annaṃ <pb ed="V" n="1.0119"/> pānaṃ khādanīyaṃ, vatthasenāsanāni ca|</p>
+
+<p rend="gathalast">dadeyya ujubhūtesu, vippasannena cetasā||</p>
+
+<p rend="gatha1">‘‘yathā hi megho thanayaṃ, vijjumālī satakkaku|</p>
+
+<p rend="gathalast">thalaṃ ninnañca pūreti, abhivassaṃ vasundharaṃ||</p>
+
+<p rend="gatha1">‘‘tatheva saddho sutavā, abhisaṅkhacca bhojanaṃ|</p>
+
+<p rend="gathalast">vanibbake tappayati, annapānena paṇḍito||</p>
+
+<p rend="gatha1">‘‘āmodamāno pakireti, detha dethāti bhāsati|</p>
+
+<p rend="gatha2">taṃ <pb ed="T" n="1.0146"/> hissa gajjitaṃ hoti, devasseva pavassato|</p>
+
+<p rend="gathalast">sā puññadhārā vipulā, dātāraṃ abhivassatī’’ti||</p>
+
+<p rend="subhead">5. pabbatūpamasuttaṃ</p>
+
+<p rend="bodytext" n="136"><hi rend="paranum">136</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="M" n="1.0101"/>| ekamantaṃ nisinnaṃ kho rājānaṃ pasenadiṃ kosalaṃ bhagavā etadavoca – ‘‘handa, kuto nu tvaṃ, mahārāja, āgacchasi divā divassā’’ti? ‘‘yāni tāni, bhante, raññaṃ khattiyānaṃ muddhāvasittānaṃ issariyamadamattānaṃ kāmagedhapariyuṭṭhitānaṃ janapadatthāvariyappattānaṃ mahantaṃ pathavimaṇḍalaṃ abhivijiya ajjhāvasantānaṃ rājakaraṇīyāni bhavanti, tesu khvāhaṃ, etarahi ussukkamāpanno’’ti|</p>
+
+<p rend="bodytext">‘‘taṃ kiṃ maññasi, mahārāja, idha te puriso āgaccheyya <pb ed="P" n="1.0101"/> puratthimāya disāya saddhāyiko paccayiko| so taṃ upasaṅkamitvā evaṃ vadeyya – ‘yagghe, mahārāja, jāneyyāsi, ahaṃ āgacchāmi puratthimāya disāya| tatthaddasaṃ mahantaṃ pabbataṃ abbhasamaṃ sabbe pāṇe nippothento āgacchati| yaṃ te, mahārāja, karaṇīyaṃ, taṃ karohī’ti| atha dutiyo puriso āgaccheyya pacchimāya disāya…pe.… atha tatiyo puriso āgaccheyya uttarāya disāya…pe.… atha catuttho puriso āgaccheyya dakkhiṇāya disāya saddhāyiko paccayiko| so taṃ <pb ed="T" n="1.0147"/> upasaṅkamitvā evaṃ vadeyya – ‘yagghe mahārāja, jāneyyāsi, ahaṃ āgacchāmi <pb ed="V" n="1.0120"/> dakkhiṇāya disāya| tatthaddasaṃ mahantaṃ pabbataṃ abbhasamaṃ sabbe pāṇe nippothento āgacchati| yaṃ te, mahārāja, karaṇīyaṃ taṃ karohī’ti| evarūpe te, mahārāja, mahati mahabbhaye samuppanne dāruṇe manussakkhaye <note>manussakāye (ka.)</note> dullabhe manussatte kimassa karaṇīya’’nti?</p>
+
+<p rend="bodytext">‘‘evarūpe me, bhante, mahati mahabbhaye samuppanne dāruṇe manussakkhaye dullabhe manussatte kimassa karaṇīyaṃ aññatra dhammacariyāya aññatra samacariyāya aññatra kusalakiriyāya aññatra puññakiriyāyā’’ti?</p>
+
+<p rend="bodytext">‘‘ārocemi kho te, mahārāja, paṭivedemi kho te, mahārāja, adhivattati kho taṃ, mahārāja, jarāmaraṇaṃ| adhivattamāne ce te, mahārāja, jarāmaraṇe kimassa karaṇīya’’nti? ‘‘adhivattamāne ca me, bhante, jarāmaraṇe kimassa karaṇīyaṃ aññatra dhammacariyāya samacariyāya kusalakiriyāya puññakiriyāya? yāni tāni, bhante, raññaṃ khattiyānaṃ muddhāvasittānaṃ issariyamadamattānaṃ <pb ed="M" n="1.0102"/> kāmagedhapariyuṭṭhitānaṃ janapadatthāvariyappattānaṃ mahantaṃ pathavimaṇḍalaṃ abhivijiya ajjhāvasantānaṃ hatthiyuddhāni bhavanti; tesampi, bhante, hatthiyuddhānaṃ natthi gati natthi visayo adhivattamāne jarāmaraṇe| yānipi tāni, bhante, raññaṃ khattiyānaṃ muddhāvasittānaṃ…pe.… ajjhāvasantānaṃ assayuddhāni bhavanti…pe.… rathayuddhāni bhavanti <pb ed="T" n="1.0148"/> …pe.… pattiyuddhāni bhavanti; tesampi<pb ed="P" n="1.0102"/>, bhante, pattiyuddhānaṃ natthi gati natthi visayo adhivattamāne jarāmaraṇe| santi kho pana, bhante, imasmiṃ rājakule mantino mahāmattā, ye pahonti <note>yesaṃ honti (ka.)</note> āgate paccatthike mantehi bhedayituṃ| tesampi, bhante, mantayuddhānaṃ natthi gati natthi visayo adhivattamāne jarāmaraṇe| saṃvijjati kho pana, bhante, imasmiṃ rājakule pahūtaṃ hiraññasuvaṇṇaṃ bhūmigatañceva vehāsaṭṭhañca, yena mayaṃ pahoma āgate paccatthike dhanena upalāpetuṃ| tesampi, bhante, dhanayuddhānaṃ natthi gati natthi visayo adhivattamāne jarāmaraṇe| adhivattamāne ca me, bhante, jarāmaraṇe kimassa karaṇīyaṃ aññatra dhammacariyāya samacariyāya kusalakiriyāya puññakiriyāyā’’ti?</p>
+
+<p rend="bodytext">‘‘evametaṃ, mahārāja, evametaṃ, mahārāja! adhivattamāne jarāmaraṇe kimassa karaṇīyaṃ aññatra dhammacariyāya samacariyāya kusalakiriyāya puññakiriyāyā’’ti? idamavoca bhagavā…pe.… satthā –</p>
+
+<p rend="gatha1">‘‘yathāpi <pb ed="V" n="1.0121"/> selā vipulā, nabhaṃ āhacca pabbatā|</p>
+
+<p rend="gathalast">samantānupariyāyeyyuṃ, nippothento catuddisā||</p>
+
+<p rend="gatha1">‘‘evaṃ jarā ca maccu ca, adhivattanti pāṇine <note>pāṇino (sī. syā. kaṃ. pī.)</note>|</p>
+
+<p rend="gatha2">khattiye brāhmaṇe vesse, sudde caṇḍālapukkuse|</p>
+
+<p rend="gathalast">na <pb ed="T" n="1.0149"/> kiñci <note>na kañci (?)</note> parivajjeti, sabbamevābhimaddati||</p>
+
+<p rend="gatha1">‘‘na tattha hatthīnaṃ bhūmi, na rathānaṃ na pattiyā|</p>
+
+<p rend="gathalast">na cāpi mantayuddhena, sakkā jetuṃ dhanena vā||</p>
+
+<p rend="gatha1">‘‘tasmā hi paṇḍito poso, sampassaṃ atthamattano|</p>
+
+<p rend="gathalast">buddhe dhamme ca saṅghe ca, dhīro saddhaṃ nivesaye||</p>
+
+<p rend="gatha1">‘‘yo <pb ed="M" n="1.0103"/> dhammaṃ cari <note>dhammacārī (sī. syā. kaṃ. pī.)</note> kāyena, vācāya uda cetasā|</p>
+
+<p rend="gathalast">idheva naṃ pasaṃsanti, pecca sagge pamodatī’’ti||</p>
+
+<p rend="centre">tatiyo vaggo|</p>
+
+<p rend="bodytext">tassuddānaṃ –</p>
+
+<p rend="gatha1">puggalo ayyikā loko, issattaṃ <note>issatthaṃ (sī. syā. kaṃ.)</note> pabbatūpamā|</p>
+
+<p rend="gathalast">desitaṃ buddhaseṭṭhena, imaṃ kosalapañcakanti||</p>
+
+<trailer rend="centre">kosalasaṃyuttaṃ samattaṃ|</trailer>
+</div>
+
+</xml>
