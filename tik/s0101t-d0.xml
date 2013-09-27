@@ -1,11 +1,10 @@
 <xml src="s0101t-d0.xml">
+
+<p rend="nikaya"><nikaya>dīghanikāye</nikaya></p>
+
+<div id="dn1" n="dn1" type="book"/>
+<head rend="book"><book>sīlakkhandhavaggaṭīkā</book></head>
 <sutra id="d0"/>
-
-<p rend="nikaya">dīghanikāye</p>
-
-<div id="dn1" n="dn1" type="book">
-<head rend="book">sīlakkhandhavaggaṭīkā</head>
-
 <div id="dn1_0" n="dn1_0" type="sutta">
 <p rend="subsubhead">ganthārambhakathāvaṇṇanā</p>
 

@@ -1,11 +1,10 @@
 <xml src="s0102t-d14.xml">
-<sutra id="d14"/>
 
 <p rend="nikaya">dīghanikāye</p>
 
-<div id="dn2" n="dn2" type="book">
-<head rend="book">mahāvaggaṭīkā</head>
-
+<div id="dn2" n="dn2" type="book"/>
+<head rend="book"><book>mahāvaggaṭīkā</book></head>
+<sutra id="d14"/>
 <div id="dn2_1" n="dn2_1" type="sutta">
 <head rend="chapter">1. mahāpadānasuttavaṇṇanā</head>
 

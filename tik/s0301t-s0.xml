@@ -1,10 +1,10 @@
 <xml src="s0301t-s0.xml">
 <sutra id="s0"/>
 
-<p rend="nikaya">saṃyuttanikāye</p>
+<p rend="nikaya"><nikaya>saṃyuttanikāye</nikaya></p>
 
-<div id="sn1" n="sn1" type="book">
-<head rend="book">sagāthāvaggaṭīkā</head>
+<div id="sn1" n="sn1" type="book"/>
+<head rend="book"><book>sagāthāvaggaṭīkā</book></head>
 
 <div id="sn1_0" n="sn1_0" type="samyutta">
 <head rend="subsubhead">ganthārambhakathāvaṇṇanā</head>
