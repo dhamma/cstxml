@@ -1,7 +1,7 @@
 <xml src="s0101m-d10.xml">
-<sutra id="d10"/>
+
 <div id="dn1_10" n="dn1_10" type="sutta">
-<head rend="chapter">10. subhasuttaṃ</head>
+<head rend="chapter"><readunit id="d10">10. subhasuttaṃ</readunit></head>
 
 <p rend="subhead">subhamāṇavavatthu</p>
 

@@ -4,9 +4,9 @@
 
 <div id="sn3" n="sn3" type="book"/>
 <head rend="book">khandhavaggo</head>
-<sutra id="s22"/>
+
 <div id="sn3_1" n="sn3_1" type="samyutta">
-<head rend="chapter">1. khandhasaṃyuttaṃ</head>
+<head rend="chapter"><readunit id="s22">1. khandhasaṃyuttaṃ</readunit></head>
 
 <p rend="title">1. nakulapituvaggo</p>
 

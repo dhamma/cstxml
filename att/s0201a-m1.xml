@@ -4,11 +4,11 @@
 
 <div id="mn1" n="mn1" type="book"/>
 <head rend="book"><book>mūlapaṇṇāsa-aṭṭhakathā</book></head>
-<sutra id="m0"/>
+
 <p rend="subhead">(paṭhamo bhāgo)</p>
 
 <div id="mn1_0" n="mn1_0" type="vagga"/>
-<p rend="subsubhead">ganthārambhakathā</p>
+<p rend="subsubhead"><readunit id="m0">ganthārambhakathā</readunit></p>
 
 <p rend="gatha1">karuṇāsītalahadayaṃ<pb ed="V" n="1.0001"/><pb ed="M" n="1.0001"/><pb ed="P" n="1.0001"/>, paññāpajjotavihatamohatamaṃ|</p>
 
@@ -93,8 +93,8 @@
 
 <div id="mn1_1" n="mn1_1" type="vagga"/>
 <head rend="chapter">1. mūlapariyāyavaggo</head>
-<sutra id="m1"/>
-<p rend="subhead">1. mūlapariyāyasuttavaṇṇanā</p>
+
+<p rend="subhead"><readunit id="m1">1. mūlapariyāyasuttavaṇṇanā</readunit></p>
 
 <p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> yaṃ <pb ed="V" n="1.0005"/><pb ed="M" n="1.0004"/><pb ed="P" n="1.0003"/> panetaṃ ‘‘evaṃ me suta’’ntiādikaṃ nidānaṃ| tattha <hi rend="bold">eva</hi>nti nipātapadaṃ| <hi rend="bold">me</hi>tiādīni nāmapadāni| <hi rend="bold">ukkaṭṭhāyaṃ viharatī</hi>ti ettha <hi rend="bold">vī</hi>ti upasaggapadaṃ, <hi rend="bold">haratī</hi>ti ākhyātapadanti iminā tāva nayena padavibhāgo veditabbo|</p>
 

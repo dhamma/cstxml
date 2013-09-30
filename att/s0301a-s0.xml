@@ -1,5 +1,5 @@
 <xml src="s0301a-s0.xml">
-<sutra id="s0"/>
+
 
 <p rend="nikaya">saṃyuttanikāye</p>
 
@@ -7,7 +7,7 @@
 <head rend="book"><book>sagāthāvagga-aṭṭhakathā</book></head>
 
 <div id="sn1_0" n="sn1_0" type="samyutta">
-<head rend="subsubhead">ganthārambhakathā</head>
+<head rend="subsubhead"><readunit id="s0">ganthārambhakathā</readunit></head>
 
 <p rend="gatha1">karuṇāsītalahadayaṃ<pb ed="V" n="1.0001"/><pb ed="P" n="1.0001"/><pb ed="M" n="1.0001"/>, paññāpajjotavihatamohatamaṃ|</p>
 

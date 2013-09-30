@@ -1,7 +1,7 @@
 <xml src="s0301t-s1.xml">
-<sutra id="s1"/>
+
 <div id="sn1_1" n="sn1_1" type="samyutta">
-<head rend="chapter">1. devatāsaṃyuttaṃ</head>
+<head rend="chapter"><readunit id="s1">1. devatāsaṃyuttaṃ</readunit></head>
 
 <p rend="title">1. naḷavaggo</p>
 

@@ -5,9 +5,9 @@
 
 <div id="dn1" n="dn1" type="book"/>
 <head rend="book"><book>sīlakkhandhavaggapāḷi</book></head>
-<sutra id="d1"/>
+
 <div id="dn1_1" n="dn1_1" type="sutta">
-<head rend="chapter">1. brahmajālasuttaṃ</head>
+<head rend="chapter"><readunit id="d1">1. brahmajālasuttaṃ</readunit></head>
 
 <p rend="subhead">paribbājakakathā</p>
 

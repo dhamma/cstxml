@@ -4,9 +4,8 @@
 
 <div id="dn2" n="dn2" type="book"/>
 <head rend="book"><book>mahāvaggapāḷi</book></head>
-<sutra id="d14"/>
 <div id="dn2_1" n="dn2_1" type="sutta">
-<head rend="chapter">1. mahāpadānasuttaṃ</head>
+<head rend="chapter"><readunit id="d14">1. mahāpadānasuttaṃ</readunit></head>
 
 <p rend="subhead">pubbenivāsapaṭisaṃyuttakathā</p>
 

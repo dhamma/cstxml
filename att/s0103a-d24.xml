@@ -1,5 +1,5 @@
 <xml src="s0103a-d24.xml">
-<sutra id="d24"/>
+
 
 <p rend="nikaya">dīghanikāye</p>
 
@@ -7,7 +7,7 @@
 <head rend="book"><book>pāthikavaggaṭṭhakathā</book></head>
 
 <div id="dn3_1" n="dn3_1" type="sutta">
-<head rend="chapter">1. pāthikasuttavaṇṇanā</head>
+<head rend="chapter"><readunit id="d24">1. pāthikasuttavaṇṇanā</readunit></head>
 
 <p rend="subhead">sunakkhattavatthuvaṇṇanā</p>
 

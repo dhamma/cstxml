@@ -1,5 +1,4 @@
 <xml src="s0101a-d0.xml">
-<sutra id="d0"/>
 
 <p rend="nikaya"><nikaya>dīghanikāye</nikaya></p>
 
@@ -7,7 +6,7 @@
 <head rend="book"><book>sīlakkhandhavaggaṭṭhakathā</book></head>
 
 <div id="dn1_0" n="dn1_0" type="sutta">
-<head rend="subsubhead">ganthārambhakathā</head>
+<head rend="subsubhead"><readunit id="d0">ganthārambhakathā</readunit></head>
 
 <p rend="gatha1">karuṇāsītalahadayaṃ<pb ed="P" n="1.0001"/><pb ed="V" n="1.0001"/><pb ed="M" n="1.0001"/>, paññāpajjotavihatamohatamaṃ|</p>
 

@@ -1,5 +1,5 @@
 <xml src="s0102a-d14.xml">
-<sutra id="d14"/>
+
 
 <p rend="nikaya">dīghanikāye</p>
 
@@ -7,7 +7,7 @@
 <head rend="book"><book>mahāvaggaṭṭhakathā</book></head>
 
 <div id="dn2_1" n="dn2_1" type="sutta">
-<head rend="chapter">1. mahāpadānasuttavaṇṇanā</head>
+<head rend="chapter"><readunit id="d14">1. mahāpadānasuttavaṇṇanā</readunit></head>
 
 <p rend="subhead">pubbenivāsapaṭisaṃyuttakathā</p>
 

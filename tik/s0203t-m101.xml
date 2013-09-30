@@ -1,5 +1,5 @@
 <xml src="s0203t-m101.xml">
-<sutra id="m101"/>
+
 
 <p rend="nikaya">majjhimanikāye</p>
 
@@ -9,7 +9,7 @@
 <div id="mn3_1" n="mn3_1" type="vagga"/>
 <head rend="chapter">1. devadahavaggo</head>
 
-<p rend="subhead">1. devadahasuttavaṇṇanā</p>
+<p rend="subhead"><readunit id="m101">1. devadahasuttavaṇṇanā</readunit></p>
 
 <p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> dibbanti <pb ed="V" n="2.0001"/><pb ed="M" n="2.0211"/> kāmaguṇehi kīḷanti, laḷanti, tesu vā viharanti, vijayasamatthatāyogena paccatthike vijetuṃ icchanti; issariyaṭṭhānādisakkāradānaggahaṇaṃ taṃtaṃatthānusāsanañca karontā voharanti, puññānubhāvappattāya jutiyā jotenti vāti <hi rend="bold">devā vuccanti rājāno</hi>| tathā hi te catūhi saṅgahavatthūhi janaṃ rañjayantā sayaṃ yathāvuttehi visesehi rājanti dibbanti sobhantīti ca, <hi rend="bold">‘‘rājāno’’</hi>ti vuccanti| <hi rend="bold">tatthā</hi>ti tasmiṃ nigamadese| <hi rend="bold">sā</hi>ti pokkharaṇī| <hi rend="bold">ta</hi>nti taṃ, ‘‘devadaha’’nti laddhanāmaṃ pokkharaṇiṃ upādāya, tassa adūrabhavattāti keci| <hi rend="bold">sabbaṃ</hi> sukhādibhedaṃ vedayitaṃ| <hi rend="bold">pubbe</hi>ti purimajātiyaṃ| <hi rend="bold">katakammapaccayā</hi>ti katassa kammassa paccayabhāvato jātaṃ kammaṃ paṭicca| tena sabbāpi vedanā kammaphalabhūtā eva anubhavitabbāti dasseti| tenāha <hi rend="bold">‘‘iminā’’</hi>tiādi| <hi rend="bold">aniyametvā vutta</hi>nti, ‘‘santi, bhikkhave, eke samaṇabrāhmaṇā evaṃvādino’’ti evaṃ ime nāmāti avisesetvā vuttamatthaṃ| <hi rend="bold">niyametvā</hi>ti, ‘‘evaṃvādino, bhikkhave, nigaṇṭhā’’ti evaṃ visesetvā dasseti|</p>
 

@@ -3,12 +3,14 @@ console.log(require('yase').build({
 	dbid:'vri'+set,
 	slotshift:8,
 	loglevel:2,
+	addressing:'cst',
 	schema:function() {
 		this.toctag(["nikaya","book"])
-			.emptytag("pb").attr("pb","n",{"depth":2,"saveval":true})
-		    .toctag("sutra").attr("sutra","id",{"depth":2,"saveval":true})
-		    .toctag("p").attr("p","n",
-		    	{"sparseval":true,"allowempty":true,"unqiue":true,"prefix":"sutra[id]","range":"-"})
+			.pagebreak("pb").attr("pb","n",{"depth":2,"saveval":true})
+		    .toctag("readunit").attr("readunit","id",{"depth":1,"saveval":true})
+		    .paragraph("p").attr("p","n",
+		    	{"depth":2,"sparseval":true,"allowempty":true,"unqiue":true,
+		    	  "prefix":"readunit[id]","range":"-"})
 	},
 	input:set+'/vri'+set+'.lst',
 	output:'../vri'+set+'.ydb',

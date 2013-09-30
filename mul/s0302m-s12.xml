@@ -5,9 +5,9 @@
 
 <div id="sn2" n="sn2" type="book"/>
 <head rend="book"><book>nidānavaggo</book></head>
-<sutra id="s12"/>
+
 <div id="sn2_1" n="sn2_1" type="samyutta">
-<head rend="chapter">1. nidānasaṃyuttaṃ</head>
+<head rend="chapter"><readunit id="s12">1. nidānasaṃyuttaṃ</readunit></head>
 
 <p rend="title">1. buddhavaggo</p>
 

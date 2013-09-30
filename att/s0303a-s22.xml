@@ -1,5 +1,5 @@
 <xml src="s0303a-s22.xml">
-<sutra id="s22"/>
+
 
 <p rend="nikaya">saṃyuttanikāye</p>
 
@@ -7,7 +7,7 @@
 <head rend="book"><book>khandhavagga-aṭṭhakathā</book></head>
 
 <div id="sn3_1" n="sn3_1" type="samyutta">
-<head rend="chapter">1. khandhasaṃyuttaṃ</head>
+<head rend="chapter"><readunit id="s22">1. khandhasaṃyuttaṃ</readunit></head>
 
 <p rend="title">1. nakulapituvaggo</p>
 
