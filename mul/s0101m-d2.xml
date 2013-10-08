@@ -1,7 +1,7 @@
 <xml src="s0101m-d2.xml">
 
 <div id="dn1_2" n="dn1_2" type="sutta">
-<head rend="chapter"><readunit id="d2">2. sāmaññaphalasuttaṃ</readunit></head>
+<head rend="chapter"><pgroup id="d2"/><readunit id="d2">2. sāmaññaphalasuttaṃ</readunit></head>
 
 <p rend="subhead">rājāmaccakathā</p>
 

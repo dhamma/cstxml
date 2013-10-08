@@ -1,7 +1,7 @@
 <xml src="s0101t-d1.xml">
 
 <div id="dn1_1" n="dn1_1" type="sutta">
-<head rend="chapter"><readunit id="d1">1. brahmajālasuttavaṇṇanā</readunit></head>
+<head rend="chapter"><pgroup id="d1"/><readunit id="d1">1. brahmajālasuttavaṇṇanā</readunit></head>
 
 <p rend="subhead">paribbājakakathāvaṇṇanā</p>
 

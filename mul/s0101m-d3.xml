@@ -1,7 +1,7 @@
 <xml src="s0101m-d3.xml">
 
 <div id="dn1_3" n="dn1_3" type="sutta">
-<head rend="chapter"><readunit id="d3">3. ambaṭṭhasuttaṃ</readunit></head>
+<head rend="chapter"><pgroup id="d3"/><readunit id="d3">3. ambaṭṭhasuttaṃ</readunit></head>
 
 <p rend="bodytext" n="254"><hi rend="paranum">254</hi><hi rend="dot">.</hi> evaṃ <pb ed="M" n="1.0082"/><pb ed="V" n="1.0076"/><pb ed="P" n="1.0087"/><pb ed="T" n="1.0114"/> me sutaṃ – ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi yena icchānaṅgalaṃ nāma kosalānaṃ brāhmaṇagāmo tadavasari| tatra sudaṃ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe|</p>
 

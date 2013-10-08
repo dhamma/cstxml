@@ -1,7 +1,7 @@
 <xml src="s0301t-s1.xml">
 
 <div id="sn1_1" n="sn1_1" type="samyutta">
-<head rend="chapter"><readunit id="s1">1. devatāsaṃyuttaṃ</readunit></head>
+<head rend="chapter"><pgroup id="s1"/><readunit id="s1">1. devatāsaṃyuttaṃ</readunit></head>
 
 <p rend="title">1. naḷavaggo</p>
 
