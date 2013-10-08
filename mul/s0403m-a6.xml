@@ -1,16 +1,16 @@
 <xml src="s0403m-a6.xml">
-<sutra id="a6"/>
+<pgroup id="a6"/>
 
 <p rend="nikaya">aṅguttaranikāyo</p>
 
-<div id="an6" n="an6" type="book">
-<head rend="book">chakkanipātapāḷi</head>
+<div id="an6" n="an6" type="book"/>
+<head rend="book"><book>chakkanipātapāḷi</book></head>
 
 <div id="an6_1" n="an6_1" type="pannasaka">
 <head rend="title">1. paṭhamapaṇṇāsakaṃ</head>
 
 <div id="an6_1_1" n="an6_1_1" type="vagga">
-<head rend="chapter">1. āhuneyyavaggo</head>
+<head rend="chapter"><readunit id="a6-1">1. āhuneyyavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamāhuneyyasuttaṃ</p>
 
@@ -100,7 +100,7 @@
 <p rend="gathalast">anuttariya anussatī, mahānāmena te dasāti||</p>
 
 <div id="an6_1_2" n="an6_1_2" type="vagga">
-<head rend="chapter">2. sāraṇīyavaggo</head>
+<head rend="chapter"><readunit id="a6-2">2. sāraṇīyavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamasāraṇīyasuttaṃ</p>
 
@@ -278,7 +278,7 @@
 <p rend="gathalast">nakulaṃ soppamacchā ca, dve honti maraṇassatīti||</p>
 
 <div id="an6_1_3" n="an6_1_3" type="vagga">
-<head rend="chapter">3. anuttariyavaggo</head>
+<head rend="chapter"><readunit id="a6-3">3. anuttariyavaggo</readunit></head>
 
 <p rend="subhead">1. sāmakasuttaṃ</p>
 
@@ -452,7 +452,7 @@
 <p rend="gathalast">kaccāno dve ca samayā, udāyī anuttariyenāti||</p>
 
 <div id="an6_1_4" n="an6_1_4" type="vagga">
-<head rend="chapter">4. devatāvaggo</head>
+<head rend="chapter"><readunit id="a6-4">4. devatāvaggo</readunit></head>
 
 <p rend="subhead">1. sekhasuttaṃ</p>
 
@@ -598,7 +598,7 @@
 <p rend="gathalast">vivādadānattakārī nidānaṃ, kimiladārukkhandhena nāgitoti||</p>
 
 <div id="an6_1_5" n="an6_1_5" type="vagga">
-<head rend="chapter">5. dhammikavaggo</head>
+<head rend="chapter"><readunit id="a6-5">5. dhammikavaggo</readunit></head>
 
 <p rend="subhead">1. nāgasuttaṃ</p>
 
@@ -998,7 +998,7 @@
 <head rend="title">2. dutiyapaṇṇāsakaṃ</head>
 
 <div id="an6_2_1" n="an6_2_1" type="vagga">
-<head rend="chapter">6. mahāvaggo</head>
+<head rend="chapter"><readunit id="a6-6">6. mahāvaggo</readunit></head>
 
 <p rend="subhead">1. soṇasuttaṃ</p>
 
@@ -1376,7 +1376,7 @@
 <p rend="gathalast">majjhe ñāṇaṃ nibbedhikaṃ, sīhanādoti te dasāti||</p>
 
 <div id="an6_2_2" n="an6_2_2" type="vagga">
-<head rend="chapter">7. devatāvaggo</head>
+<head rend="chapter"><readunit id="a6-7">7. devatāvaggo</readunit></head>
 
 <p rend="subhead">1. anāgāmiphalasuttaṃ</p>
 
@@ -1452,7 +1452,7 @@
 <p rend="gathalast">samādhi sakkhibhabbaṃ balaṃ, tajjhānā apare duveti||</p>
 
 <div id="an6_2_3" n="an6_2_3" type="vagga">
-<head rend="chapter">8. arahattavaggo</head>
+<head rend="chapter"><readunit id="a6-8">8. arahattavaggo</readunit></head>
 
 <p rend="subhead">1. dukkhasuttaṃ</p>
 
@@ -1520,7 +1520,7 @@
 <p rend="gathalast">mahantattaṃ dvayaṃ niraye <note>mahattadvayaniraye (syā.)</note>, aggadhammañca rattiyoti||</p>
 
 <div id="an6_2_4" n="an6_2_4" type="vagga">
-<head rend="chapter">9. sītivaggo</head>
+<head rend="chapter"><readunit id="a6-9">9. sītivaggo</readunit></head>
 
 <p rend="subhead">1. sītibhāvasuttaṃ</p>
 
@@ -1586,7 +1586,7 @@
 <p rend="gathalast">appahāya pahīnābhabbo, taṭṭhānā caturopi cāti||</p>
 
 <div id="an6_2_5" n="an6_2_5" type="vagga">
-<head rend="chapter">10. ānisaṃsavaggo</head>
+<head rend="chapter"><readunit id="a6-10">10. ānisaṃsavaggo</readunit></head>
 
 <p rend="subhead">1. pātubhāvasuttaṃ</p>
 
@@ -1651,7 +1651,7 @@
 </div>
 
 <div id="an6_3" n="an6_3" type="vagga">
-<head rend="chapter">11. tikavaggo</head>
+<head rend="chapter"><readunit id="a6-11">11. tikavaggo</readunit></head>
 
 <p rend="subhead">1. rāgasuttaṃ</p>
 
@@ -1703,7 +1703,7 @@
 <p rend="gathalast">assādaratituṭṭhi, duve ca uddhaccena vaggoti||</p>
 
 <div id="an6_4" n="an6_4" type="vagga">
-<head rend="chapter">12. sāmaññavaggo</head>
+<head rend="chapter"><readunit id="a6-12">12. sāmaññavaggo</readunit></head>
 
 <p rend="subhead">1. kāyānupassīsuttaṃ</p>
 
@@ -1727,7 +1727,7 @@
 </div>
 
 <div id="an6_5" n="an6_5" type="peyyala">
-<head rend="chapter">13. rāgapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a6-13">13. rāgapeyyālaṃ</readunit></head>
 
 <p rend="bodytext" n="140"><hi rend="paranum">140</hi><hi rend="dot">.</hi> ‘‘rāgassa<pb ed="M" n="2.0393"/><pb ed="V" n="2.0151"/>, bhikkhave, abhiññāya cha dhammā bhāvetabbā| katame cha? dassanānuttariyaṃ<pb ed="P" n="3.0452"/>, savanānuttariyaṃ, lābhānuttariyaṃ, sikkhānuttariyaṃ, pāricariyānuttariyaṃ, anussatānuttariyaṃ| rāgassa, bhikkhave, abhiññāya ime cha dhammā bhāvetabbā’’ti|</p>
 

@@ -1,13 +1,13 @@
 <xml src="s0401m-a1.xml">
-<sutra id="a1"/>
 
-<p rend="nikaya">aṅguttaranikāyo</p>
 
-<div id="an1" n="an1" type="book">
-<head rend="book">ekakanipātapāḷi</head>
+<p rend="nikaya"><nikaya>aṅguttaranikāyo</nikaya></p>
 
+<div id="an1" n="an1" type="book"/>
+<head rend="book"><book>ekakanipātapāḷi</book></head>
+<pgroup id="a1"/>
 <div id="an1_1" n="an1_1" type="vagga">
-<head rend="chapter">1. rūpādivaggo</head>
+<head rend="chapter"><readunit id="a1-1">1. rūpādivaggo</readunit></head>
 
 <p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> evaṃ <pb ed="T" n="1.0001"/><pb ed="V" n="1.0001"/><pb ed="P" n="1.0001"/><pb ed="M" n="1.0001"/> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme| tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti| ‘‘bhadante’’ti te bhikkhū bhagavato paccassosuṃ| bhagavā etadavoca –</p>
 
@@ -35,7 +35,7 @@
 </div>
 
 <div id="an1_2" n="an1_2" type="vagga">
-<head rend="chapter">2. nīvaraṇappahānavaggo</head>
+<head rend="chapter"><readunit id="a1-2">2. nīvaraṇappahānavaggo</readunit></head>
 
 <p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> ‘‘nāhaṃ<pb ed="V" n="1.0004"/><pb ed="P" n="1.0003"/>, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppanno vā kāmacchando uppajjati uppanno vā kāmacchando bhiyyobhāvāya vepullāya saṃvattati yathayidaṃ, bhikkhave, subhanimittaṃ| subhanimittaṃ, bhikkhave, ayoniso manasi karoto anuppanno ceva kāmacchando uppajjati uppanno ca kāmacchando bhiyyobhāvāya vepullāya saṃvattatī’’ti| paṭhamaṃ|</p>
 
@@ -61,7 +61,7 @@
 </div>
 
 <div id="an1_3" n="an1_3" type="vagga">
-<head rend="chapter">3. akammaniyavaggo</head>
+<head rend="chapter"><readunit id="a1-3">3. akammaniyavaggo</readunit></head>
 
 <p rend="bodytext" n="21"><hi rend="paranum">21</hi><hi rend="dot">.</hi> ‘‘nāhaṃ<pb ed="V" n="1.0007"/>, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ abhāvitaṃ <pb ed="T" n="1.0006"/> akammaniyaṃ hoti yathayidaṃ, bhikkhave, cittaṃ <note>yathayidaṃ cittaṃ (sī. pī.) evamuparipi</note>| cittaṃ, bhikkhave, abhāvitaṃ akammaniyaṃ hotī’’ti| paṭhamaṃ|</p>
 
@@ -87,7 +87,7 @@
 </div>
 
 <div id="an1_4" n="an1_4" type="vagga">
-<head rend="chapter">4. adantavaggo</head>
+<head rend="chapter"><readunit id="a1-4">4. adantavaggo</readunit></head>
 
 <p rend="bodytext" n="31"><hi rend="paranum">31</hi><hi rend="dot">.</hi> ‘‘nāhaṃ<pb ed="V" n="1.0009"/><pb ed="M" n="1.0006"/>, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ| cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī’’ti| paṭhamaṃ|</p>
 
@@ -113,7 +113,7 @@
 </div>
 
 <div id="an1_5" n="an1_5" type="vagga">
-<head rend="chapter">5. paṇihitacchavaggo</head>
+<head rend="chapter"><readunit id="a1-5">5. paṇihitacchavaggo</readunit></head>
 
 <p rend="bodytext" n="41"><hi rend="paranum">41</hi><hi rend="dot">.</hi> ‘‘seyyathāpi<pb ed="V" n="1.0011"/><pb ed="P" n="1.0008"/>, bhikkhave, sālisūkaṃ vā yavasūkaṃ vā micchāpaṇihitaṃ hatthena vā pādena vā akkantaṃ hatthaṃ vā pādaṃ vā bhecchati <note>bhijjissati (syā. kaṃ. ka.), bhejjati (sī.) moggallānabyākaraṇaṃ passitabbaṃ</note> lohitaṃ vā uppādessatīti netaṃ ṭhānaṃ vijjati| taṃ kissa hetu? micchāpaṇihitattā, bhikkhave, sūkassa| evamevaṃ kho, bhikkhave, so vata bhikkhu micchāpaṇihitena cittena avijjaṃ bhecchati, vijjaṃ uppādessati, nibbānaṃ sacchikarissatīti netaṃ ṭhānaṃ vijjati| taṃ kissa hetu? micchāpaṇihitattā, bhikkhave, cittassā’’ti| paṭhamaṃ|</p>
 
@@ -139,7 +139,7 @@
 </div>
 
 <div id="an1_6" n="an1_6" type="vagga">
-<head rend="chapter">6. accharāsaṅghātavaggo</head>
+<head rend="chapter"><readunit id="a1-6">6. accharāsaṅghātavaggo</readunit></head>
 
 <p rend="bodytext" n="51"><hi rend="paranum">51</hi><hi rend="dot">.</hi> ‘‘pabhassaramidaṃ<pb ed="V" n="1.0013"/>, bhikkhave, cittaṃ| tañca kho āgantukehi upakkilesehi upakkiliṭṭhaṃ| taṃ assutavā puthujjano yathābhūtaṃ nappajānāti| tasmā ‘assutavato puthujjanassa cittabhāvanā natthī’ti vadāmī’’ti| paṭhamaṃ|</p>
 
@@ -165,7 +165,7 @@
 </div>
 
 <div id="an1_7" n="an1_7" type="vagga">
-<head rend="chapter">7. vīriyārambhādivaggo</head>
+<head rend="chapter"><readunit id="a1-7">7. vīriyārambhādivaggo</readunit></head>
 
 <p rend="bodytext" n="61"><hi rend="paranum">61</hi><hi rend="dot">.</hi> ‘‘nāhaṃ<pb ed="V" n="1.0015"/><pb ed="P" n="1.0012"/><pb ed="M" n="1.0011"/>, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā kusalā dhammā uppajjanti uppannā vā akusalā dhammā parihāyanti yathayidaṃ, bhikkhave, vīriyārambho <note>viriyārambho (sī. syā. kaṃ. pī.)</note>| āraddhavīriyassa, bhikkhave, anuppannā ceva kusalā dhammā uppajjanti uppannā ca akusalā <pb ed="T" n="1.0014"/> dhammā parihāyantī’’ti| paṭhamaṃ|</p>
 
@@ -191,7 +191,7 @@
 </div>
 
 <div id="an1_8" n="an1_8" type="vagga">
-<head rend="chapter">8. kalyāṇamittādivaggo</head>
+<head rend="chapter"><readunit id="a1-8">8. kalyāṇamittādivaggo</readunit></head>
 
 <p rend="bodytext" n="71"><hi rend="paranum">71</hi><hi rend="dot">.</hi> ‘‘nāhaṃ<pb ed="V" n="1.0017"/><pb ed="P" n="1.0014"/>, bhikkhave, aññaṃ ekadhammampi samanupassāmi yena anuppannā vā kusalā dhammā uppajjanti uppannā vā akusalā dhammā parihāyanti yathayidaṃ, bhikkhave, kalyāṇamittatā| kalyāṇamittassa, bhikkhave, anuppannā ceva kusalā dhammā uppajjanti uppannā ca akusalā dhammā parihāyantī’’ti| paṭhamaṃ|</p>
 
@@ -217,7 +217,7 @@
 </div>
 
 <div id="an1_9" n="an1_9" type="vagga">
-<head rend="chapter">9. pamādādivaggo</head>
+<head rend="chapter"><readunit id="a1-9">9. pamādādivaggo</readunit></head>
 
 <p rend="bodytext" n="81"><hi rend="paranum">81</hi><hi rend="dot">.</hi> ‘‘appamattikā <pb ed="V" n="1.0019"/> esā, bhikkhave, vuddhi yadidaṃ yasovuddhi| etadaggaṃ, bhikkhave, vuddhīnaṃ yadidaṃ paññāvuddhi| tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘paññāvuddhiyā vaddhissāmā’ti| evañhi vo, bhikkhave, sikkhitabba’’nti| paṭhamaṃ|</p>
 
@@ -257,7 +257,7 @@
 </div>
 
 <div id="an1_10" n="an1_10" type="vagga">
-<head rend="chapter">10. dutiyapamādādivaggo</head>
+<head rend="chapter"><readunit id="a1-10">10. dutiyapamādādivaggo</readunit></head>
 
 <p rend="bodytext" n="98"><hi rend="paranum">98</hi><hi rend="dot">.</hi> ‘‘ajjhattikaṃ<pb ed="V" n="1.0022"/>, bhikkhave, aṅganti karitvā nāññaṃ ekaṅgampi samanupassāmi yaṃ evaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, pamādo| pamādo, bhikkhave, mahato anatthāya saṃvattatī’’ti| paṭhamaṃ|</p>
 
@@ -299,7 +299,7 @@
 </div>
 
 <div id="an1_11" n="an1_11" type="vagga">
-<head rend="chapter">11. adhammavaggo</head>
+<head rend="chapter"><readunit id="a1-11">11. adhammavaggo</readunit></head>
 
 <p rend="bodytext" n="140"><hi rend="paranum">140</hi><hi rend="dot">.</hi> ‘‘ye <pb ed="V" n="1.0026"/> te, bhikkhave, bhikkhū adhammaṃ adhammoti dīpenti te, bhikkhave, bhikkhū bahujanahitāya paṭipannā bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānaṃ| bahuñca te, bhikkhave, bhikkhū puññaṃ pasavanti, te cimaṃ saddhammaṃ ṭhapentī’’ti <note>thapentīti (ka.)</note>| paṭhamaṃ|</p>
 
@@ -311,7 +311,7 @@
 </div>
 
 <div id="an1_12" n="an1_12" type="vagga">
-<head rend="chapter">12. anāpattivaggo</head>
+<head rend="chapter"><readunit id="a1-12">12. anāpattivaggo</readunit></head>
 
 <p rend="bodytext" n="150"><hi rend="paranum">150</hi><hi rend="dot">.</hi> ‘‘ye <pb ed="V" n="1.0027"/> te, bhikkhave, bhikkhū anāpattiṃ āpattīti dīpenti te, bhikkhave, bhikkhū bahujanahitāya paṭipannā bahujanasukhāya, bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṃ| bahuñca te, bhikkhave, bhikkhū apuññaṃ pasavanti, te cimaṃ saddhammaṃ antaradhāpentī’’ti| paṭhamaṃ|</p>
 
@@ -329,7 +329,7 @@
 </div>
 
 <div id="an1_13" n="an1_13" type="vagga">
-<head rend="chapter">13. ekapuggalavaggo</head>
+<head rend="chapter"><readunit id="a1-13">13. ekapuggalavaggo</readunit></head>
 
 <p rend="bodytext" n="170"><hi rend="paranum">170</hi><hi rend="dot">.</hi> ‘‘ekapuggalo<pb ed="V" n="1.0029"/><pb ed="P" n="1.0022"/>, bhikkhave, loke uppajjamāno uppajjati bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ<pb ed="T" n="1.0029"/>| katamo ekapuggalo? tathāgato arahaṃ sammāsambuddho| ayaṃ kho, bhikkhave, ekapuggalo loke uppajjamāno uppajjati bahujanahitāya <pb ed="M" n="1.0022"/> bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussāna’’nti|</p>
 
@@ -349,7 +349,7 @@
 </div>
 
 <div id="an1_14" n="an1_14" type="vagga">
-<head rend="chapter">14. etadaggavaggo</head>
+<head rend="chapter"><readunit id="a1-14">14. etadaggavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamavaggo</p>
 
@@ -543,7 +543,7 @@
 </div>
 
 <div id="an1_15" n="an1_15" type="vagga">
-<head rend="chapter">15. aṭṭhānapāḷi</head>
+<head rend="chapter"><readunit id="a1-15">15. aṭṭhānapāḷi</readunit></head>
 
 <p rend="subhead">1. paṭhamavaggo</p>
 
@@ -605,7 +605,7 @@
 </div>
 
 <div id="an1_16" n="an1_16" type="vagga">
-<head rend="chapter">16. ekadhammapāḷi</head>
+<head rend="chapter"><readunit id="a1-16">16. ekadhammapāḷi</readunit></head>
 
 <p rend="subhead">1. paṭhamavaggo</p>
 
@@ -731,7 +731,7 @@
 </div>
 
 <div id="an1_17" n="an1_17" type="vagga">
-<head rend="chapter">17. pasādakaradhammavaggo</head>
+<head rend="chapter"><readunit id="a1-17">17. pasādakaradhammavaggo</readunit></head>
 
 <p rend="bodytext" n="366-381"><hi rend="paranum">366-381</hi><hi rend="dot">.</hi> ‘‘addhamidaṃ<pb ed="V" n="1.0053"/>, bhikkhave, lābhānaṃ yadidaṃ āraññikattaṃ <note>araññakattaṃ (sabbattha)</note> …pe.… piṇḍapātikattaṃ… paṃsukūlikattaṃ… tecīvarikattaṃ… dhammakathikattaṃ… vinayadharattaṃ <note>vinayadharakattaṃ (syā. kaṃ. pī. ka.)</note> … bāhusaccaṃ… thāvareyyaṃ… ākappasampadā… parivārasampadā… mahāparivāratā… kolaputti… vaṇṇapokkharatā… kalyāṇavākkaraṇatā… appicchatā… appābādhatā’’ti|</p>
 
@@ -741,7 +741,7 @@
 </div>
 
 <div id="an1_18" n="an1_18" type="vagga">
-<head rend="chapter">18. aparaccharāsaṅghātavaggo</head>
+<head rend="chapter"><readunit id="a1-18">18. aparaccharāsaṅghātavaggo</readunit></head>
 
 <p rend="bodytext" n="382"><hi rend="paranum">382</hi><hi rend="dot">.</hi> ‘‘accharāsaṅghātamattampi <pb ed="V" n="1.0054"/><pb ed="M" n="1.0041"/> ce, bhikkhave, bhikkhu paṭhamaṃ jhānaṃ bhāveti, ayaṃ vuccati, bhikkhave – ‘bhikkhu arittajjhāno viharati, satthusāsanakaro ovādapatikaro, amoghaṃ raṭṭhapiṇḍaṃ bhuñjati’| ko pana vādo ye naṃ bahulīkarontī’’ti!</p>
 
@@ -781,7 +781,7 @@
 </div>
 
 <div id="an1_19" n="an1_19" type="vagga">
-<head rend="chapter">19. kāyagatāsativaggo</head>
+<head rend="chapter"><readunit id="a1-19">19. kāyagatāsativaggo</readunit></head>
 
 <p rend="bodytext" n="563"><hi rend="paranum">563</hi><hi rend="dot">.</hi> ‘‘yassa <pb ed="V" n="1.0058"/> kassaci, bhikkhave, mahāsamuddo cetasā phuṭo antogadhā tassa kunnadiyo yā kāci samuddaṅgamā; evamevaṃ, bhikkhave, yassa kassaci kāyagatā sati bhāvitā bahulīkatā antogadhā tassa kusalā dhammā ye keci vijjābhāgiyā’’ti|</p>
 
@@ -807,7 +807,7 @@
 </div>
 
 <div id="an1_20" n="an1_20" type="vagga">
-<head rend="chapter">20. amatavaggo</head>
+<head rend="chapter"><readunit id="a1-20">20. amatavaggo</readunit></head>
 
 <p rend="bodytext" n="600"><hi rend="paranum">600</hi><hi rend="dot">.</hi> ‘‘amataṃ <pb ed="T" n="1.0059"/><pb ed="V" n="1.0061"/><pb ed="M" n="1.0047"/> te, bhikkhave, na paribhuñjanti ye kāyagatāsatiṃ na paribhuñjanti| amataṃ te, bhikkhave, paribhuñjanti ye kāyagatāsatiṃ paribhuñjantī’’ti|</p>
 

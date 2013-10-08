@@ -1,16 +1,16 @@
 <xml src="s0403m-a7.xml">
-<sutra id="a7"/>
+<pgroup id="a7"/>
 
 <p rend="nikaya">aṅguttaranikāyo</p>
 
-<div id="an7" n="an7" type="book">
-<head rend="book">sattakanipātapāḷi</head>
+<div id="an7" n="an7" type="book"/>
+<head rend="book"><book>sattakanipātapāḷi</book></head>
 
 <div id="an7_1" n="an7_1" type="pannasaka">
 <head rend="title">paṭhamapaṇṇāsakaṃ</head>
 
 <div id="an7_1_1" n="an7_1_1" type="vagga">
-<head rend="chapter">1. dhanavaggo</head>
+<head rend="chapter"><readunit id="a7-1">1. dhanavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamapiyasuttaṃ</p>
 
@@ -154,7 +154,7 @@
 <p rend="gathalast">uggaṃ saṃyojanañceva, pahānaṃ macchariyena cāti||</p>
 
 <div id="an7_1_2" n="an7_1_2" type="vagga">
-<head rend="chapter">2. anusayavaggo</head>
+<head rend="chapter"><readunit id="a7-2">2. anusayavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamanusayasuttaṃ</p>
 
@@ -234,7 +234,7 @@
 <p rend="gathalast">aniccaṃ dukkhaṃ anattā ca, nibbānaṃ niddasavatthu cāti||</p>
 
 <div id="an7_1_3" n="an7_1_3" type="vagga">
-<head rend="chapter">3. vajjisattakavaggo</head>
+<head rend="chapter"><readunit id="a7-3">3. vajjisattakavaggo</readunit></head>
 
 <p rend="subhead">1. sārandadasuttaṃ</p>
 
@@ -424,7 +424,7 @@
 <p rend="gathalast">bodhisaññā dve ca hāni, vipatti ca parābhavoti||</p>
 
 <div id="an7_1_4" n="an7_1_4" type="vagga">
-<head rend="chapter">4. devatāvaggo</head>
+<head rend="chapter"><readunit id="a7-4">4. devatāvaggo</readunit></head>
 
 <p rend="subhead">1. appamādagāravasuttaṃ</p>
 
@@ -558,7 +558,7 @@
 <p rend="gathalast">dve paṭisambhidā dve vasā, duve niddasavatthunāti||</p>
 
 <div id="an7_1_5" n="an7_1_5" type="vagga">
-<head rend="chapter">5. mahāyaññavaggo</head>
+<head rend="chapter"><readunit id="a7-5">5. mahāyaññavaggo</readunit></head>
 
 <p rend="subhead">1. sattaviññāṇaṭṭhitisuttaṃ</p>
 
@@ -747,7 +747,7 @@
 </div>
 
 <div id="an7_2" n="an7_2" type="vagga">
-<head rend="chapter">6. abyākatavaggo</head>
+<head rend="chapter"><readunit id="a7-6">6. abyākatavaggo</readunit></head>
 
 <p rend="subhead">1. abyākatasuttaṃ</p>
 
@@ -1121,7 +1121,7 @@
 <p rend="gathalast">kimilaṃ satta pacalā, mettā bhariyā kodhekādasāti||</p>
 
 <div id="an7_3" n="an7_3" type="vagga">
-<head rend="chapter">7. mahāvaggo</head>
+<head rend="chapter"><readunit id="a7-7">7. mahāvaggo</readunit></head>
 
 <p rend="subhead">1. hirīottappasuttaṃ</p>
 
@@ -1427,7 +1427,7 @@
 <p rend="gathalast">sakkaccaṃ bhāvanā aggi, sunettarakena cāti||</p>
 
 <div id="an7_4" n="an7_4" type="vagga">
-<head rend="chapter">8. vinayavaggo</head>
+<head rend="chapter"><readunit id="a7-8">8. vinayavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamavinayadharasuttaṃ</p>
 
@@ -1481,7 +1481,7 @@
 <p rend="gathalast">sāsanaṃ adhikaraṇa-samathenaṭṭhame dasāti||</p>
 
 <div id="an7_5" n="an7_5" type="vagga">
-<head rend="chapter">9. samaṇavaggo</head>
+<head rend="chapter"><readunit id="a7-9">9. samaṇavaggo</readunit></head>
 
 <p rend="subhead">1. bhikkhusuttaṃ</p>
 
@@ -1533,7 +1533,7 @@
 <p rend="gathalast">vedagū ariyo arahā, asaddhammā ca saddhammāti||</p>
 
 <div id="an7_6" n="an7_6" type="vagga">
-<head rend="chapter">10. āhuneyyavaggo</head>
+<head rend="chapter"><readunit id="a7-10">10. āhuneyyavaggo</readunit></head>
 
 <p rend="bodytext" n="95"><hi rend="paranum">95</hi><hi rend="dot">.</hi> ‘‘sattime<pb ed="V" n="2.0274"/>, bhikkhave, puggalā āhuneyyā…pe.… dakkhiṇeyyā añjalikaraṇīyā anuttaraṃ puññakkhettaṃ lokassa| katame satta? idha, bhikkhave, ekacco puggalo cakkhusmiṃ aniccānupassī viharati aniccasaññī aniccapaṭisaṃvedī satataṃ samitaṃ abbokiṇṇaṃ cetasā adhimuccamāno paññāya pariyogāhamāno| so āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā <pb ed="P" n="4.0146"/> upasampajja viharati| ayaṃ kho, bhikkhave, paṭhamo puggalo āhuneyyo pāhuneyyo…pe.… anuttaraṃ puññakkhettaṃ lokassa|</p>
 
@@ -1587,7 +1587,7 @@
 </div>
 
 <div id="an7_7" n="an7_7" type="peyyala">
-<head rend="chapter">11. rāgapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a7-11">11. rāgapeyyālaṃ</readunit></head>
 
 <p rend="bodytext" n="623"><hi rend="paranum">623</hi><hi rend="dot">.</hi> ‘‘rāgassa<pb ed="V" n="2.0277"/><pb ed="P" n="4.0148"/>, bhikkhave, abhiññāya satta dhammā bhāvetabbā| katame satta? satisambojjhaṅgo…pe.… upekkhāsambojjhaṅgo – rāgassa, bhikkhave, abhiññāya ime satta dhammā bhāvetabbā’’ti|</p>
 

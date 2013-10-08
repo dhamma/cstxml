@@ -1,13 +1,13 @@
 <xml src="s0404m-a11.xml">
-<sutra id="a11"/>
+<pgroup id="a11"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāyo</p>
 
-<head rend="book">ekādasakanipātapāḷi</head>
+<head rend="book"><book>ekādasakanipātapāḷi</book></head>
 
 <div id="an11_1" n="an11_1" type="vagga">
-<head rend="chapter">1. nissayavaggo</head>
+<head rend="chapter"><readunit id="a11-1">1. nissayavaggo</readunit></head>
 
 <p rend="subhead">1. kimatthiyasuttaṃ</p>
 
@@ -189,7 +189,7 @@
 <p rend="gathalast">dve saññā manasikāro, saddho moranivāpakanti||</p>
 
 <div id="an11_2" n="an11_2" type="vagga">
-<head rend="chapter">2. anussativaggo</head>
+<head rend="chapter"><readunit id="a11-2">2. anussativaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamamahānāmasuttaṃ</p>
 
@@ -449,7 +449,7 @@
 <p rend="gathalast">mettā aṭṭhako gopālo, cattāro ca samādhināti||</p>
 
 <div id="an11_3" n="an11_3" type="vagga">
-<head rend="chapter">3. sāmaññavaggo</head>
+<head rend="chapter"><readunit id="a11-3">3. sāmaññavaggo</readunit></head>
 
 <p rend="bodytext" n="22-29"><hi rend="paranum">22-29</hi><hi rend="dot">.</hi> ‘‘ekādasahi<pb ed="T" n="5.0391"/><pb ed="V" n="3.0323"/><pb ed="P" n="5.0359"/>, bhikkhave, aṅgehi samannāgato gopālako abhabbo gogaṇaṃ pariharituṃ phātiṃ kātuṃ| katamehi ekādasahi? idha, bhikkhave, gopālako na rūpaññū hoti, na lakkhaṇakusalo hoti, na āsāṭikaṃ hāretā hoti, na vaṇaṃ paṭicchādetā hoti, na dhūmaṃ kattā hoti, na titthaṃ jānāti, na pītaṃ jānāti, na vīthiṃ jānāti, na gocarakusalo hoti, anavasesadohī ca hoti, ye te usabhā gopitaro gopariṇāyakā te na atirekapūjāya pūjetā hoti – imehi kho, bhikkhave, ekādasahi aṅgehi samannāgato gopālako abhabbo gogaṇaṃ pariharituṃ phātiṃ kātuṃ|</p>
 
@@ -477,7 +477,7 @@
 </div>
 
 <div id="an11_4" n="an11_4" type="peyyala">
-<head rend="chapter">4. rāgapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a11-4">4. rāgapeyyālaṃ</readunit></head>
 
 <p rend="bodytext" n="502"><hi rend="paranum">502</hi><hi rend="dot">.</hi> ‘‘rāgassa<pb ed="V" n="3.0325"/>, bhikkhave, abhiññāya ekādasa dhammā bhāvetabbā| katame ekādasa? paṭhamaṃ jhānaṃ, dutiyaṃ jhānaṃ, tatiyaṃ <pb ed="T" n="5.0393"/> jhānaṃ, catutthaṃ jhānaṃ, mettācetovimutti, karuṇācetovimutti, muditācetovimutti, upekkhācetovimutti, ākāsānañcāyatanaṃ, viññāṇañcāyatanaṃ, ākiñcaññāyatanaṃ – rāgassa, bhikkhave, abhiññāya ime ekādasa dhammā bhāvetabbā|</p>
 
@@ -495,6 +495,6 @@
 <p rend="gathalast">sattapaññāsa suttantā <note>suttāni (aṭṭha.)</note>, aṅguttarasamāyutā <note>honti aṅguttarāgame (aṭṭha.)</note> ti||</p>
 
 <trailer rend="centre">ekādasakanipātapāḷi niṭṭhitā|</trailer>
-</div>
+<bookend/>
 
 </xml>

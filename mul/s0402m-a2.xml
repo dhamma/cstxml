@@ -1,16 +1,16 @@
 <xml src="s0402m-a2.xml">
-<sutra id="a2"/>
+<pgroup id="a2"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāyo</p>
 
-<head rend="book">dukanipātapāḷi</head>
+<head rend="book"><book>dukanipātapāḷi</book></head>
 
 <div id="an2_1" n="an2_1" type="pannasaka">
 <head rend="title">1. paṭhamapaṇṇāsakaṃ</head>
 
 <div id="an2_1_1" n="an2_1_1" type="vagga">
-<head rend="chapter">1. kammakaraṇavaggo</head>
+<head rend="chapter"><readunit id="a2-1">1. kammakaraṇavaggo</readunit></head>
 
 <p rend="subhead">1. vajjasuttaṃ</p>
 
@@ -72,7 +72,7 @@
 </div>
 
 <div id="an2_1_2" n="an2_1_2" type="vagga">
-<head rend="chapter">2. adhikaraṇavaggo</head>
+<head rend="chapter"><readunit id="a2-2">2. adhikaraṇavaggo</readunit></head>
 
 <p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> ‘‘dvemāni<pb ed="V" n="1.0069"/><pb ed="M" n="1.0054"/>, bhikkhave, balāni| katamāni dve? paṭisaṅkhānabalañca bhāvanābalañca| katamañca, bhikkhave, paṭisaṅkhānabalaṃ? idha, bhikkhave, ekacco iti paṭisañcikkhati – ‘kāyaduccaritassa kho pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañca, vacīduccaritassa pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañca, manoduccaritassa pāpako vipāko diṭṭhe ceva dhamme abhisamparāyañcā’ti| so iti paṭisaṅkhāya kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati| idaṃ vuccati, bhikkhave, paṭisaṅkhānabalaṃ|</p>
 
@@ -124,7 +124,7 @@
 </div>
 
 <div id="an2_1_3" n="an2_1_3" type="vagga">
-<head rend="chapter">3. bālavaggo</head>
+<head rend="chapter"><readunit id="a2-3">3. bālavaggo</readunit></head>
 
 <p rend="bodytext" n="22"><hi rend="paranum">22</hi><hi rend="dot">.</hi> ‘‘‘dveme<pb ed="V" n="1.0076"/>, bhikkhave, bālā| katame dve? yo ca accayaṃ accayato na passati, yo ca accayaṃ desentassa yathādhammaṃ nappaṭiggaṇhāti<pb ed="T" n="1.0076"/>| ime kho, bhikkhave, dve bālā’ti| ‘dveme<pb ed="M" n="1.0061"/>, bhikkhave, paṇḍitā| katame dve? yo ca accayaṃ accayato passati, yo ca accayaṃ desentassa yathādhammaṃ paṭiggaṇhāti| ime kho, bhikkhave, dve paṇḍitā’’’ti|</p>
 
@@ -152,7 +152,7 @@
 </div>
 
 <div id="an2_1_4" n="an2_1_4" type="vagga">
-<head rend="chapter">4. samacittavaggo</head>
+<head rend="chapter"><readunit id="a2-4">4. samacittavaggo</readunit></head>
 
 <p rend="bodytext" n="33"><hi rend="paranum">33</hi><hi rend="dot">.</hi> ‘‘asappurisabhūmiñca <pb ed="V" n="1.0078"/> vo, bhikkhave, desessāmi sappurisabhūmiñca| taṃ suṇātha, sādhukaṃ manasi karotha| bhāsissāmī’’ti| ‘‘evaṃ, bhante’’ti kho te bhikkhū bhagavato paccassosuṃ| bhagavā etadavoca –</p>
 
@@ -228,7 +228,7 @@
 </div>
 
 <div id="an2_1_5" n="an2_1_5" type="vagga">
-<head rend="chapter">5. parisavaggo</head>
+<head rend="chapter"><readunit id="a2-5">5. parisavaggo</readunit></head>
 
 <p rend="bodytext" n="43"><hi rend="paranum">43</hi><hi rend="dot">.</hi> ‘‘dvemā<pb ed="V" n="1.0086"/><pb ed="P" n="1.0070"/>, bhikkhave, parisā| katamā dve? uttānā ca parisā <pb ed="T" n="1.0089"/> gambhīrā ca parisā| katamā ca, bhikkhave, uttānā parisā? idha, bhikkhave, yassaṃ parisāyaṃ bhikkhū uddhatā honti unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatī asampajānā asamāhitā vibbhantacittā pākatindriyā| ayaṃ vuccati, bhikkhave, uttānā parisā|</p>
 
@@ -284,7 +284,7 @@
 <head rend="title">2. dutiyapaṇṇāsakaṃ</head>
 
 <div id="an2_2_1" n="an2_2_1" type="vagga">
-<head rend="chapter">(6) 1. puggalavaggo</head>
+<head rend="chapter"><readunit id="a2-6">(6) 1. puggalavaggo</readunit></head>
 
 <p rend="bodytext" n="53"><hi rend="paranum">53</hi><hi rend="dot">.</hi> ‘‘dveme<pb ed="V" n="1.0092"/><pb ed="M" n="1.0076"/>, bhikkhave, puggalā loke uppajjamānā uppajjanti bahujanahitāya bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussānaṃ| katame dve? tathāgato ca arahaṃ sammāsambuddho, rājā ca cakkavattī| ime kho, bhikkhave, dve puggalā loke uppajjamānā uppajjanti bahujanahitāya bahujanasukhāya, bahuno janassa atthāya hitāya sukhāya devamanussāna’’nti|</p>
 
@@ -318,7 +318,7 @@
 </div>
 
 <div id="an2_2_2" n="an2_2_2" type="vagga">
-<head rend="chapter">(7) 2. sukhavaggo</head>
+<head rend="chapter"><readunit id="a2-7">(7) 2. sukhavaggo</readunit></head>
 
 <p rend="bodytext" n="65"><hi rend="paranum">65</hi><hi rend="dot">.</hi> ‘‘dvemāni<pb ed="V" n="1.0096"/><pb ed="M" n="1.0079"/>, bhikkhave, sukhāni| katamāni dve? gihisukhañca pabbajitasukhañca| imāni kho, bhikkhave, dve sukhāni| etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ sukhānaṃ yadidaṃ pabbajitasukha’’nti|</p>
 
@@ -350,7 +350,7 @@
 </div>
 
 <div id="an2_2_3" n="an2_2_3" type="vagga">
-<head rend="chapter">(8) 3. sanimittavaggo</head>
+<head rend="chapter"><readunit id="a2-8">(8) 3. sanimittavaggo</readunit></head>
 
 <p rend="bodytext" n="78"><hi rend="paranum">78</hi><hi rend="dot">.</hi> ‘‘sanimittā<pb ed="V" n="1.0098"/>, bhikkhave, uppajjanti pāpakā akusalā dhammā, no animittā| tasseva nimittassa pahānā evaṃ te pāpakā akusalā dhammā <pb ed="T" n="1.0103"/> na hontī’’ti|</p>
 
@@ -376,7 +376,7 @@
 </div>
 
 <div id="an2_2_4" n="an2_2_4" type="vagga">
-<head rend="chapter">(9) 4. dhammavaggo</head>
+<head rend="chapter"><readunit id="a2-9">(9) 4. dhammavaggo</readunit></head>
 
 <p rend="bodytext" n="88"><hi rend="paranum">88</hi><hi rend="dot">.</hi> ‘‘dveme<pb ed="V" n="1.0100"/>, bhikkhave, dhammā| katame dve? cetovimutti ca paññāvimutti ca| ime kho, bhikkhave, dve dhammā’’ti|</p>
 
@@ -404,7 +404,7 @@
 </div>
 
 <div id="an2_2_5" n="an2_2_5" type="vagga">
-<head rend="chapter">(10) 5. bālavaggo</head>
+<head rend="chapter"><readunit id="a2-10">(10) 5. bālavaggo</readunit></head>
 
 <p rend="bodytext" n="99"><hi rend="paranum">99</hi><hi rend="dot">.</hi> ‘‘dveme<pb ed="V" n="1.0102"/>, bhikkhave, bālā| katame dve? yo ca anāgataṃ bhāraṃ vahati, yo ca āgataṃ bhāraṃ na vahati| ime kho, bhikkhave, dve bālā’’ti|</p>
 
@@ -456,7 +456,7 @@
 <head rend="title">3. tatiyapaṇṇāsakaṃ</head>
 
 <div id="an2_3_1" n="an2_3_1" type="vagga">
-<head rend="chapter">(11) 1. āsāduppajahavaggo</head>
+<head rend="chapter"><readunit id="a2-11">(11) 1. āsāduppajahavaggo</readunit></head>
 
 <p rend="bodytext" n="119"><hi rend="paranum">119</hi><hi rend="dot">.</hi> ‘‘dvemā<pb ed="V" n="1.0105"/><pb ed="M" n="1.0086"/>, bhikkhave, āsā duppajahā| katamā dve? lābhāsā ca jīvitāsā ca| imā kho, bhikkhave, dve āsā duppajahā’’ti|</p>
 
@@ -486,7 +486,7 @@
 </div>
 
 <div id="an2_3_2" n="an2_3_2" type="vagga">
-<head rend="chapter">(12) 2. āyācanavaggo</head>
+<head rend="chapter"><readunit id="a2-12">(12) 2. āyācanavaggo</readunit></head>
 
 <p rend="bodytext" n="131"><hi rend="paranum">131</hi><hi rend="dot">.</hi> ‘‘saddho<pb ed="V" n="1.0107"/>, bhikkhave, bhikkhu evaṃ sammā āyācamāno āyāceyya – ‘tādiso homi yādisā sāriputtamoggallānā’ti| esā, bhikkhave, tulā etaṃ pamāṇaṃ mama sāvakānaṃ bhikkhūnaṃ yadidaṃ sāriputtamoggallānā’’ti|</p>
 
@@ -522,7 +522,7 @@
 </div>
 
 <div id="an2_3_3" n="an2_3_3" type="vagga">
-<head rend="chapter">(13) 3. dānavaggo</head>
+<head rend="chapter"><readunit id="a2-13">(13) 3. dānavaggo</readunit></head>
 
 <p rend="bodytext" n="142"><hi rend="paranum">142</hi><hi rend="dot">.</hi> ‘‘dvemāni<pb ed="V" n="1.0110"/>, bhikkhave, dānāni| katamāni dve? āmisadānañca dhammadānañca| imāni kho, bhikkhave, dve dānāni| etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ dānānaṃ yadidaṃ dhammadāna’’nti|</p>
 
@@ -548,7 +548,7 @@
 </div>
 
 <div id="an2_3_4" n="an2_3_4" type="vagga">
-<head rend="chapter">(14) 4. santhāravaggo</head>
+<head rend="chapter"><readunit id="a2-14">(14) 4. santhāravaggo</readunit></head>
 
 <p rend="bodytext" n="152"><hi rend="paranum">152</hi><hi rend="dot">.</hi> ‘‘dveme<pb ed="V" n="1.0112"/><pb ed="P" n="1.0093"/><pb ed="M" n="1.0092"/>, bhikkhave, santhārā <note>sandhārā (ka.)</note>| katame dve? āmisasanthāro ca dhammasanthāro ca| ime kho, bhikkhave, dve santhārā| etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ santhārānaṃ yadidaṃ dhammasanthāro’’ti|</p>
 
@@ -578,7 +578,7 @@
 </div>
 
 <div id="an2_3_5" n="an2_3_5" type="vagga">
-<head rend="chapter">(15) 5. samāpattivaggo</head>
+<head rend="chapter"><readunit id="a2-15">(15) 5. samāpattivaggo</readunit></head>
 
 <p rend="bodytext" n="164"><hi rend="paranum">164</hi><hi rend="dot">.</hi> ‘‘dveme<pb ed="V" n="1.0114"/>, bhikkhave, dhammā| katame dve? samāpattikusalatā ca samāpattivuṭṭhānakusalatā ca| ime kho, bhikkhave, dve dhammā’’ti|</p>
 
@@ -621,7 +621,7 @@
 </div>
 
 <div id="an2_4" n="an2_4" type="peyyala">
-<head rend="chapter">1. kodhapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a2-16">1. kodhapeyyālaṃ</readunit></head>
 
 <p rend="bodytext" n="181"><hi rend="paranum">181</hi><hi rend="dot">.</hi> ‘‘dveme<pb ed="V" n="1.0116"/><pb ed="M" n="1.0095"/>, bhikkhave, dhammā| katame dve? kodho ca upanāho ca…pe.… makkho ca paḷāso <note>palāso (ka.)</note> ca… issā ca macchariyañca… māyā ca sāṭheyyañca… ahirikañca anottappañca| ime kho, bhikkhave, dve dhammā’’|</p>
 
@@ -647,7 +647,7 @@
 </div>
 
 <div id="an2_5" n="an2_5" type="peyyala">
-<head rend="chapter">2. akusalapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a2-17">2. akusalapeyyālaṃ</readunit></head>
 
 <p rend="bodytext" n="191-200"><hi rend="paranum">191-200</hi><hi rend="dot">.</hi> ‘‘dveme<pb ed="V" n="1.0118"/>, bhikkhave, dhammā akusalā… dveme, bhikkhave, dhammā kusalā… dveme, bhikkhave, dhammā sāvajjā… dveme, bhikkhave, dhammā anavajjā… dveme, bhikkhave, dhammā dukkhudrayā… dveme, bhikkhave, dhammā sukhudrayā… dveme, bhikkhave, dhammā dukkhavipākā… dveme<pb ed="T" n="1.0123"/><pb ed="P" n="1.0098"/>, bhikkhave, dhammā sukhavipākā… dveme, bhikkhave, dhammā sabyābajjhā… dveme, bhikkhave, dhammā abyābajjhā| katame dve? akkodho ca anupanāho ca… amakkho ca apaḷāso ca… anissā ca amacchariyañca… amāyā ca asāṭheyyañca… hirī ca ottappañca| ime kho, bhikkhave, dve dhammā abyābajjhā’’ti|</p>
 
@@ -655,7 +655,7 @@
 </div>
 
 <div id="an2_6" n="an2_6" type="peyyala">
-<head rend="chapter">3. vinayapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a2-18">3. vinayapeyyālaṃ</readunit></head>
 
 <p rend="bodytext" n="201"><hi rend="paranum">201</hi><hi rend="dot">.</hi> ‘‘dveme<pb ed="V" n="1.0119"/><pb ed="M" n="1.0097"/>, bhikkhave, atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññattaṃ| katame dve? saṅghasuṭṭhutāya saṅghaphāsutāya… dummaṅkūnaṃ puggalānaṃ niggahāya, pesalānaṃ bhikkhūnaṃ phāsuvihārāya… diṭṭhadhammikānaṃ āsavānaṃ saṃvarāya, samparāyikānaṃ āsavānaṃ paṭighātāya… diṭṭhadhammikānaṃ verānaṃ saṃvarāya, samparāyikānaṃ verānaṃ paṭighātāya… diṭṭhadhammikānaṃ vajjānaṃ saṃvarāya, samparāyikānaṃ vajjānaṃ paṭighātāya… diṭṭhadhammikānaṃ bhayānaṃ saṃvarāya, samparāyikānaṃ bhayānaṃ paṭighātāya… diṭṭhadhammikānaṃ akusalānaṃ dhammānaṃ saṃvarāya, samparāyikānaṃ akusalānaṃ dhammānaṃ paṭighātāya… gihīnaṃ anukampāya, pāpicchānaṃ bhikkhūnaṃ pakkhupacchedāya… appasannānaṃ pasādāya, pasannānaṃ bhiyyobhāvāya… saddhammaṭṭhitiyā vinayānuggahāya| ime kho, bhikkhave, dve atthavase paṭicca tathāgatena sāvakānaṃ sikkhāpadaṃ paññatta’’nti|</p>
 
@@ -665,7 +665,7 @@
 </div>
 
 <div id="an2_7" n="an2_7" type="peyyala">
-<head rend="chapter">4. rāgapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a2-19">4. rāgapeyyālaṃ</readunit></head>
 
 <p rend="bodytext" n="231"><hi rend="paranum">231</hi><hi rend="dot">.</hi> ‘‘rāgassa<pb ed="V" n="1.0121"/><pb ed="T" n="1.0125"/>, bhikkhave, abhiññāya dve dhammā bhāvetabbā| katame dve? samatho ca vipassanā ca| rāgassa, bhikkhave, abhiññāya ime dve dhammā bhāvetabbā’’ti|</p>
 

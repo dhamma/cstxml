@@ -1,16 +1,16 @@
 <xml src="s0403m-a5.xml">
-<sutra id="a5"/>
+<pgroup id="a5"/>
 
 <p rend="nikaya">aṅguttaranikāyo</p>
 
-<div id="an5" n="an5" type="book">
-<head rend="book">pañcakanipātapāḷi</head>
+<div id="an5" n="an5" type="book"/>
+<head rend="book"><book>pañcakanipātapāḷi</book></head>
 
 <div id="an5_1" n="an5_1" type="pannasaka">
 <head rend="title">1. paṭhamapaṇṇāsakaṃ</head>
 
 <div id="an5_1_1" n="an5_1_1" type="vagga">
-<head rend="chapter">1. sekhabalavaggo</head>
+<head rend="chapter"><readunit id="a5-1">1. sekhabalavaggo</readunit></head>
 
 <p rend="subhead">1. saṃkhittasuttaṃ</p>
 
@@ -98,7 +98,7 @@
 <p rend="gathalast">samāpatti ca kāmesu, cavanā dve agāravāti||</p>
 
 <div id="an5_1_2" n="an5_1_2" type="vagga">
-<head rend="chapter">2. balavaggo</head>
+<head rend="chapter"><readunit id="a5-2">2. balavaggo</readunit></head>
 
 <p rend="subhead">1. ananussutasuttaṃ</p>
 
@@ -164,7 +164,7 @@
 <p rend="gathalast">daṭṭhabbañca puna kūṭaṃ, cattāropi hitena cāti||</p>
 
 <div id="an5_1_3" n="an5_1_3" type="vagga">
-<head rend="chapter">3. pañcaṅgikavaggo</head>
+<head rend="chapter"><readunit id="a5-3">3. pañcaṅgikavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamagāravasuttaṃ</p>
 
@@ -286,7 +286,7 @@
 <p rend="gathalast">vimuttisamādhipañcaṅgikā, caṅkamaṃ nāgitena cāti||</p>
 
 <div id="an5_1_4" n="an5_1_4" type="vagga">
-<head rend="chapter">4. sumanavaggo</head>
+<head rend="chapter"><readunit id="a5-4">4. sumanavaggo</readunit></head>
 
 <p rend="subhead">1. sumanasuttaṃ</p>
 
@@ -560,7 +560,7 @@
 <p rend="gathalast">kālabhojanasaddhā ca, puttasālehi te dasāti||</p>
 
 <div id="an5_1_5" n="an5_1_5" type="vagga">
-<head rend="chapter">5. muṇḍarājavaggo</head>
+<head rend="chapter"><readunit id="a5-5">5. muṇḍarājavaggo</readunit></head>
 
 <p rend="subhead">1. ādiyasuttaṃ</p>
 
@@ -878,7 +878,7 @@
 <head rend="title">2. dutiyapaṇṇāsakaṃ</head>
 
 <div id="an5_2_1" n="an5_2_1" type="vagga">
-<head rend="chapter">(6) 1. nīvaraṇavaggo</head>
+<head rend="chapter"><readunit id="a5-6">(6) 1. nīvaraṇavaggo</readunit></head>
 
 <p rend="subhead">1. āvaraṇasuttaṃ</p>
 
@@ -1072,7 +1072,7 @@
 <p rend="gathalast">upajjhā ṭhānā licchavi, kumārā aparā duveti||</p>
 
 <div id="an5_2_2" n="an5_2_2" type="vagga">
-<head rend="chapter">(7) 2. saññāvaggo</head>
+<head rend="chapter"><readunit id="a5-7">(7) 2. saññāvaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamasaññāsuttaṃ</p>
 
@@ -1148,7 +1148,7 @@
 <p rend="gathalast">iddhipādā ca dve vuttā, nibbidā cāsavakkhayāti||</p>
 
 <div id="an5_2_3" n="an5_2_3" type="vagga">
-<head rend="chapter">(8) 3. yodhājīvavaggo</head>
+<head rend="chapter"><readunit id="a5-8">(8) 3. yodhājīvavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamacetovimuttiphalasuttaṃ</p>
 
@@ -1360,7 +1360,7 @@
 <p rend="gathalast">yodhājīvā ca dve vuttā, cattāro ca anāgatāti||</p>
 
 <div id="an5_2_4" n="an5_2_4" type="vagga">
-<head rend="chapter">(9) 4. theravaggo</head>
+<head rend="chapter"><readunit id="a5-9">(9) 4. theravaggo</readunit></head>
 
 <p rend="subhead">1. rajanīyasuttaṃ</p>
 
@@ -1448,7 +1448,7 @@
 <p rend="gathalast">paṭisambhidā ca sīlena, thero sekhā pare duveti||</p>
 
 <div id="an5_2_5" n="an5_2_5" type="vagga">
-<head rend="chapter">(10) 5. kakudhavaggo</head>
+<head rend="chapter"><readunit id="a5-10">(10) 5. kakudhavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamasampadāsuttaṃ</p>
 
@@ -1528,7 +1528,7 @@
 <head rend="title">3. tatiyapaṇṇāsakaṃ</head>
 
 <div id="an5_3_1" n="an5_3_1" type="vagga">
-<head rend="chapter">(11) 1. phāsuvihāravaggo</head>
+<head rend="chapter"><readunit id="a5-11">(11) 1. phāsuvihāravaggo</readunit></head>
 
 <p rend="subhead">1. sārajjasuttaṃ</p>
 
@@ -1644,7 +1644,7 @@
 <p rend="gathalast">ānanda sīlāsekhā ca, cātuddiso araññena cāti||</p>
 
 <div id="an5_3_2" n="an5_3_2" type="vagga">
-<head rend="chapter">(12) 2. andhakavindavaggo</head>
+<head rend="chapter"><readunit id="a5-12">(12) 2. andhakavindavaggo</readunit></head>
 
 <p rend="subhead">1. kulūpakasuttaṃ</p>
 
@@ -1724,7 +1724,7 @@
 <p rend="gathalast">maccharī vaṇṇanā issā, diṭṭhivācāya vāyamāti||</p>
 
 <div id="an5_3_3" n="an5_3_3" type="vagga">
-<head rend="chapter">(13) 3. gilānavaggo</head>
+<head rend="chapter"><readunit id="a5-13">(13) 3. gilānavaggo</readunit></head>
 
 <p rend="subhead">1. gilānasuttaṃ</p>
 
@@ -1796,7 +1796,7 @@
 <p rend="gathalast">vapakāsasamaṇasukhā, parikuppaṃ byasanena cāti||</p>
 
 <div id="an5_3_4" n="an5_3_4" type="vagga">
-<head rend="chapter">(14) 4. rājavaggo</head>
+<head rend="chapter"><readunit id="a5-14">(14) 4. rājavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamacakkānuvattanasuttaṃ</p>
 
@@ -1968,7 +1968,7 @@
 <p rend="gathalast">appaṃsupati bhattādo, akkhamo ca sotena cāti||</p>
 
 <div id="an5_3_5" n="an5_3_5" type="vagga">
-<head rend="chapter">(15) 5. tikaṇḍakīvaggo</head>
+<head rend="chapter"><readunit id="a5-15">(15) 5. tikaṇḍakīvaggo</readunit></head>
 
 <p rend="subhead">1. avajānātisuttaṃ</p>
 
@@ -2094,7 +2094,7 @@
 <head rend="title">4. catutthapaṇṇāsakaṃ</head>
 
 <div id="an5_4_1" n="an5_4_1" type="vagga">
-<head rend="chapter">(16) 1. saddhammavaggo</head>
+<head rend="chapter"><readunit id="a5-16">(16) 1. saddhammavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamasammattaniyāmasuttaṃ</p>
 
@@ -2216,7 +2216,7 @@
 <p rend="gathalast">dukkathā ceva sārajjaṃ, udāyidubbinodayāti||</p>
 
 <div id="an5_4_2" n="an5_4_2" type="vagga">
-<head rend="chapter">(17) 2. āghātavaggo</head>
+<head rend="chapter"><readunit id="a5-17">(17) 2. āghātavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamāghātapaṭivinayasuttaṃ</p>
 
@@ -2350,7 +2350,7 @@
 <p rend="gathalast">pucchā nirodho codanā, sīlaṃ nisanti bhaddajīti||</p>
 
 <div id="an5_4_3" n="an5_4_3" type="vagga">
-<head rend="chapter">(18) 3. upāsakavaggo</head>
+<head rend="chapter"><readunit id="a5-18">(18) 3. upāsakavaggo</readunit></head>
 
 <p rend="subhead">1. sārajjasuttaṃ</p>
 
@@ -2550,7 +2550,7 @@
 <p rend="gathalast">pīti vaṇijjā rājāno, gihī ceva gavesināti||</p>
 
 <div id="an5_4_4" n="an5_4_4" type="vagga">
-<head rend="chapter">(19) 4. araññavaggo</head>
+<head rend="chapter"><readunit id="a5-19">(19) 4. araññavaggo</readunit></head>
 
 <p rend="subhead">1. āraññikasuttaṃ</p>
 
@@ -2606,7 +2606,7 @@
 <p rend="gathalast">nesajjaṃ santhataṃ ekāsanikaṃ, khalupacchāpiṇḍikena cāti||</p>
 
 <div id="an5_4_5" n="an5_4_5" type="vagga">
-<head rend="chapter">(20) 5. brāhmaṇavaggo</head>
+<head rend="chapter"><readunit id="a5-20">(20) 5. brāhmaṇavaggo</readunit></head>
 
 <p rend="subhead">1. soṇasuttaṃ</p>
 
@@ -2808,7 +2808,7 @@
 <head rend="title">5. pañcamapaṇṇāsakaṃ</head>
 
 <div id="an5_5_1" n="an5_5_1" type="vagga">
-<head rend="chapter">(21) 1. kimilavaggo</head>
+<head rend="chapter"><readunit id="a5-21">(21) 1. kimilavaggo</readunit></head>
 
 <p rend="subhead">1. kimilasuttaṃ</p>
 
@@ -2874,7 +2874,7 @@
 <p rend="gathalast">vinibandhaṃ yāgu kaṭṭhaṃ, gītaṃ muṭṭhassatinā cāti||</p>
 
 <div id="an5_5_2" n="an5_5_2" type="vagga">
-<head rend="chapter">(22) 2. akkosakavaggo</head>
+<head rend="chapter"><readunit id="a5-22">(22) 2. akkosakavaggo</readunit></head>
 
 <p rend="subhead">1. akkosakasuttaṃ</p>
 
@@ -2954,7 +2954,7 @@
 <p rend="gathalast">apāsādikā dve vuttā, aggismiṃ madhurena cāti||</p>
 
 <div id="an5_5_3" n="an5_5_3" type="vagga">
-<head rend="chapter">(23) 3. dīghacārikavaggo</head>
+<head rend="chapter"><readunit id="a5-23">(23) 3. dīghacārikavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamadīghacārikasuttaṃ</p>
 
@@ -3020,7 +3020,7 @@
 <p rend="gathalast">dve ca kulūpakā bhogā, bhattaṃ sappāpare duveti||</p>
 
 <div id="an5_5_4" n="an5_5_4" type="vagga">
-<head rend="chapter">(24) 4. āvāsikavaggo</head>
+<head rend="chapter"><readunit id="a5-24">(24) 4. āvāsikavaggo</readunit></head>
 
 <p rend="subhead">1. āvāsikasuttaṃ</p>
 
@@ -3090,7 +3090,7 @@
 <p rend="gathalast">macchariyā duvepi cāti <note>yathābhataṃ cāpi avaṇṇagedhā, catukkamacchera pañcamena cāti (sī. syā.) yathābhataṃ avaṇṇañca, catuko macchariyena cāti (ka.)</note>||</p>
 
 <div id="an5_5_5" n="an5_5_5" type="vagga">
-<head rend="chapter">(25) 5. duccaritavaggo</head>
+<head rend="chapter"><readunit id="a5-25">(25) 5. duccaritavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamaduccaritasuttaṃ</p>
 
@@ -3163,7 +3163,7 @@
 </div>
 
 <div id="an5_6" n="an5_6" type="vagga">
-<head rend="chapter">(26) 6. upasampadāvaggo</head>
+<head rend="chapter"><readunit id="a5-26">(26) 6. upasampadāvaggo</readunit></head>
 
 <p rend="subhead">1. upasampādetabbasuttaṃ</p>
 
@@ -3213,7 +3213,7 @@
 </div>
 
 <div id="an5_7" n="an5_7" type="peyyala">
-<head rend="chapter">1. sammutipeyyālaṃ</head>
+<head rend="chapter"><readunit id="a5-27">1. sammutipeyyālaṃ</readunit></head>
 
 <p rend="subhead">1. bhattuddesakasuttaṃ</p>
 
@@ -3259,7 +3259,7 @@
 </div>
 
 <div id="an5_8" n="an5_8" type="peyyala">
-<head rend="chapter">2. sikkhāpadapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a5-28">2. sikkhāpadapeyyālaṃ</readunit></head>
 
 <p rend="subhead">1. bhikkhusuttaṃ</p>
 
@@ -3285,7 +3285,7 @@
 </div>
 
 <div id="an5_9" n="an5_9" type="peyyala">
-<head rend="chapter">3. rāgapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a5-29">3. rāgapeyyālaṃ</readunit></head>
 
 <p rend="bodytext" n="303"><hi rend="paranum">303</hi><hi rend="dot">.</hi> ‘‘rāgassa<pb ed="V" n="2.0262"/>, bhikkhave, abhiññāya pañca dhammā bhāvetabbā| katame pañca? asubhasaññā, maraṇasaññā, ādīnavasaññā, āhāre paṭikūlasaññā, sabbaloke anabhiratasaññā <note>sabbatthapi evameva dissati</note> – rāgassa, bhikkhave, abhiññāya ime pañca dhammā bhāvetabbā’’ti|</p>
 
