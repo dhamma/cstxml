@@ -1,19 +1,19 @@
 <xml src="s0403t-a7.xml">
-<sutra id="a7"/>
-<div id="an7" n="an7" type="book">
+<pgroup id="a7"/>
+<div id="an7" n="an7" type="book"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāye</p>
 
-<head rend="book">sattakanipāta-ṭīkā</head>
+<head rend="book"><book>sattakanipāta-ṭīkā</book></head>
 
 <p rend="title">1. paṭhamapaṇṇāsakaṃ</p>
 
-<p rend="chapter">1. dhanavaggavaṇṇanā</p>
+<p rend="chapter"><readunit id="a7-1">1. dhanavaggavaṇṇanā</readunit></p>
 
 <p rend="bodytext" n="1-10"><hi rend="paranum">1-10</hi><hi rend="dot">.</hi> sattakanipātassa <pb ed="V" n="3.0139"/> paṭhamo vaggo uttānattho|</p>
 
-<p rend="chapter">2. anusayavaggo</p>
+<p rend="chapter"><readunit id="a7-2">2. anusayavaggo</readunit></p>
 
 <p rend="subhead">4.puggalasuttavaṇṇanā</p>
 
@@ -79,7 +79,7 @@
 
 <p rend="centre">anusayavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">3. vajjisattakavaggo</p>
+<p rend="chapter"><readunit id="a7-3">3. vajjisattakavaggo</readunit></p>
 
 <p rend="subhead">1. sārandadasuttavaṇṇanā</p>
 
@@ -143,7 +143,7 @@
 
 <p rend="centre">vajjisattakavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">4. devatāvaggo</p>
+<p rend="chapter"><readunit id="a7-4">4. devatāvaggo</readunit></p>
 
 <p rend="subhead">5. paṭhamamittasuttavaṇṇanā</p>
 
@@ -159,7 +159,7 @@
 
 <p rend="centre">devatāvaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">5. mahāyaññavaggo</p>
+<p rend="chapter"><readunit id="a7-5">5. mahāyaññavaggo</readunit></p>
 
 <p rend="subhead">1. sattaviññāṇaṭṭhitisuttavaṇṇanā</p>
 
@@ -255,7 +255,7 @@
 
 <p rend="centre">paṭhamapaṇṇāsakaṃ niṭṭhitaṃ|</p>
 
-<p rend="chapter">6. abyākatavaggo</p>
+<p rend="chapter"><readunit id="a7-6">6. abyākatavaggo</readunit></p>
 
 <p rend="subhead">1-2. abyākatasuttādivaṇṇanā</p>
 
@@ -331,7 +331,7 @@
 
 <p rend="centre">abyākatavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">7. mahāvaggo</p>
+<p rend="chapter"><readunit id="a7-7">7. mahāvaggo</readunit></p>
 
 <p rend="subhead">1-2. hiriottappasuttādivaṇṇanā</p>
 
@@ -429,7 +429,7 @@
 
 <p rend="centre">mahāvaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">8. vinayavaggo</p>
+<p rend="chapter"><readunit id="a7-8">8. vinayavaggo</readunit></p>
 
 <p rend="subhead">1-8. paṭhamavinayadharasuttādivaṇṇanā</p>
 

@@ -1,15 +1,15 @@
 <xml src="s0404t-a9.xml">
-<sutra id="a9"/>
-<div id="an9" n="an9" type="book">
+<pgroup id="a9"/>
+<div id="an9" n="an9" type="book"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāye</p>
 
-<head rend="book">navakanipāta-ṭīkā</head>
+<head rend="book"><book>navakanipāta-ṭīkā</book></head>
 
 <p rend="title">1. paṭhamapaṇṇāsakaṃ</p>
 
-<p rend="chapter">1. sambodhivaggo</p>
+<p rend="chapter"><readunit id="a9-1">1. sambodhivaggo</readunit></p>
 
 <p rend="subhead">1-2. sambodhisuttādivaṇṇanā</p>
 
@@ -161,7 +161,7 @@
 
 <p rend="centre">sambodhivaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">2. sīhanādavaggo</p>
+<p rend="chapter"><readunit id="a9-2">2. sīhanādavaggo</readunit></p>
 
 <p rend="subhead">1. sīhanādasuttavaṇṇanā</p>
 
@@ -207,7 +207,7 @@
 
 <p rend="centre">sīhanādavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">3. sattāvāsavaggo</p>
+<p rend="chapter"><readunit id="a9-3">3. sattāvāsavaggo</readunit></p>
 
 <p rend="subhead">1. tiṭhānasuttavaṇṇanā</p>
 
@@ -281,7 +281,7 @@
 
 <p rend="centre">sattāvāsavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">4. mahāvaggo</p>
+<p rend="chapter"><readunit id="a9-4">4. mahāvaggo</readunit></p>
 
 <p rend="subhead">1. anupubbavihārasuttavaṇṇanā</p>
 
@@ -365,7 +365,7 @@
 
 <p rend="centre">mahāvaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">5. sāmaññavaggo</p>
+<p rend="chapter"><readunit id="a9-5">5. sāmaññavaggo</readunit></p>
 
 <p rend="subhead">1-10. sambādhasuttādivaṇṇanā</p>
 
@@ -376,6 +376,6 @@
 <p rend="centre">iti manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya</p>
 
 <trailer rend="centre">navakanipātavaṇṇanāya anuttānatthadīpanā samattā|</trailer>
-</div>
+<bookend/>
 
 </xml>

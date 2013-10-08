@@ -1,15 +1,15 @@
 <xml src="s0404t-a8.xml">
-<sutra id="a8"/>
-<div id="an8" n="an8" type="book">
+<pgroup id="a8"/>
+<div id="an8" n="an8" type="book"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāye</p>
 
-<head rend="book">aṭṭhakanipāta-ṭīkā</head>
+<head rend="book"><book>aṭṭhakanipāta-ṭīkā</book></head>
 
 <p rend="title">1. paṭhamapaṇṇāsakaṃ</p>
 
-<p rend="chapter">1. mettāvaggo</p>
+<p rend="chapter"><readunit id="a8-1">1. mettāvaggo</readunit></p>
 
 <p rend="subhead">1. mettāsuttavaṇṇanā</p>
 
@@ -71,7 +71,7 @@
 
 <p rend="centre">mettāvaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">2. mahāvaggo</p>
+<p rend="chapter"><readunit id="a8-2">2. mahāvaggo</readunit></p>
 
 <p rend="subhead">1. verañjasuttavaṇṇanā</p>
 
@@ -251,7 +251,7 @@
 
 <p rend="centre">mahāvaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">3. gahapativaggo</p>
+<p rend="chapter"><readunit id="a8-3">3. gahapativaggo</readunit></p>
 
 <p rend="subhead">1-7. paṭhamuggasuttādivaṇṇanā</p>
 
@@ -281,7 +281,7 @@
 
 <p rend="centre">gahapativaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">4. dānavaggo</p>
+<p rend="chapter"><readunit id="a8-4">4. dānavaggo</readunit></p>
 
 <p rend="subhead">1-4. paṭhamadānasuttādivaṇṇanā</p>
 
@@ -327,7 +327,7 @@
 
 <p rend="centre">dānavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">5. uposathavaggo</p>
+<p rend="chapter"><readunit id="a8-5">5. uposathavaggo</readunit></p>
 
 <p rend="subhead">1-8. saṃkhittūposathasuttādivaṇṇanā</p>
 
@@ -349,7 +349,7 @@
 
 <p rend="title">2. dutiyapaṇṇāsakaṃ</p>
 
-<p rend="chapter">(6) 1. gotamīvaggo</p>
+<p rend="chapter"><readunit id="a8-6">(6) 1. gotamīvaggo</readunit></p>
 
 <p rend="subhead">1-3. gotamīsuttādivaṇṇanā</p>
 
@@ -395,7 +395,7 @@
 
 <p rend="centre">gotamīvaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">(7) 2. bhūmicālavaggo</p>
+<p rend="chapter"><readunit id="a8-7">(7) 2. bhūmicālavaggo</readunit></p>
 
 <p rend="subhead">1-5. icchāsuttādivaṇṇanā</p>
 
@@ -533,7 +533,7 @@
 
 <p rend="centre">cāpālavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">(8) 3. yamakavaggo</p>
+<p rend="chapter"><readunit id="a8-8">(8) 3. yamakavaggo</readunit></p>
 
 <p rend="subhead">1-10. saddhāsuttādivaṇṇanā</p>
 
@@ -550,6 +550,6 @@
 <p rend="centre">iti manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya</p>
 
 <trailer rend="centre">aṭṭhakanipātavaṇṇanāya anuttānatthadīpanā samattā|</trailer>
-</div>
+<bookend/>
 
 </xml>

@@ -1,15 +1,15 @@
 <xml src="s0402t-a3.xml">
-<sutra id="a3"/>
-<div id="an3" n="an3" type="book">
+<pgroup id="a3"/>
+<div id="an3" n="an3" type="book"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāye</p>
 
-<head rend="book">tikanipāta-ṭīkā</head>
+<head rend="book"><book>tikanipāta-ṭīkā</book></head>
 
 <p rend="title">1. paṭhamapaṇṇāsakaṃ</p>
 
-<p rend="chapter">1. bālavaggo</p>
+<p rend="chapter"><readunit id="a3-1">1. bālavaggo</readunit></p>
 
 <p rend="subhead">1. bhayasuttavaṇṇanā</p>
 
@@ -51,7 +51,7 @@
 
 <p rend="centre">bālavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">2. rathakāravaggo</p>
+<p rend="chapter"><readunit id="a3-2">2. rathakāravaggo</readunit></p>
 
 <p rend="subhead">1. ñātasuttavaṇṇanā</p>
 
@@ -169,7 +169,7 @@
 
 <p rend="centre">rathakāravaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">3. puggalavaggo</p>
+<p rend="chapter"><readunit id="a3-3">3. puggalavaggo</readunit></p>
 
 <p rend="subhead">1. samiddhasuttavaṇṇanā</p>
 
@@ -253,7 +253,7 @@
 
 <p rend="centre">puggalavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">4. devadūtavaggo</p>
+<p rend="chapter"><readunit id="a3-4">4. devadūtavaggo</readunit></p>
 
 <p rend="subhead">1. sabrahmakasuttavaṇṇanā</p>
 
@@ -453,7 +453,7 @@
 
 <p rend="centre">devadūtavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">5. cūḷavaggo</p>
+<p rend="chapter"><readunit id="a3-5">5. cūḷavaggo</readunit></p>
 
 <p rend="subhead">1. sammukhībhāvasuttavaṇṇanā</p>
 
@@ -535,7 +535,7 @@
 
 <p rend="title">2. dutiyapaṇṇāsakaṃ</p>
 
-<p rend="chapter">(6) 1. brāhmaṇavaggo</p>
+<p rend="chapter"><readunit id="a3-6">(6) 1. brāhmaṇavaggo</readunit></p>
 
 <p rend="subhead">1. paṭhamadvebrāhmaṇasuttavaṇṇanā</p>
 
@@ -661,7 +661,7 @@
 
 <p rend="centre">brāhmaṇavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">(7) 2. mahāvaggo</p>
+<p rend="chapter"><readunit id="a3-7">(7) 2. mahāvaggo</readunit></p>
 
 <p rend="subhead">1. titthāyatanasuttavaṇṇanā</p>
 
@@ -929,7 +929,7 @@
 
 <p rend="centre">mahāvaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">(8) 3. ānandavaggo</p>
+<p rend="chapter"><readunit id="a3-8">(8) 3. ānandavaggo</readunit></p>
 
 <p rend="subhead">1. channasuttavaṇṇanā</p>
 
@@ -1003,7 +1003,7 @@
 
 <p rend="centre">ānandavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">(9) 4. samaṇavaggo</p>
+<p rend="chapter"><readunit id="a3-9">(9) 4. samaṇavaggo</readunit></p>
 
 <p rend="subhead">1-5. samaṇasuttādivaṇṇanā</p>
 
@@ -1063,7 +1063,7 @@
 
 <p rend="centre">samaṇavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">(10) 5. loṇakapallavaggo</p>
+<p rend="chapter"><readunit id="a3-10">(10) 5. loṇakapallavaggo</readunit></p>
 
 <p rend="subhead">1. accāyikasuttavaṇṇanā</p>
 
@@ -1169,7 +1169,7 @@
 
 <p rend="title">3. tatiyapaṇṇāsakaṃ</p>
 
-<p rend="chapter">(11) 1. sambodhavaggo</p>
+<p rend="chapter"><readunit id="a3-11">(11) 1. sambodhavaggo</readunit></p>
 
 <p rend="subhead">1-3. pubbevasambodhasuttādivaṇṇanā</p>
 
@@ -1193,7 +1193,7 @@
 
 <p rend="centre">sambodhavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">(12) 2. āpāyikavaggo</p>
+<p rend="chapter"><readunit id="a3-12">(12) 2. āpāyikavaggo</readunit></p>
 
 <p rend="subhead">1. āpāyikasuttavaṇṇanā</p>
 
@@ -1261,7 +1261,7 @@
 
 <p rend="centre">āpāyikavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">(13) 3. kusināravaggo</p>
+<p rend="chapter"><readunit id="a3-13">(13) 3. kusināravaggo</readunit></p>
 
 <p rend="subhead">1-2. kusinārasuttādivaṇṇanā</p>
 
@@ -1335,7 +1335,7 @@
 
 <p rend="centre">kusināravaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">(14) 4. yodhājīvavaggo</p>
+<p rend="chapter"><readunit id="a3-14">(14) 4. yodhājīvavaggo</readunit></p>
 
 <p rend="subhead">1. yodhājīvasuttavaṇṇanā</p>
 
@@ -1379,7 +1379,7 @@
 
 <p rend="centre">tatiyapaṇṇāsakaṃ niṭṭhitaṃ|</p>
 
-<p rend="chapter">(16) 6. acelakavaggavaṇṇanā</p>
+<p rend="chapter"><readunit id="a3-16">(16) 6. acelakavaggavaṇṇanā</readunit></p>
 
 <p rend="bodytext" n="157-163"><hi rend="paranum">157-163</hi><hi rend="dot">.</hi> ito paresu pana suttapadesu <hi rend="bold">‘‘gāḷhā’’</hi>ti vuttamatthaṃ vivaranto <hi rend="bold">‘‘kakkhaḷā’’</hi>ti āha| kakkhaḷacāro cassā na lūkhasabhāvo| atha kho taṇhāvasena thiraggahaṇanti āha <hi rend="bold">‘‘lobhavasena thiraggahaṇā’’</hi>ti| <hi rend="bold">agāḷhā paṭipadā</hi>ti vā kāmānaṃ ogāhanaṃ paṭipatti, kāmasukhānuyogoti attho| <hi rend="bold">nijjhāmā paṭipadā</hi>ti kāyassa nijjhāpanavasena khepanavasena pavattā paṭipatti, attakilamathānuyogoti attho| <hi rend="bold">niccelo</hi>ti nissaṭṭhacelo sabbena sabbaṃ paṭikkhittacelo| naggiyavatasamādānena <hi rend="bold">naggo| ṭhitakova uccāraṃ karotī</hi>tiādi nidassanamattaṃ vamitvā mukhavikkhālanādiācārassapi tena vissaṭṭhattā| <hi rend="bold">jivhāya hatthaṃ apalekhati</hi> avalekhati udakena adhovanato| dutiyavikappepi eseva nayo| ‘‘ehi, bhadante’’ti vutte upagamanasaṅkhāto vidhi ehibhadanto, taṃ caratīti ehibhadantiko, tappaṭikkhepena <hi rend="bold">na ehibhadantiko| na karoti</hi> ‘‘samaṇena nāma parassa vacanakarena na bhavitabba’’nti adhippāyena|</p>
 
@@ -1391,13 +1391,13 @@
 
 <p rend="centre">acelakavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">peyyālavaggavaṇṇanā</p>
+<p rend="chapter"><readunit id="a3-17">peyyālavaggavaṇṇanā</readunit></p>
 
 <p rend="bodytext" n="164-184"><hi rend="paranum">164-184</hi><hi rend="dot">.</hi> <hi rend="bold">samanuñño</hi>ti sammadeva katānuñño| tenāha <hi rend="bold">‘‘samānajjhāsayo’’</hi>ti| sesamettha uttānameva|</p>
 
 <p rend="centre">iti manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya</p>
 
 <trailer rend="centre">tikanipātavaṇṇanāya anuttānatthadīpanā samattā|</trailer>
-</div>
+<bookend/>
 
 </xml>

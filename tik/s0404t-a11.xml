@@ -1,13 +1,13 @@
 <xml src="s0404t-a11.xml">
-<sutra id="a11"/>
-<div id="an11" n="an11" type="book">
+<pgroup id="a11"/>
+<div id="an11" n="an11" type="book"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāye</p>
 
-<head rend="book">ekādasakanipāta-ṭīkā</head>
+<head rend="book"><book>ekādasakanipāta-ṭīkā</book></head>
 
-<p rend="chapter">1. nissayavaggo</p>
+<p rend="chapter"><readunit id="a11-1">1. nissayavaggo</readunit></p>
 
 <p rend="subhead">1-10. kimatthiyasuttādivaṇṇanā</p>
 
@@ -17,7 +17,7 @@
 
 <p rend="centre">nissayavaggavaṇṇanā niṭṭhitā|</p>
 
-<p rend="chapter">2. anussativaggo</p>
+<p rend="chapter"><readunit id="a11-2">2. anussativaggo</readunit></p>
 
 <p rend="subhead">1-4. paṭhamamahānāmasuttādivaṇṇanā</p>
 
