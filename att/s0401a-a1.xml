@@ -1,14 +1,14 @@
 <xml src="s0401a-a1.xml">
-<sutra id="a1"/>
+<pgroup id="a1"/>
 <p rend="centre">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
-<p rend="nikaya">aṅguttaranikāye</p>
+<p rend="nikaya"><nikaya>aṅguttaranikāye</nikaya></p>
 
-<div id="an1" n="an1" type="book">
-<head rend="book">ekakanipāta-aṭṭhakathā</head>
+<div id="an1" n="an1" type="book"/>
+<head rend="book"><book>ekakanipāta-aṭṭhakathā</book></head>
 
 <div id="an1_0" n="an1_0" type="intro">
-<head rend="subsubhead">ganthārambhakathā</head>
+<head rend="subsubhead"><readunit id="a1-0">ganthārambhakathā</readunit></head>
 
 <p rend="gatha1">‘‘karuṇāsītalahadayaṃ<pb ed="V" n="1.0001"/><pb ed="P" n="1.0001"/><pb ed="M" n="1.0001"/>, paññāpajjotavihatamohatamaṃ|</p>
 
@@ -90,7 +90,7 @@
 </div>
 
 <div id="an1_1" n="an1_1" type="vagga">
-<head rend="chapter">1. rūpādivaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-1">1. rūpādivaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext">tattha <pb ed="V" n="1.0004"/><pb ed="M" n="1.0003"/> <hi rend="bold">aṅguttarāgamo</hi> nāma ekakanipāto dukanipāto tikanipāto catukkanipāto pañcakanipāto chakkanipāto sattakanipāto aṭṭhakanipāto navakanipāto dasakanipāto ekādasakanipātoti ekādasa nipātā honti| suttato –</p>
 
@@ -314,7 +314,7 @@
 </div>
 
 <div id="an1_2" n="an1_2" type="vagga">
-<head rend="chapter">2. nīvaraṇappahānavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-2">2. nīvaraṇappahānavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> dutiyassa <pb ed="V" n="1.0024"/> paṭhame <hi rend="bold">ekadhammampī</hi>ti ettha ‘‘tasmiṃ kho pana samaye dhammā hontī’’tiādīsu (dha. sa. 121) viya nissattaṭṭhena dhammo veditabbo| tasmā ekadhammampīti nissattaṃ ekasabhāvampīti ayamettha attho| <hi rend="bold">anuppannovā</hi>ti ettha pana ‘‘bhūtānaṃ vā sattānaṃ ṭhitiyā sambhavesīnaṃ vā anuggahāya (ma. ni. 1.402; saṃ. ni. 2.11) yāvatā, bhikkhave, sattā apadā vā dvipadā vā’’ti (a. ni. 4.34; itivu. 90) evamādīsu viya <pb ed="M" n="1.0023"/> samuccayattho vāsaddo daṭṭhabbo, na vikappattho| ayañhettha attho – yena dhammena anuppanno ca kāmacchando uppajjati, uppanno ca kāmacchando bhiyyobhāvāya vepullāya saṃvattati, tamahaṃ yathā subhanimittaṃ, evaṃ aññaṃ na passāmīti| tattha <hi rend="bold">anuppanno</hi>ti ajāto asañjāto apātubhūto asamudāgato| <hi rend="bold">kāmacchando</hi>ti ‘‘yo kāmesu kāmacchando kāmarāgo kāmanandī <pb ed="P" n="1.0030"/> kāmataṇhā’’tiādinā (dha. sa. 1156) nayena vitthāritaṃ kāmacchandanīvaraṇaṃ| <hi rend="bold">uppajjatī</hi>ti nibbattati pātubhavati| so panesa asamudācāravasena vā ananubhūtārammaṇavasena vā anuppanno uppajjatīti veditabbo| aññathā hi anamatagge saṃsāre anuppanno nāma natthi|</p>
 
@@ -442,7 +442,7 @@
 </div>
 
 <div id="an1_3" n="an1_3" type="vagga">
-<head rend="chapter">3. akammaniyavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-3">3. akammaniyavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="21-22"><hi rend="paranum">21-22</hi><hi rend="dot">.</hi> tatiyassa <pb ed="V" n="1.0041"/><pb ed="P" n="1.0052"/><pb ed="M" n="1.0040"/> paṭhame <hi rend="bold">abhāvita</hi>nti avaḍḍhitaṃ bhāvanāvasena appavattitaṃ| <hi rend="bold">akammaniyaṃ hotī</hi>ti kammakkhamaṃ kammayoggaṃ na hoti| dutiye vuttavipariyāyena attho veditabbo| ettha ca paṭhame <hi rend="bold">citta</hi>nti vaṭṭavasena uppannacittaṃ, dutiye vivaṭṭavasena uppannacittaṃ| tattha ca vaṭṭaṃ vaṭṭapādaṃ, vivaṭṭaṃ vivaṭṭapādanti ayaṃ pabhedo veditabbo| <hi rend="bold">vaṭṭaṃ</hi> nāma tebhūmakavaṭṭaṃ, <hi rend="bold">vaṭṭapādaṃ</hi> nāma vaṭṭapaṭilābhāya kammaṃ, <hi rend="bold">vivaṭṭaṃ</hi> nāma nava lokuttaradhammā, <hi rend="bold">vivaṭṭapādaṃ</hi> nāma vivaṭṭapaṭilābhāya kammaṃ| iti imesu suttesu vaṭṭavivaṭṭameva kathitanti|</p>
 
@@ -460,7 +460,7 @@
 </div>
 
 <div id="an1_4" n="an1_4" type="vagga">
-<head rend="chapter">4. adantavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-4">4. adantavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="31"><hi rend="paranum">31</hi><hi rend="dot">.</hi> catutthassa <pb ed="V" n="1.0043"/> paṭhame <hi rend="bold">adanta</hi>nti savisevanaṃ adantahatthiassādisadisaṃ| <hi rend="bold">citta</hi>nti vaṭṭavasena uppannacittameva|</p>
 
@@ -480,7 +480,7 @@
 </div>
 
 <div id="an1_5" n="an1_5" type="vagga">
-<head rend="chapter">5. paṇihitacchavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-5">5. paṇihitacchavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="41"><hi rend="paranum">41</hi><hi rend="dot">.</hi> pañcamassa <pb ed="V" n="1.0044"/><pb ed="P" n="1.0055"/> paṭhame <hi rend="bold">seyyathāpī</hi>ti opammatthe nipāto| tatra bhagavā katthaci atthena upamaṃ parivāretvā dasseti vatthasutte (ma. ni. 1.70 ādayo) viya, pāricchattakopama- (a. ni. 7.69) aggikkhandhopamādisuttesu (a. ni. 7.72) viya ca, katthaci upamāya atthaṃ parivāretvā dasseti loṇambilasutte (a. ni. 3.101) viya, suvaṇṇakārasuttasūriyopamādisuttesu (a. ni. 7.66) viya ca| imasmiṃ pana sālisūkopame upamāya atthaṃ parivāretvā dassento <hi rend="bold">seyyathāpi, bhikkhave</hi>tiādimāha| tattha <hi rend="bold">sālisūka</hi>nti sāliphalassa sūkaṃ| <hi rend="bold">yavasūkepi</hi> eseva nayo| vā-saddo vikappattho| <hi rend="bold">micchāpaṇihita</hi>nti micchāṭhapitaṃ| yathā vijjhituṃ sakkoti, na evaṃ uddhaggaṃ katvā ṭhapitanti attho| <hi rend="bold">bhecchatī</hi>ti bhindissati, chaviṃ chindissatīti attho| <hi rend="bold">micchāpaṇihitena cittenā</hi>ti micchāṭhapitena cittena| vaṭṭavasena uppannacittaṃ sandhāyetaṃ vuttaṃ| <hi rend="bold">avijja</hi>nti aṭṭhasu ṭhānesu aññāṇabhūtaṃ ghanabahalaṃ mahāavijjaṃ| <hi rend="bold">vijjaṃ uppādessatī</hi>ti ettha <hi rend="bold">vijja</hi>nti arahattamaggañāṇaṃ| <hi rend="bold">nibbāna</hi>nti taṇhāvānato nikkhantabhāvena evaṃ vuttaṃ amataṃ| <hi rend="bold">sacchikarissatī</hi>ti paccakkhaṃ karissati|</p>
 
@@ -514,7 +514,7 @@
 </div>
 
 <div id="an1_6" n="an1_6" type="vagga">
-<head rend="chapter">6. accharāsaṅghātavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-6">6. accharāsaṅghātavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="51"><hi rend="paranum">51</hi><hi rend="dot">.</hi> chaṭṭhassa <pb ed="V" n="1.0049"/> paṭhame <hi rend="bold">taṃ assutavā puthujjano</hi>ti taṃ bhavaṅgacittaṃ sutavirahito puthujjano| tattha āgamādhigamābhāvā ñeyyo assutavā iti| yo hi idaṃ suttaṃ ādito paṭṭhāya atthavasena upaparikkhanto ‘‘idaṃ bhavaṅgacittaṃ nāma pakatiparisuddhampi javanakkhaṇe uppannehi lobhādīhi upakkilesehi upakkiliṭṭha’’nti neva āgamavasena na adhigamavasena jānāti, yassa ca khandhadhātuāyatanapaccayākārasatipaṭṭhānādīsu uggahaparipucchāvinicchayavirahitattā yathābhūtañāṇapaṭivedhasādhako neva āgamo, paṭipattiyā adhigantabbassa anadhigatattā na adhigamo atthi| so āgamādhigamābhāvā ñeyyo assutavā iti| svāyaṃ –</p>
 
@@ -590,7 +590,7 @@
 </div>
 
 <div id="an1_7" n="an1_7" type="vagga">
-<head rend="chapter">7. vīriyārambhādivaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-7">7. vīriyārambhādivaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="61"><hi rend="paranum">61</hi><hi rend="dot">.</hi> sattamassa <pb ed="V" n="1.0059"/> paṭhame <hi rend="bold">vīriyārambho</hi>ti catukiccassa sammappadhānavīriyassa ārambho, āraddhapaggahitaparipuṇṇavīriyatāti attho|</p>
 
@@ -654,7 +654,7 @@
 </div>
 
 <div id="an1_8" n="an1_8" type="vagga">
-<head rend="chapter">8. kalyāṇamittatādivaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-8">8. kalyāṇamittatādivaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="71"><hi rend="paranum">71</hi><hi rend="dot">.</hi> aṭṭhamassa <pb ed="V" n="1.0065"/> paṭhame <hi rend="bold">kalyāṇamittatā</hi>ti kalyāṇā mittā assāti kalyāṇamitto, tassa bhāvo kalyāṇamittatā| sesaṃ vuttapaṭipakkhanayena veditabbaṃ|</p>
 
@@ -680,7 +680,7 @@
 </div>
 
 <div id="an1_9" n="an1_9" type="vagga">
-<head rend="chapter">9. pamādādivaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-9">9. pamādādivaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="81"><hi rend="paranum">81</hi><hi rend="dot">.</hi> navamassāpi <pb ed="V" n="1.0068"/><pb ed="M" n="1.0065"/> paṭhamaṃ aṭṭhuppattiyameva kathitaṃ| sambahulā kira bhikkhū dhammasabhāyaṃ nisinnā kumbhaghosakaṃ ārabbha ‘‘asukaṃ nāma kulaṃ pubbe appayasaṃ appaparivāraṃ ahosi, idāni mahāyasaṃ mahāparivāraṃ jāta’’nti kathayiṃsu| satthā purimanayeneva āgantvā tesaṃ vacanaṃ sutvā imaṃ suttaṃ ārabhi| tassattho heṭṭhā vuttanayeneva veditabbo|</p>
 
@@ -690,7 +690,7 @@
 </div>
 
 <div id="an1_10" n="an1_10" type="vagga">
-<head rend="chapter">10. dutiyapamādādivaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-10">10. dutiyapamādādivaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="98"><hi rend="paranum">98</hi><hi rend="dot">.</hi> dasame <pb ed="V" n="1.0069"/> <hi rend="bold">ajjhattika</hi>nti niyakajjhattavasena ajjhattikaṃ| <hi rend="bold">aṅga</hi>nti kāraṇaṃ| <hi rend="bold">iti karitvā</hi>ti evaṃ katvā| idaṃ vuttaṃ hoti – bhikkhave, ajjhattaṃ paccattaṃ attano santāne samuṭṭhitaṃ kāraṇanti katvā na aññaṃ ekaṃ kāraṇampi samanupassāmīti|</p>
 
@@ -746,7 +746,7 @@
 </div>
 
 <div id="an1_11" n="an1_11" type="vagga">
-<head rend="chapter">11. adhammavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-11">11. adhammavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="140"><hi rend="paranum">140</hi><hi rend="dot">.</hi> ekādasame <pb ed="V" n="1.0076"/><pb ed="P" n="1.0094"/> vagge <hi rend="bold">adhammaṃ adhammo</hi>tiādīni vuttanayeneva veditabbāni| sesamettha uttānamevāti|</p>
 
@@ -754,7 +754,7 @@
 </div>
 
 <div id="an1_12" n="an1_12" type="vagga">
-<head rend="chapter">12. anāpattivaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-12">12. anāpattivaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="150"><hi rend="paranum">150</hi><hi rend="dot">.</hi> dvādasame <pb ed="V" n="1.0077"/><pb ed="M" n="1.0073"/> pana <hi rend="bold">anāpattiṃ āpattī</hi>tiādīsu ‘‘anāpatti ajānantassa atheyyacittassa namaraṇādhippāyassa anullapanādhippāyassa namocanādhippāyassā’’ti tattha tattha vuttā anāpatti <hi rend="bold">anāpatti</hi> nāma, ‘‘jānantassa theyyacittassā’’tiādinā nayena vuttā āpatti <hi rend="bold">āpatti</hi> nāma, pañcāpattikkhandhā <hi rend="bold">lahukāpatti</hi> nāma, dve āpattikkhandhā <hi rend="bold">garukāpatti</hi> nāma| dve āpattikkhandhā <hi rend="bold">duṭṭhullāpatti</hi> nāma, pañcāpattikkhandhā <hi rend="bold">aduṭṭhullāpatti</hi> nāma| cha āpattikkhandhā <hi rend="bold">sāvasesāpatti</hi> nāma, eko pārājikāpattikkhandho <hi rend="bold">anavasesāpatti</hi> nāma| <hi rend="bold">sappaṭikammāpatti</hi> nāma sāvasesāpattiyeva, <hi rend="bold">appaṭikammāpatti</hi> nāma anavasesāpattiyeva| sesaṃ sabbattha uttānamevāti|</p>
 
@@ -762,7 +762,7 @@
 </div>
 
 <div id="an1_13" n="an1_13" type="vagga">
-<head rend="chapter">13. ekapuggalavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-13">13. ekapuggalavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="170"><hi rend="paranum">170</hi><hi rend="dot">.</hi> ekapuggalavaggassa <pb ed="V" n="1.0078"/> paṭhame <hi rend="bold">ekapuggalo</hi>ti eko puggalo| ettha <hi rend="bold">eko</hi>ti dutiyādipaṭikkhepattho gaṇanaparicchedo| <hi rend="bold">puggalo</hi>ti sammutikathā, na paramatthakathā| buddhassa hi bhagavato duvidhā desanā – sammutidesanā, paramatthadesanā cāti| tattha ‘‘puggalo satto itthī puriso khattiyo brāhmaṇo devo māro’’ti <pb ed="P" n="1.0095"/> evarūpā <hi rend="bold">sammutidesanā,</hi> ‘‘aniccaṃ dukkhaṃ anattā khandhā dhātū āyatanāni satipaṭṭhānā’’ti evarūpā <hi rend="bold">paramatthadesanā</hi>| tattha bhagavā ye sammutivasena desanaṃ sutvā atthaṃ paṭivijjhitvā mohaṃ pahāya visesaṃ adhigantuṃ samatthā, tesaṃ sammutidesanaṃ deseti| ye pana paramatthavasena desanaṃ sutvā atthaṃ paṭivijjhitvā mohaṃ pahāya visesamadhigantuṃ samatthā, tesaṃ paramatthadesanaṃ deseti|</p>
 
@@ -976,7 +976,7 @@
 </div>
 
 <div id="an1_14" n="an1_14" type="vagga">
-<head rend="chapter">14. etadaggavaggo</head>
+<head rend="chapter"><readunit id="a1-14">14. etadaggavaggo</readunit></head>
 
 <p rend="subhead">(14) 1. paṭhametadaggavaggo</p>
 
@@ -2742,7 +2742,7 @@
 </div>
 
 <div id="an1_15" n="an1_15" type="vagga">
-<head rend="chapter">15. aṭṭhānapāḷi</head>
+<head rend="chapter"><readunit id="a1-15">15. aṭṭhānapāḷi</readunit></head>
 
 <p rend="subhead">(15) 1. aṭṭhānapāḷi-paṭhamavaggavaṇṇanā</p>
 
@@ -2862,7 +2862,7 @@
 </div>
 
 <div id="an1_16" n="an1_16" type="vagga">
-<head rend="chapter">16. ekadhammapāḷi</head>
+<head rend="chapter"><readunit id="a1-16">16. ekadhammapāḷi</readunit></head>
 
 <p rend="subhead">(16) 1. ekadhammapāḷi-paṭhamavaggavaṇṇanā</p>
 
@@ -3016,7 +3016,7 @@
 </div>
 
 <div id="an1_17" n="an1_17" type="vagga">
-<head rend="chapter">17. pasādakaradhammavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-17">17. pasādakaradhammavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="366"><hi rend="paranum">366</hi><hi rend="dot">.</hi> <hi rend="bold">addhamida</hi>ntiādīsu <pb ed="V" n="1.0368"/> <hi rend="bold">addha</hi>nti ekaṃsādhivacanametaṃ, addhā idaṃ lābhānaṃ, ekaṃso esa lābhānanti vuttaṃ hoti| <hi rend="bold">yadidaṃ āraññikatta</hi>nti yo esa āraññikabhāvo| idaṃ vuttaṃ hoti – āraññikabhāvo <pb ed="P" n="2.0040"/> nāma lābhānaṃ ekaṃso avassabhāvitā na sakkā āraññikena lābhaṃ na labhitunti| āraññiko hi bhikkhu ‘‘attano araññavāsassa anucchavikaṃ karissāmī’’ti pāpakaṃ nāma na karoti, athassa ‘‘āraññiko ayaṃ bhikkhū’’ti sañjātagāravo mahājano catupaccayena pūjaṃ karoti| tena vuttaṃ – ‘‘addhamidaṃ, bhikkhave, lābhānaṃ yadidaṃ āraññikatta’’nti| sesapadesupi eseva nayo| ettha pana <hi rend="bold">bāhusacca</hi>nti bahussutabhāvo| <hi rend="bold">thāvareyya</hi>nti cirapabbajitattā thāvarappattabhāvo| <hi rend="bold">ākappasampadā</hi>ti <pb ed="M" n="1.0381"/> cīvaraggahaṇādino ākappassa sampatti| <hi rend="bold">parivārasampadā</hi>ti suciparivāratā| <hi rend="bold">kolaputtī</hi>ti kulaputtabhāvo| <hi rend="bold">vaṇṇapokkharatā</hi>ti sampannarūpatā| <hi rend="bold">kalyāṇavākkaraṇatā</hi>ti vacanakiriyāya madhurabhāvo| <hi rend="bold">appābādhatā</hi>ti ārogyasampatti| arogo hi bhikkhu attano sarīrakalyāṇatāya vipassanādhure ca ganthadhure ca paripūrakārī hoti, tenassa lābho uppajjatīti|</p>
 
@@ -3024,7 +3024,7 @@
 </div>
 
 <div id="an1_18" n="an1_18" type="vagga">
-<head rend="chapter">18. aparaccharāsaṅghātavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-18">18. aparaccharāsaṅghātavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="382"><hi rend="paranum">382</hi><hi rend="dot">.</hi> <hi rend="bold">accharāsaṅghātamattampī</hi>ti <pb ed="V" n="1.0369"/> idampi suttaṃ aggikkhandhūpamaṭṭhuppattiyaṃyeva (a. ni. 7.72) vuttaṃ| appanāppattāya hi mettāya vipāke kathāyeva natthi| tassāyeva aṭṭhuppattiyā ayaṃ desanā āraddhāti veditabbā| tattha <hi rend="bold">paṭhama</hi>nti ‘‘gaṇanānupubbatā paṭhamaṃ, idaṃ <pb ed="P" n="2.0041"/> paṭhamaṃ samāpajjatīti paṭhama’’nti vibhaṅge (vibha. 568) vuttatthameva| <hi rend="bold">jhāna</hi>nti jhānaṃ nāma duvidhaṃ ārammaṇūpanijjhānañca lakkhaṇūpanijjhānañcāti| tattha <hi rend="bold">ārammaṇūpanijjhānaṃ</hi> nāma aṭṭha samāpattiyo| tā hi pathavīkasiṇādino ārammaṇassa upanijjhānato ārammaṇūpanijjhānanti vuccanti| <hi rend="bold">lakkhaṇūpanijjhāna</hi>nti vipassanāmaggaphalāni| vipassanā hi aniccādivasena saṅkhāralakkhaṇassa upanijjhānato lakkhaṇūpanijjhānaṃ nāma, vipassanāya pana lakkhaṇūpanijjhānakiccaṃ maggena sijjhatīti maggo lakkhaṇūpanijjhānaṃ, phalaṃ suññatanimittappaṇihita-lakkhaṇassa nibbānasseva upanijjhānato lakkhaṇūpanijjhānanti vuccati| tattha imasmiṃ pana atthe ārammaṇūpanijjhānaṃ adhippetaṃ| <hi rend="bold">ko pana vādo ye naṃ bahulīkarontī</hi>ti ye naṃ paṭhamajjhānaṃ bahulī karonti, punappunaṃ karonti, tesu vattabbameva natthi| sesamettha heṭṭhā vuttanayeneva veditabbaṃ|</p>
 
@@ -3222,7 +3222,7 @@
 </div>
 
 <div id="an1_19" n="an1_19" type="vagga">
-<head rend="chapter">19. kāyagatāsativaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-19">19. kāyagatāsativaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="563"><hi rend="paranum">563</hi><hi rend="dot">.</hi> <hi rend="bold">cetasā</hi> <pb ed="V" n="1.0397"/><pb ed="M" n="1.0410"/> <hi rend="bold">phuṭo</hi>ti ettha duvidhaṃ pharaṇaṃ āpopharaṇañca dibbacakkhupharaṇañca| tattha āpokasiṇaṃ samāpajjitvā āpena pharaṇaṃ āpopharaṇaṃ nāma| evaṃ phuṭepi mahāsamudde sabbā samuddaṅgamā <pb ed="P" n="2.0079"/> kunnadiyo antogadhāva honti| ālokaṃ pana vaḍḍhetvā dibbacakkhunā sakalasamuddadassanaṃ dibbacakkhupharaṇaṃ nāma| evaṃ phuṭepi mahāsamudde sabbā mahāsamuddaṅgamā kunnadiyo antogadhāva honti| <hi rend="bold">antogadhā tassā</hi>ti tassa bhikkhuno bhāvanāya abbhantaragatāva honti| <hi rend="bold">vijjābhāgiyā</hi>ti ettha sampayogavasena vijjaṃ bhajantīti vijjābhāgiyā, vijjābhāge vijjākoṭṭhāse vattantītipi vijjābhāgiyā| tattha vipassanāñāṇaṃ manomayiddhi cha abhiññāti aṭṭha vijjā, purimena atthena tāhi sampayuttadhammāpi vijjābhāgiyā| pacchimena atthena tāsu yā kāci ekā vijjā vijjā, sesā vijjābhāgiyāti evaṃ vijjāpi vijjāsampayuttadhammāpi vijjābhāgiyāteva veditabbā|</p>
 
@@ -3280,7 +3280,7 @@
 </div>
 
 <div id="an1_20" n="an1_20" type="vagga">
-<head rend="chapter">20. amatavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a1-20">20. amatavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="600-611"><hi rend="paranum">600-611</hi><hi rend="dot">.</hi> <hi rend="bold">amataṃ</hi> <pb ed="V" n="1.0404"/> <hi rend="bold">te, bhikkhave, na paribhuñjantī</hi>ti maraṇavirahitaṃ nibbānaṃ na paribhuñjantīti attho| nanu ca nibbānaṃ lokuttaraṃ, kāyagatāsati lokiyā, kathaṃ taṃ paribhuñjantā amataṃ paribhuñjantīti? taṃ bhāvetvā adhigantabbato| kāyagatañhi satiṃ bhāvento amatamadhigacchati, abhāvento nādhigacchati| tasmā evaṃ vuttaṃ| etenupāyena sabbattha attho veditabbo| api cettha <hi rend="bold">viraddha</hi>nti virādhitaṃ nādhigataṃ| <hi rend="bold">āraddha</hi>nti paripuṇṇaṃ| <hi rend="bold">pamādiṃsū</hi>ti pamajjanti| <hi rend="bold">pamuṭṭha</hi>nti sammuṭṭhaṃ <pb ed="P" n="2.0087"/> vissaritaṃ naṭṭhaṃ vā| <hi rend="bold">āsevita</hi>nti ādito sevitaṃ| <hi rend="bold">bhāvita</hi>nti vaḍḍhitaṃ| <hi rend="bold">bahulīkata</hi>nti punappunaṃ kataṃ| <hi rend="bold">anabhiññāta</hi>nti ñātabhiññāya ajānitaṃ| <hi rend="bold">apariññāta</hi>nti ñātapariññāvaseneva apariññātaṃ| <hi rend="bold">asacchikata</hi>nti apaccakkhakataṃ| sesaṃ sabbattha uttānatthamevāti|</p>
 

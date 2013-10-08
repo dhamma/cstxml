@@ -1,17 +1,17 @@
 <xml src="s0403a-a7.xml">
-<sutra id="a7"/>
-<div id="an7" n="an7" type="book">
+<pgroup id="a7"/>
+<div id="an7" n="an7" type="book"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāye</p>
 
-<head rend="book">sattakanipāta-aṭṭhakathā</head>
+<head rend="book"><book>sattakanipāta-aṭṭhakathā</book></head>
 
 <div id="an7_1" n="an7_1" type="pannasaka">
 <head rend="title">paṇṇāsakaṃ</head>
 
 <div id="an7_1_1" n="an7_1_1" type="vagga">
-<head rend="chapter">1. dhanavaggo</head>
+<head rend="chapter"><readunit id="a7-1">1. dhanavaggo</readunit></head>
 
 <p rend="subhead">1-5. paṭhamapiyasuttādivaṇṇanā</p>
 
@@ -29,7 +29,7 @@
 </div>
 
 <div id="an7_1_2" n="an7_1_2" type="vagga">
-<head rend="chapter">2. anusayavaggo</head>
+<head rend="chapter"><readunit id="a7-2">2. anusayavaggo</readunit></head>
 
 <p rend="subhead">3. kulasuttavaṇṇanā</p>
 
@@ -75,7 +75,7 @@
 </div>
 
 <div id="an7_1_3" n="an7_1_3" type="vagga">
-<head rend="chapter">3. vajjisattakavaggo</head>
+<head rend="chapter"><readunit id="a7-3">3. vajjisattakavaggo</readunit></head>
 
 <p rend="subhead">1. sārandadasuttavaṇṇanā</p>
 
@@ -159,7 +159,7 @@
 </div>
 
 <div id="an7_1_4" n="an7_1_4" type="vagga">
-<head rend="chapter">4. devatāvaggo</head>
+<head rend="chapter"><readunit id="a7-4">4. devatāvaggo</readunit></head>
 
 <p rend="subhead">5. paṭhamamittasuttavaṇṇanā</p>
 
@@ -177,7 +177,7 @@
 </div>
 
 <div id="an7_1_5" n="an7_1_5" type="vagga">
-<head rend="chapter">5. mahāyaññavaggo</head>
+<head rend="chapter"><readunit id="a7-5">5. mahāyaññavaggo</readunit></head>
 
 <p rend="subhead">1-2. sattaviññāṇaṭṭhitisuttādivaṇṇanā</p>
 
@@ -242,7 +242,7 @@
 </div>
 
 <div id="an7_2" n="an7_2" type="vagga">
-<head rend="chapter">6. abyākatavaggo</head>
+<head rend="chapter"><readunit id="a7-6">6. abyākatavaggo</readunit></head>
 
 <p rend="subhead">1. abyākatasuttavaṇṇanā</p>
 
@@ -302,7 +302,7 @@
 </div>
 
 <div id="an7_3" n="an7_3" type="vagga">
-<head rend="chapter">7. mahāvaggo</head>
+<head rend="chapter"><readunit id="a7-7">7. mahāvaggo</readunit></head>
 
 <p rend="subhead">1. hiriottappasuttavaṇṇanā</p>
 
@@ -380,7 +380,7 @@
 </div>
 
 <div id="an7_4" n="an7_4" type="vagga">
-<head rend="chapter">8. vinayavaggo</head>
+<head rend="chapter"><readunit id="a7-8">8. vinayavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamavinayadharasuttavaṇṇanā</p>
 

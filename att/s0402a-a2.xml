@@ -1,17 +1,17 @@
 <xml src="s0402a-a2.xml">
-<sutra id="a2"/>
-<div id="an2" n="an2" type="book">
+<pgroup id="a2"/>
+<div id="an2" n="an2" type="book"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāye</p>
 
-<head rend="book">dukanipāta-aṭṭhakathā</head>
+<head rend="book"><book>dukanipāta-aṭṭhakathā</book></head>
 
 <div id="an2_1" n="an2_1" type="pannasaka">
 <head rend="title">1. paṭhamapaṇṇāsakaṃ</head>
 
 <div id="an2_1_1" n="an2_1_1" type="vagga">
-<head rend="chapter">1. kammakāraṇavaggo</head>
+<head rend="chapter"><readunit id="a2-1">1. kammakāraṇavaggo</readunit></head>
 
 <p rend="subhead">1. vajjasuttavaṇṇanā</p>
 
@@ -79,7 +79,7 @@
 </div>
 
 <div id="an2_1_2" n="an2_1_2" type="vagga">
-<head rend="chapter">2. adhikaraṇavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-2">2. adhikaraṇavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> dutiyassa <pb ed="V" n="2.0009"/><pb ed="M" n="2.0009"/><pb ed="P" n="2.0098"/> paṭhame <hi rend="bold">balānī</hi>ti kenaṭṭhena balāni| akampiyaṭṭhena balāni nāma, tathā durabhibhavanaṭṭhena anajjhomaddanaṭṭhena ca| <hi rend="bold">paṭisaṅkhānabala</hi>nti paccavekkhaṇabalaṃ| <hi rend="bold">bhāvanābala</hi>nti brūhanabalaṃ vaḍḍhanabalaṃ| <hi rend="bold">suddhaṃ attāna</hi>nti idaṃ heṭṭhā vuttanayeneva veditabbaṃ| <hi rend="bold">tatrā</hi>ti tesu dvīsu balesu| <hi rend="bold">yamida</hi>nti yaṃ idaṃ| <hi rend="bold">sekhānametaṃ bala</hi>nti sattannaṃ sekhānaṃ ñāṇabalametaṃ| <hi rend="bold">sekhañhi so, bhikkhave, balaṃ āgammā</hi>ti sattannaṃ sekhānaṃ ñāṇabalaṃ ārabbha sandhāya paṭicca| <hi rend="bold">pajahatī</hi>ti maggena pajahati| <hi rend="bold">pahāyā</hi>ti iminā pana phalaṃ kathitaṃ| <hi rend="bold">yaṃ pāpa</hi>nti yaṃ pāpakaṃ lāmakaṃ| yasmā panetāni dvepi vaḍḍhetvā arahattaṃ pāpuṇāti, tasmā ettha etadaggaṃ nāgatanti veditabbaṃ|</p>
 
@@ -247,7 +247,7 @@
 </div>
 
 <div id="an2_1_3" n="an2_1_3" type="vagga">
-<head rend="chapter">3. bālavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-3">3. bālavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="22"><hi rend="paranum">22</hi><hi rend="dot">.</hi> tatiyassa <pb ed="V" n="2.0025"/> paṭhame <hi rend="bold">accayaṃ accayato na passatī</hi>ti ‘‘aparajjhitvā aparaddhaṃ mayā’’ti attano aparādhaṃ na passati, aparaddhaṃ mayāti vatvā daṇḍakammaṃ <pb ed="M" n="2.0025"/> āharitvā na khamāpetīti attho| <hi rend="bold">accayaṃ desentassā</hi>ti evaṃ vatvā daṇḍakammaṃ āharitvā khamāpentassa| <hi rend="bold">yathādhammaṃ nappaṭiggaṇhātī</hi>ti ‘‘puna evaṃ na karissāmi, khamatha me’’ti vuccamāno accayaṃ imaṃ yathādhammaṃ yathāsabhāvaṃ na paṭiggaṇhāti| ‘‘ito paṭṭhāya puna evarūpaṃ mā akāsi, khamāmi tuyha’’nti na vadati| sukkapakkho vuttapaṭipakkhanayeneva veditabbo|</p>
 
@@ -271,7 +271,7 @@
 </div>
 
 <div id="an2_1_4" n="an2_1_4" type="vagga">
-<head rend="chapter">4. samacittavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-4">4. samacittavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="33"><hi rend="paranum">33</hi><hi rend="dot">.</hi> catutthassa <pb ed="V" n="2.0028"/><pb ed="P" n="2.0121"/> paṭhame <hi rend="bold">asappurisabhūmī</hi>ti asappurisānaṃ patiṭṭhānaṭṭhānaṃ| <hi rend="bold">sappurisabhūmiya</hi>mpi eseva nayo| <hi rend="bold">akataññū</hi>ti kataṃ na jānāti| <hi rend="bold">akatavedī</hi>ti kataṃ pākaṭaṃ katvā na jānāti| <hi rend="bold">upaññāta</hi>nti vaṇṇitaṃ thomitaṃ pasatthaṃ| <hi rend="bold">yadida</hi>nti yā ayaṃ| <hi rend="bold">akataññutā akataveditā</hi>ti parena katassa upakārassa ajānanañceva pākaṭaṃ katvā ajānanañca| <hi rend="bold">kevalā</hi>ti sakalā| sukkapakkhepi vuttanayeneva attho veditabbo|</p>
 
@@ -367,7 +367,7 @@
 </div>
 
 <div id="an2_1_5" n="an2_1_5" type="vagga">
-<head rend="chapter">5. parisavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-5">5. parisavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="43"><hi rend="paranum">43</hi><hi rend="dot">.</hi> pañcamassa <pb ed="V" n="2.0044"/> paṭhame <hi rend="bold">uttānā</hi>ti pākaṭā appaṭicchannā| <hi rend="bold">gambhīrā</hi>ti guḷhā paṭicchannā| <hi rend="bold">uddhatā</hi>ti uddhaccena samannāgatā| <hi rend="bold">unnaḷā</hi>ti uggatanaḷā, uṭṭhitatucchamānāti vuttaṃ hoti| <hi rend="bold">capalā</hi>ti pattacīvaramaṇḍanādinā cāpallena yuttā| <hi rend="bold">mukharā</hi>ti mukhakharā kharavacanā| <hi rend="bold">vikiṇṇavācā</hi>ti asaṃyatavacanā divasampi niratthakavacanapalāpino| <hi rend="bold">muṭṭhassatī</hi>ti <pb ed="P" n="2.0144"/> vissaṭṭhasatino| <hi rend="bold">asampajānā</hi>ti nippaññā| <hi rend="bold">asamāhitā</hi>ti cittekaggatāmattassāpi alābhino| <hi rend="bold">pākatindriyā</hi>ti pakatiyā ṭhitehi vivaṭehi arakkhitehi indriyehi samannāgatā| sukkapakkho vuttavipallāsena veditabbo|</p>
 
@@ -401,7 +401,7 @@
 <head rend="title">2. dutiyapaṇṇāsakaṃ</head>
 
 <div id="an2_2_1" n="an2_2_1" type="vagga">
-<head rend="chapter">(6) 1. puggalavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-6">(6) 1. puggalavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="53"><hi rend="paranum">53</hi><hi rend="dot">.</hi> dutiyapaṇṇāsakassa <pb ed="V" n="2.0049"/><pb ed="M" n="2.0051"/> paṭhame cakkavattinā saddhiṃ gahitattā ‘‘lokānukampāyā’’ti na vuttaṃ| ettha ca cakkavattino uppattiyā dve sampattiyo labhanti, buddhānaṃ uppattiyā tissopi|</p>
 
@@ -427,7 +427,7 @@
 </div>
 
 <div id="an2_2_2" n="an2_2_2" type="vagga">
-<head rend="chapter">(7) 2. sukhavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-7">(7) 2. sukhavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="65"><hi rend="paranum">65</hi><hi rend="dot">.</hi> dutiyassa <pb ed="V" n="2.0052"/> paṭhame <hi rend="bold">gihisukha</hi>nti gihīnaṃ sabbakāmanipphattimūlakaṃ sukhaṃ| <hi rend="bold">pabbajitasukha</hi>nti pabbajitānaṃ pabbajjāmūlakaṃ sukhaṃ|</p>
 
@@ -457,7 +457,7 @@
 </div>
 
 <div id="an2_2_3" n="an2_2_3" type="vagga">
-<head rend="chapter">(8) 3. sanimittavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-8">(8) 3. sanimittavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="78-79"><hi rend="paranum">78-79</hi><hi rend="dot">.</hi> tatiyassa <pb ed="V" n="2.0054"/><pb ed="P" n="2.0154"/> paṭhame <hi rend="bold">sanimittā</hi>ti sakāraṇā| dutiyādīsupi eseva nayo| nidānaṃ hetu saṅkhāro paccayo rūpanti sabbānipi hi etāni kāraṇavevacanāneva|</p>
 
@@ -469,7 +469,7 @@
 </div>
 
 <div id="an2_2_4" n="an2_2_4" type="vagga">
-<head rend="chapter">(9) 4. dhammavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-9">(9) 4. dhammavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="88"><hi rend="paranum">88</hi><hi rend="dot">.</hi> catutthassa <pb ed="V" n="2.0055"/><pb ed="M" n="2.0055"/> paṭhame <hi rend="bold">cetovimuttī</hi>ti phalasamādhi| <hi rend="bold">paññāvimuttī</hi>ti phalapaññā|</p>
 
@@ -491,7 +491,7 @@
 </div>
 
 <div id="an2_2_5" n="an2_2_5" type="vagga">
-<head rend="chapter">(10) 5. bālavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-10">(10) 5. bālavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="99"><hi rend="paranum">99</hi><hi rend="dot">.</hi> pañcamassa <pb ed="V" n="2.0056"/> paṭhame <hi rend="bold">anāgataṃ bhāraṃ vahatī</hi>ti ‘‘sammajjanī padīpo ca, udakaṃ āsanena ca, chandapārisuddhiutukkhānaṃ, bhikkhugaṇanā ca ovādo, pātimokkhaṃ therabhāroti vuccatī’’ti imaṃ dasavidhaṃ therabhāraṃ navako hutvā <pb ed="M" n="2.0056"/> therena anajjhiṭṭho karonto anāgataṃ bhāraṃ vahati nāma| <hi rend="bold">āgataṃ bhāraṃ na vahatī</hi>ti thero samāno tameva dasavidhaṃ bhāraṃ attanā vā akaronto paraṃ vā asamādapento āgataṃ bhāraṃ na vahati nāma| dutiyasuttepi imināva nayena attho veditabbo|</p>
 
@@ -511,7 +511,7 @@
 <head rend="title">3. tatiyapaṇṇāsakaṃ</head>
 
 <div id="an2_3_1" n="an2_3_1" type="vagga">
-<head rend="chapter">(11) 1. āsāduppajahavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-11">(11) 1. āsāduppajahavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="119"><hi rend="paranum">119</hi><hi rend="dot">.</hi> tatiyassa <pb ed="V" n="2.0057"/><pb ed="M" n="2.0057"/> paṇṇāsakassa paṭhame <hi rend="bold">āsā</hi>ti taṇhā| <hi rend="bold">duppajahā</hi>ti duccajā dunnīharā| lābhāsāya duppajahabhāvena sattā dasapi vassāni vīsatipi saṭṭhipi vassāni ‘‘ajja labhissāma, sve labhissāmā’’ti rājānaṃ upaṭṭhahanti, kasikammādīni karonti, ubhatobyūḷhaṃ saṅgāmaṃ pakkhandanti, ajapathasaṅkupathādayo paṭipajjanti, nāvāya mahāsamuddaṃ pavisanti| jīvitāsāya duppajahattā sampatte maraṇakālepi vassasatajīviṃ attānaṃ maññanti| so kammakammanimittādīni passantopi ‘‘dānaṃ dehi pūjaṃ, karohī’’ti anukampakehi vuccamāno ‘‘nāhaṃ marissāmi, jīvissāmi’’cceva āsāya kassaci vacanaṃ na gaṇhāti|</p>
 
@@ -535,7 +535,7 @@
 </div>
 
 <div id="an2_3_2" n="an2_3_2" type="vagga">
-<head rend="chapter">(12) 2. āyācanavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-12">(12) 2. āyācanavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="131"><hi rend="paranum">131</hi><hi rend="dot">.</hi> dutiyassa <pb ed="V" n="2.0059"/> paṭhame <hi rend="bold">evaṃ sammā āyācamāno āyāceyyā</hi>ti saddho bhikkhu uṭṭhahitvā ‘‘yādiso sāriputtatthero paññāya, ahampi tādiso homi| yādiso mahāmoggallānatthero iddhiyā, ahampi tādiso homī’’ti evaṃ āyācanto pihento patthento yaṃ atthi, tasseva patthitattā sammā pattheyya nāma| ito uttari patthento micchā pattheyya| evarūpā hi patthanā yaṃ natthi, tassa patthitattā micchāpatthanā nāma hoti| kiṃ kāraṇā? <hi rend="bold">esā, bhikkhave, tulā etaṃ pamāṇa</hi>nti yathā hi suvaṇṇaṃ vā hiraññaṃ vā tulentassa tulā icchitabbā, dhaññaṃ minantassa mānanti tulane tulā, minane ca mānaṃ pamāṇaṃ hoti, evameva mama sāvakānaṃ bhikkhūnaṃ esā tulā etaṃ pamāṇaṃ yadidaṃ sāriputtamoggallānā| te gahetvā ‘‘ahampi ñāṇena vā iddhiyā vā etampamāṇo homī’’ti attānaṃ tuletuṃ vā pamāṇetuṃ vā sakkā, na ito aññathā|</p>
 
@@ -555,7 +555,7 @@
 </div>
 
 <div id="an2_3_3" n="an2_3_3" type="vagga">
-<head rend="chapter">(13) 3. dānavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-13">(13) 3. dānavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="142"><hi rend="paranum">142</hi><hi rend="dot">.</hi> tatiyassa <pb ed="V" n="2.0061"/> paṭhame <hi rend="bold">dānānī</hi>ti diyyanakavasena dānāni, deyyadhammassetaṃ nāmaṃ| savatthukā vā cetanā dānaṃ, sampattipariccāgassetaṃ nāmaṃ| <hi rend="bold">āmisadāna</hi>nti cattāro paccayā diyyanakavasena āmisadānaṃ nāma| <hi rend="bold">dhammadāna</hi>nti idhekacco amatapattipaṭipadaṃ kathetvā deti, idaṃ dhammadānaṃ nāma|</p>
 
@@ -577,7 +577,7 @@
 </div>
 
 <div id="an2_3_4" n="an2_3_4" type="vagga">
-<head rend="chapter">(14) 4. santhāravaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-14">(14) 4. santhāravaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="152"><hi rend="paranum">152</hi><hi rend="dot">.</hi> catutthassa <pb ed="V" n="2.0062"/> paṭhame catūhi paccayehi attano ca parassa ca antarapaṭicchādanavasena santharaṇaṃ <hi rend="bold">āmisasanthāro,</hi> dhammena santharaṇaṃ <hi rend="bold">dhammasanthāro</hi>| dutiye upasaggamattaṃ viseso|</p>
 
@@ -605,7 +605,7 @@
 </div>
 
 <div id="an2_3_5" n="an2_3_5" type="vagga">
-<head rend="chapter">(15) 5. samāpattivaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a2-15">(15) 5. samāpattivaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="164"><hi rend="paranum">164</hi><hi rend="dot">.</hi> pañcamassa <pb ed="V" n="2.0064"/> paṭhame <hi rend="bold">samāpattikusalatā</hi>ti āhārasappāyaṃ utusappāyaṃ pariggaṇhitvā samāpattisamāpajjane chekatā| <hi rend="bold">samāpattivuṭṭhānakusalatā</hi>ti yathāparicchedena gate kāle viyatto hutvā uṭṭhahanto vuṭṭhānakusalo nāma hoti, evaṃ kusalatā|</p>
 
@@ -642,7 +642,7 @@
 </div>
 
 <div id="an2_4" n="an2_4" type="peyyala">
-<head rend="chapter">1. kodhapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a2-16">1. kodhapeyyālaṃ</readunit></head>
 
 <p rend="bodytext" n="181"><hi rend="paranum">181</hi><hi rend="dot">.</hi> ito <pb ed="M" n="2.0064"/><pb ed="V" n="2.0066"/> paresu kujjhanalakkhaṇo <hi rend="bold">kodho</hi>| upanandhanalakkhaṇo <hi rend="bold">upanāho</hi>| sukatakaraṇamakkhanalakkhaṇo <hi rend="bold">makkho</hi>| yugaggāhalakkhaṇo <hi rend="bold">palāso</hi>| usūyanalakkhaṇā <hi rend="bold">issā</hi>| pañcamaccherabhāvo <pb ed="P" n="2.0163"/> <hi rend="bold">macchariyaṃ</hi>| taṃ sabbampi maccharāyanalakkhaṇaṃ| katapaṭicchādanalakkhaṇā <hi rend="bold">māyā</hi>| kerāṭikalakkhaṇaṃ <hi rend="bold">sāṭheyyaṃ</hi>| alajjanākāro <hi rend="bold">ahirikaṃ</hi>| upavādato abhāyanākāro <hi rend="bold">anottappaṃ| akkodhā</hi>dayo tesaṃ paṭipakkhavasena veditabbā|</p>
 
@@ -656,7 +656,7 @@
 </div>
 
 <div id="an2_5" n="an2_5" type="peyyala">
-<head rend="chapter">2. akusalapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a2-17">2. akusalapeyyālaṃ</readunit></head>
 
 <p rend="bodytext" n="191-200"><hi rend="paranum">191-200</hi><hi rend="dot">.</hi> <hi rend="bold">sāvajjā</hi>ti <pb ed="V" n="2.0067"/> sadosā| <hi rend="bold">anavajjā</hi>ti niddosā| <hi rend="bold">dukkhudrayā</hi>ti dukkhavaḍḍhikā| <hi rend="bold">sukhudriyā</hi>ti sukhavaḍḍhikā| <hi rend="bold">sabyābajjhā</hi>ti sadukkhā| <hi rend="bold">abyābajjhā</hi>ti niddukkhā| ettāvatā vaṭṭavivaṭṭameva kathitaṃ|</p>
 
@@ -664,7 +664,7 @@
 </div>
 
 <div id="an2_6" n="an2_6" type="peyyala">
-<head rend="chapter">3. vinayapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a2-18">3. vinayapeyyālaṃ</readunit></head>
 
 <p rend="bodytext" n="201"><hi rend="paranum">201</hi><hi rend="dot">.</hi> <hi rend="bold">dveme</hi><pb ed="V" n="2.0068"/><pb ed="M" n="2.0065"/>, <hi rend="bold">bhikkhave, atthavase paṭiccā</hi>ti, bhikkhave, dve atthe nissāya dve kāraṇāni sandhāya| <hi rend="bold">sikkhāpadaṃ paññatta</hi>nti sikkhākoṭṭhāso ṭhapito| <hi rend="bold">saṅghasuṭṭhutāyā</hi>ti saṅghassa suṭṭhubhāvāya, ‘‘suṭṭhu, bhante’’ti vatvā sampaṭicchanatthāyāti attho| <hi rend="bold">saṅghaphāsutāyā</hi>ti saṅghassa phāsuvihāratthāya| <hi rend="bold">dummaṅkūna</hi>nti dussīlānaṃ| <hi rend="bold">pesalāna</hi>nti pīyasīlānaṃ| <hi rend="bold">diṭṭhadhammikānaṃ āsavāna</hi>nti diṭṭhadhamme imasmiṃyeva attabhāve vītikkamapaccayā paṭiladdhabbānaṃ vadhabandhanādidukkhadhammasaṅkhātānaṃ āsavānaṃ| <hi rend="bold">saṃvarāyā</hi>ti pidahanatthāya| <hi rend="bold">samparāyikāna</hi>nti <pb ed="P" n="2.0164"/> tathārūpānaṃyeva apāyadukkhasaṅkhātānaṃ samparāye uppajjanakāsavānaṃ| <hi rend="bold">paṭighātāyā</hi>ti paṭisedhanatthāya| <hi rend="bold">verāna</hi>nti akusalaverānampi puggalaverānampi| <hi rend="bold">vajjāna</hi>nti dosānaṃ| te eva vā dukkhadhammā vajjanīyattā idha vajjāti adhippetā| <hi rend="bold">bhayāna</hi>nti cittutrāsabhayānampi bhayahetūnaṃ tesaṃyeva dukkhadhammānampi| <hi rend="bold">akusalāna</hi>nti akkhamaṭṭhena akusalasaṅkhātānaṃ dukkhadhammānaṃ| <hi rend="bold">gihīnaṃ anukampāyā</hi>ti gihīsu ujjhāyantesu paññattasikkhāpadaṃ gihīnaṃ anukampāya paññattaṃ nāma| <hi rend="bold">pāpicchānaṃ pakkhupacchedāyā</hi>ti pāpicchā pakkhaṃ nissāya saṅghaṃ bhindeyyunti tesaṃ pakkhupacchedanatthāya| <hi rend="bold">appasannānaṃ pasādāyā</hi>ti pubbe appasannānampi paṇḍitamanussānaṃ sikkhāpadapaññattisampadaṃ disvā pasāduppattiatthāya| <hi rend="bold">pasannānaṃ bhiyyobhāvāyā</hi>ti pasannānaṃ uparūparipasādabhāvāya| <hi rend="bold">saddhammaṭṭhitiyā</hi>ti saddhammassa ciraṭṭhitatthaṃ| <hi rend="bold">vinayānuggahāyā</hi>ti pañcavidhassāpi vinayassa anuggaṇhanatthāya|</p>
 
@@ -676,7 +676,7 @@
 </div>
 
 <div id="an2_7" n="an2_7" type="peyyala">
-<head rend="chapter">4. rāgapeyyālaṃ</head>
+<head rend="chapter"><readunit id="a2-19">4. rāgapeyyālaṃ</readunit></head>
 
 <p rend="bodytext" n="231"><hi rend="paranum">231</hi><hi rend="dot">.</hi> <hi rend="bold">rāgassa</hi><pb ed="V" n="2.0070"/><pb ed="M" n="2.0067"/>, <hi rend="bold">bhikkhave, abhiññāyā</hi>ti pañcakāmaguṇikarāgassa abhijānanatthaṃ paccakkhakaraṇatthaṃ| <hi rend="bold">pariññāyā</hi>ti parijānanatthaṃ| <hi rend="bold">parikkhayāyā</hi>ti parikkhayagamanatthaṃ| <hi rend="bold">pahānāyā</hi>ti pajahanatthaṃ| <hi rend="bold">khayāya vayāyā</hi>ti khayavayagamanatthaṃ| <hi rend="bold">virāgāyā</hi>ti virajjanatthaṃ| <hi rend="bold">nirodhāyā</hi>ti nirujjhanatthaṃ| <hi rend="bold">cāgāyā</hi>ti cajanatthaṃ| <hi rend="bold">paṭinissaggāyā</hi>ti paṭinissajjanatthaṃ|</p>
 
@@ -688,6 +688,6 @@
 <p rend="centre">manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya</p>
 
 <trailer rend="centre">dukanipātassa saṃvaṇṇanā niṭṭhitā|</trailer>
-</div>
+<bookend/>
 
 </xml>

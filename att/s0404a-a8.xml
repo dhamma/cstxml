@@ -1,17 +1,17 @@
 <xml src="s0404a-a8.xml">
-<sutra id="a8"/>
-<div id="an8" n="an8" type="book">
+<pgroup id="a8"/>
+<div id="an8" n="an8" type="book"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāye</p>
 
-<head rend="book">aṭṭhakanipāta-aṭṭhakathā</head>
+<head rend="book"><book>aṭṭhakanipāta-aṭṭhakathā</book></head>
 
 <div id="an8_1" n="an8_1" type="pannasaka">
 <head rend="title">1. paṭhamapaṇṇāsakaṃ</head>
 
 <div id="an8_1_1" n="an8_1_1" type="vagga">
-<head rend="chapter">1. mettāvaggo</head>
+<head rend="chapter"><readunit id="a8-1">1. mettāvaggo</readunit></head>
 
 <p rend="subhead">1. mettāsuttavaṇṇanā</p>
 
@@ -65,7 +65,7 @@
 </div>
 
 <div id="an8_1_2" n="an8_1_2" type="vagga">
-<head rend="chapter">2. mahāvaggo</head>
+<head rend="chapter"><readunit id="a8-2">2. mahāvaggo</readunit></head>
 
 <p rend="subhead">1. verañjasuttavaṇṇanā</p>
 
@@ -211,7 +211,7 @@
 </div>
 
 <div id="an8_1_3" n="an8_1_3" type="vagga">
-<head rend="chapter">3. gahapativaggo</head>
+<head rend="chapter"><readunit id="a8-3">3. gahapativaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamuggasuttavaṇṇanā</p>
 
@@ -273,7 +273,7 @@
 </div>
 
 <div id="an8_1_4" n="an8_1_4" type="vagga">
-<head rend="chapter">4. dānavaggo</head>
+<head rend="chapter"><readunit id="a8-4">4. dānavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamadānasuttavaṇṇanā</p>
 
@@ -329,7 +329,7 @@
 </div>
 
 <div id="an8_1_5" n="an8_1_5" type="vagga">
-<head rend="chapter">5. uposathavaggo</head>
+<head rend="chapter"><readunit id="a8-5">5. uposathavaggo</readunit></head>
 
 <p rend="subhead">4. vāseṭṭhasuttavaṇṇanā</p>
 
@@ -355,7 +355,7 @@
 <head rend="title">2. dutiyapaṇṇāsakaṃ</head>
 
 <div id="an8_2_1" n="an8_2_1" type="vagga">
-<head rend="chapter">(6) 1. gotamīvaggo</head>
+<head rend="chapter"><readunit id="a8-6">(6) 1. gotamīvaggo</readunit></head>
 
 <p rend="subhead">1. gotamīsuttavaṇṇanā</p>
 
@@ -413,7 +413,7 @@
 </div>
 
 <div id="an8_2_2" n="an8_2_2" type="vagga">
-<head rend="chapter">(7) 2. bhūmicālavaggo</head>
+<head rend="chapter"><readunit id="a8-7">(7) 2. bhūmicālavaggo</readunit></head>
 
 <p rend="subhead">1. icchāsuttavaṇṇanā</p>
 
@@ -499,7 +499,7 @@
 </div>
 
 <div id="an8_2_3" n="an8_2_3" type="vagga">
-<head rend="chapter">(8) 3. yamakavaggo</head>
+<head rend="chapter"><readunit id="a8-8">(8) 3. yamakavaggo</readunit></head>
 
 <p rend="subhead">1-2. saddhāsuttadvayavaṇṇanā</p>
 
@@ -517,7 +517,7 @@
 </div>
 
 <div id="an8_2_4" n="an8_2_4" type="vagga">
-<head rend="chapter">(9) 4. sativaggo</head>
+<head rend="chapter"><readunit id="a8-9">(9) 4. sativaggo</readunit></head>
 
 <p rend="subhead">1-2. satisampajaññasuttavaṇṇanā</p>
 
@@ -559,7 +559,7 @@
 </div>
 
 <div id="an8_2_5" n="an8_2_5" type="vagga">
-<head rend="chapter">(10) 5. sāmaññavaggo</head>
+<head rend="chapter"><readunit id="a8-10">(10) 5. sāmaññavaggo</readunit></head>
 
 <p rend="bodytext" n="91"><hi rend="paranum">91</hi><hi rend="dot">.</hi> ito <pb ed="V" n="3.0254"/> paraṃ <hi rend="bold">atha kho bojjhā upāsikā</hi>tiādīsu bojjhā upāsikā, sirimā upāsikā, padumā upāsikā, sutanā upāsikā, manujā upāsikā, uttarā upāsikā, muttā upāsikā, khemā upāsikā, rucī upāsikā, cundī rājakumārī, bimbī upāsikā, sumanā rājakumārī, mallikā devī<pb ed="P" n="4.0161"/>, tissā upāsikā, tissāmātā upāsikā, soṇā upāsikā, soṇāya mātā upāsikā, kāṇā upāsikā, kāṇamātā upāsikā, uttarā nandamātā, visākhā migāramātā, khujjuttarā upāsikā, sāmāvatī upāsikā, suppavāsā koliyadhītā, suppiyā upāsikā, nakulamātā gahapatānīti imāsaṃ ettakānaṃ aṭṭhaṅgasamannāgataṃ uposathakammameva kathitaṃ| icchantena vitthāretvā kathetabbaṃ| sesaṃ sabbattha uttānatthamevāti|</p>
 </div>
@@ -568,6 +568,6 @@
 <p rend="centre">manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya</p>
 
 <trailer rend="centre">aṭṭhakanipātassa saṃvaṇṇanā niṭṭhitā|</trailer>
-</div>
+<bookend/>
 
 </xml>

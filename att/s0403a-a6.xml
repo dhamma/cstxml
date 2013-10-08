@@ -1,17 +1,17 @@
 <xml src="s0403a-a6.xml">
-<sutra id="a6"/>
-<div id="an6" n="an6" type="book">
+<pgroup id="a6"/>
+<div id="an6" n="an6" type="book"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāye</p>
 
-<head rend="book">chakkanipāta-aṭṭhakathā</head>
+<head rend="book"><book>chakkanipāta-aṭṭhakathā</book></head>
 
 <div id="an6_1" n="an6_1" type="pannasaka">
 <head rend="title">1. paṭhamapaṇṇāsakaṃ</head>
 
 <div id="an6_1_1" n="an6_1_1" type="vagga">
-<head rend="chapter">1. āhuneyyavaggo</head>
+<head rend="chapter"><readunit id="a6-1">1. āhuneyyavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamāhuneyyasuttavaṇṇanā</p>
 
@@ -39,7 +39,7 @@
 </div>
 
 <div id="an6_1_2" n="an6_1_2" type="vagga">
-<head rend="chapter">2. sāraṇīyavaggo</head>
+<head rend="chapter"><readunit id="a6-2">2. sāraṇīyavaggo</readunit></head>
 
 <p rend="subhead">1. paṭhamasāraṇīyasuttavaṇṇanā</p>
 
@@ -125,7 +125,7 @@
 </div>
 
 <div id="an6_1_3" n="an6_1_3" type="vagga">
-<head rend="chapter">3. anuttariyavaggo</head>
+<head rend="chapter"><readunit id="a6-3">3. anuttariyavaggo</readunit></head>
 
 <p rend="subhead">1-2. sāmakasuttādivaṇṇanā</p>
 
@@ -179,7 +179,7 @@
 </div>
 
 <div id="an6_1_4" n="an6_1_4" type="vagga">
-<head rend="chapter">4. devatāvaggo</head>
+<head rend="chapter"><readunit id="a6-4">4. devatāvaggo</readunit></head>
 
 <p rend="subhead">1. sekhasuttavaṇṇanā</p>
 
@@ -229,7 +229,7 @@
 </div>
 
 <div id="an6_1_5" n="an6_1_5" type="vagga">
-<head rend="chapter">5. dhammikavaggo</head>
+<head rend="chapter"><readunit id="a6-5">5. dhammikavaggo</readunit></head>
 
 <p rend="subhead">1. nāgasuttavaṇṇanā</p>
 
@@ -351,7 +351,7 @@
 <head rend="title">2. dutiyapaṇṇāsakaṃ</head>
 
 <div id="an6_2_1" n="an6_2_1" type="vagga">
-<head rend="chapter">6. mahāvaggo</head>
+<head rend="chapter"><readunit id="a6-6">6. mahāvaggo</readunit></head>
 
 <p rend="subhead">1. soṇasuttavaṇṇanā</p>
 
@@ -457,7 +457,7 @@
 </div>
 
 <div id="an6_2_2" n="an6_2_2" type="vagga">
-<head rend="chapter">7. devatāvaggo</head>
+<head rend="chapter"><readunit id="a6-7">7. devatāvaggo</readunit></head>
 
 <p rend="subhead">1-3. anāgāmiphalasuttādivaṇṇanā</p>
 
@@ -491,7 +491,7 @@
 </div>
 
 <div id="an6_2_3" n="an6_2_3" type="vagga">
-<head rend="chapter">8. arahattavaggo</head>
+<head rend="chapter"><readunit id="a6-8">8. arahattavaggo</readunit></head>
 
 <p rend="subhead">1. dukkhasuttavaṇṇanā</p>
 
@@ -525,7 +525,7 @@
 </div>
 
 <div id="an6_2_4" n="an6_2_4" type="vagga">
-<head rend="chapter">9. sītivaggo</head>
+<head rend="chapter"><readunit id="a6-9">9. sītivaggo</readunit></head>
 
 <p rend="subhead">1. sītibhāvasuttavaṇṇanā</p>
 
@@ -547,7 +547,7 @@
 </div>
 
 <div id="an6_2_5" n="an6_2_5" type="vagga">
-<head rend="chapter">10. ānisaṃsavaggo</head>
+<head rend="chapter"><readunit id="a6-10">10. ānisaṃsavaggo</readunit></head>
 
 <p rend="subhead">1-2. pātubhāvasuttādivaṇṇanā</p>
 
@@ -572,7 +572,7 @@
 </div>
 
 <div id="an6_3" n="an6_3" type="vagga">
-<head rend="chapter">11. tikavaggo</head>
+<head rend="chapter"><readunit id="a6-11">11. tikavaggo</readunit></head>
 
 <p rend="subhead">1. rāgasuttavaṇṇanā</p>
 
@@ -594,13 +594,13 @@
 </div>
 
 <div id="an6_4" n="an6_4" type="vagga">
-<head rend="chapter">12. sāmaññavaggavaṇṇanā</head>
+<head rend="chapter"><readunit id="a6-12">12. sāmaññavaggavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="119-121"><hi rend="paranum">119-121</hi><hi rend="dot">.</hi> ito <pb ed="P" n="3.0416"/> paresu <hi rend="bold">tapusso</hi>ti dvevācikupāsako| <hi rend="bold">tathāgate niṭṭhaṅgato</hi>ti buddhaguṇesu patiṭṭhitacitto pahīnakaṅkho| amataṃ addasāti <hi rend="bold">amataddaso| ariyenā</hi>ti niddosena lokuttarasīlena| <hi rend="bold">ñāṇenā</hi>ti paccavekkhaṇañāṇena| <hi rend="bold">vimuttiyā</hi>ti sekhaphalavimuttiyā<pb ed="M" n="3.0143"/>| <hi rend="bold">tavakaṇṇiko</hi>ti evaṃnāmako gahapati| tapakaṇṇikotipi pāḷi|</p>
 </div>
 
 <div id="an6_5" n="an6_5" type="peyyala">
-<head rend="chapter">24. rāgapeyyālavaṇṇanā</head>
+<head rend="chapter"><readunit id="a6-13">24. rāgapeyyālavaṇṇanā</readunit></head>
 
 <p rend="bodytext" n="140"><hi rend="paranum">140</hi><hi rend="dot">.</hi> <hi rend="bold">rāgassā</hi>ti <pb ed="V" n="3.0146"/> pañcakāmaguṇikarāgassa| sesaṃ sabbattha uttānatthamevāti|</p>
 </div>
@@ -608,6 +608,6 @@
 <p rend="centre">manorathapūraṇiyā aṅguttaranikāya-aṭṭhakathāya</p>
 
 <trailer rend="centre">chakkanipātassa saṃvaṇṇanā niṭṭhitā|</trailer>
-</div>
+<bookend/>
 
 </xml>
