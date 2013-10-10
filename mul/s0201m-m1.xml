@@ -4,7 +4,7 @@
 <p rend="nikaya"><nikaya>majjhimanikāyo</nikaya></p>
 
 <div id="mn1" n="mn1" type="book"/>
-<head rend="book"><book>mūlapaṇṇāsapāḷi</book></head>
+<head rend="book"><book id="mn1">mūlapaṇṇāsapāḷi</book></head>
 
 <div id="mn1_1" n="mn1_1" type="vagga"/>
 <head rend="chapter">1. mūlapariyāyavaggo</head>

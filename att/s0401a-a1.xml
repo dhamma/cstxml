@@ -5,7 +5,7 @@
 <p rend="nikaya"><nikaya>aṅguttaranikāye</nikaya></p>
 
 <div id="an1" n="an1" type="book"/>
-<head rend="book"><book>ekakanipāta-aṭṭhakathā</book></head>
+<head rend="book"><book id="an1">ekakanipāta-aṭṭhakathā</book></head>
 
 <div id="an1_0" n="an1_0" type="intro">
 <head rend="subsubhead"><readunit id="a1-0">ganthārambhakathā</readunit></head>

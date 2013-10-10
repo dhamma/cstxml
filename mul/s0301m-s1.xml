@@ -3,7 +3,7 @@
 <p rend="nikaya"><nikaya>saṃyuttanikāyo</nikaya></p>
 
 <div id="sn1" n="sn1" type="book"/>
-<head rend="book"><book>sagāthāvaggo</book></head>
+<head rend="book"><book id="sn1">sagāthāvaggo</book></head>
 
 <div id="sn1_1" n="sn1_1" type="samyutta">
 <head rend="chapter"><pgroup id="s1"/><readunit id="s1">1. devatāsaṃyuttaṃ</readunit></head>

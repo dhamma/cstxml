@@ -4,7 +4,7 @@
 <p rend="nikaya"><nikaya>dīghanikāyo</nikaya></p>
 
 <div id="dn1" n="dn1" type="book"/>
-<head rend="book"><book>sīlakkhandhavaggapāḷi</book></head>
+<head rend="book"><book id="dn1">sīlakkhandhavaggapāḷi</book></head>
 
 <div id="dn1_1" n="dn1_1" type="sutta">
 <head rend="chapter"><pgroup id="d1"/><readunit id="d1">1. brahmajālasuttaṃ</readunit></head>

@@ -3,7 +3,7 @@
 <p rend="nikaya">saṃyuttanikāye</p>
 
 <div id="sn4" n="sn4" type="book"/>
-<head rend="book"><book>saḷāyatanavagga-aṭṭhakathā</book></head>
+<head rend="book"><book id="sn4">saḷāyatanavagga-aṭṭhakathā</book></head>
 
 <div id="sn4_1" n="sn4_1" type="samyutta">
 <head rend="chapter"><pgroup id="s35"/><readunit id="s35">1. saḷāyatanasaṃyuttaṃ</readunit></head>

@@ -4,7 +4,7 @@
 <p rend="nikaya">saṃyuttanikāye</p>
 
 <div id="sn3" n="sn3" type="book"/>
-<head rend="book"><book>khandhavaggaṭīkā</book></head>
+<head rend="book"><book id="sn3">khandhavaggaṭīkā</book></head>
 
 <div id="sn3_1" n="sn3_1" type="samyutta">
 <head rend="chapter"><pgroup id="s22"/><readunit id="s22">1. khandhasaṃyuttaṃ</readunit></head>

@@ -3,7 +3,7 @@
 <p rend="nikaya"><nikaya>dīghanikāye</nikaya></p>
 
 <div id="dn1" n="dn1" type="book"/>
-<head rend="book"><book>sīlakkhandhavaggaṭīkā</book></head>
+<head rend="book"><book id="dn1">sīlakkhandhavaggaṭīkā</book></head>
 <div id="dn1_0" n="dn1_0" type="sutta">
 <p rend="subsubhead"><pgroup id="d0"/><readunit id="d0">ganthārambhakathāvaṇṇanā</readunit></p>
 

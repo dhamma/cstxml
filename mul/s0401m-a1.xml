@@ -4,7 +4,7 @@
 <p rend="nikaya"><nikaya>aṅguttaranikāyo</nikaya></p>
 
 <div id="an1" n="an1" type="book"/>
-<head rend="book"><book>ekakanipātapāḷi</book></head>
+<head rend="book"><book id="an1">ekakanipātapāḷi</book></head>
 <pgroup id="a1"/>
 <div id="an1_1" n="an1_1" type="vagga">
 <head rend="chapter"><readunit id="a1-1">1. rūpādivaggo</readunit></head>

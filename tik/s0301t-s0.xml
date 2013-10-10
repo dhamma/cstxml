@@ -3,7 +3,7 @@
 <p rend="nikaya"><nikaya>saṃyuttanikāye</nikaya></p>
 
 <div id="sn1" n="sn1" type="book"/>
-<head rend="book"><book>sagāthāvaggaṭīkā</book></head>
+<head rend="book"><book id="sn1">sagāthāvaggaṭīkā</book></head>
 
 <div id="sn1_0" n="sn1_0" type="samyutta">
 <head rend="subsubhead"><pgroup id="s0"/><readunit id="s0">ganthārambhakathāvaṇṇanā</readunit></head>

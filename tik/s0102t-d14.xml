@@ -3,7 +3,7 @@
 <p rend="nikaya">dīghanikāye</p>
 
 <div id="dn2" n="dn2" type="book"/>
-<head rend="book"><book>mahāvaggaṭīkā</book></head>
+<head rend="book"><book id="dn2">mahāvaggaṭīkā</book></head>
 
 <div id="dn2_1" n="dn2_1" type="sutta">
 <head rend="chapter"><pgroup id="d14"/><readunit id="d14">1. mahāpadānasuttavaṇṇanā</readunit></head>

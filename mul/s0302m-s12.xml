@@ -4,7 +4,7 @@
 <p rend="nikaya">saṃyuttanikāyo</p>
 
 <div id="sn2" n="sn2" type="book"/>
-<head rend="book"><book>nidānavaggo</book></head>
+<head rend="book"><book id="sn2">nidānavaggo</book></head>
 
 <div id="sn2_1" n="sn2_1" type="samyutta">
 <head rend="chapter"><pgroup id="s12"/><readunit id="s12">1. nidānasaṃyuttaṃ</readunit></head>

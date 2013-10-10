@@ -4,7 +4,7 @@
 <p rend="nikaya">saṃyuttanikāye</p>
 
 <div id="sn5" n="sn5" type="book"/>
-<head rend="book"><book>mahāvagga-aṭṭhakathā</book></head>
+<head rend="book"><book id="sn5">mahāvagga-aṭṭhakathā</book></head>
 
 <div id="sn5_1" n="sn5_1" type="samyutta">
 <head rend="chapter"><pgroup id="s45"/><readunit id="s45">1. maggasaṃyuttaṃ</readunit></head>
