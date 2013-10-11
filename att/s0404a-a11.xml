@@ -1,12 +1,12 @@
 <xml src="s0404a-a11.xml">
-<pgroup id="a11"/>
+
 <div id="an11" n="an11" type="book"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāye</p>
 
 <head rend="book"><book id="an11">ekādasakanipāta-aṭṭhakathā</book></head>
-
+<pgroup id="a11"/>
 <p rend="chapter"><readunit id="a11-1">1. nissayava</readunit>ggo</p>
 
 <p rend="subhead">1-6. kimatthiyasuttādivaṇṇanā</p>

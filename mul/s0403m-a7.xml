@@ -1,11 +1,11 @@
 <xml src="s0403m-a7.xml">
-<pgroup id="a7"/>
+
 
 <p rend="nikaya">aṅguttaranikāyo</p>
 
 <div id="an7" n="an7" type="book"/>
 <head rend="book"><book id="an7">sattakanipātapāḷi</book></head>
-
+<pgroup id="a7"/>
 <div id="an7_1" n="an7_1" type="pannasaka">
 <head rend="title">paṭhamapaṇṇāsakaṃ</head>
 

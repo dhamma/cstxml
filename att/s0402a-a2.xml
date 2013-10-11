@@ -1,12 +1,12 @@
 <xml src="s0402a-a2.xml">
-<pgroup id="a2"/>
+
 <div id="an2" n="an2" type="book"/>
 <p rend="centre" n="0">|| namo tassa bhagavato arahato sammāsambuddhassa||</p>
 
 <p rend="nikaya">aṅguttaranikāye</p>
 
 <head rend="book"><book id="an2">dukanipāta-aṭṭhakathā</book></head>
-
+<pgroup id="a2"/>
 <div id="an2_1" n="an2_1" type="pannasaka">
 <head rend="title">1. paṭhamapaṇṇāsakaṃ</head>
 
