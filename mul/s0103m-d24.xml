@@ -8,7 +8,7 @@
 <div id="dn3_1" n="dn3_1" type="sutta">
 <head rend="chapter"><pgroup id="d24"/><readunit id="d24">1. pāthikasuttaṃ</readunit></head>
 
-<p rend="subhead">sunakkhattavatthu</p>
+<p rend="subhead" sid="1">sunakkhattavatthu</p>
 
 <p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> evaṃ <pb ed="M" n="3.0001"/><pb ed="P" n="3.0001"/><pb ed="V" n="3.0001"/><pb ed="T" n="3.0001"/> me sutaṃ – ekaṃ samayaṃ bhagavā mallesu viharati anupiyaṃ nāma <note>anuppiyaṃ nāma (syā.)</note> mallānaṃ nigamo| atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya anupiyaṃ piṇḍāya pāvisi| atha kho bhagavato etadahosi – ‘‘atippago kho tāva anupiyāyaṃ <note>anupiyaṃ (ka.)</note> piṇḍāya carituṃ| yaṃnūnāhaṃ yena bhaggavagottassa paribbājakassa ārāmo, yena bhaggavagotto paribbājako tenupasaṅkameyya’’nti|</p>
 
@@ -30,7 +30,7 @@
 
 <p rend="bodytext">evaṃ pi <pb ed="P" n="3.0006"/> kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva imasmā dhammavinayā, yathā taṃ āpāyiko nerayiko|</p>
 
-<p rend="subhead">korakkhattiyavatthu</p>
+<p rend="subhead" sid="2">korakkhattiyavatthu</p>
 
 <p rend="bodytext" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi> ‘‘ekamidāhaṃ, bhaggava, samayaṃ thūlūsu <note>bumūsu (sī. pī.)</note> viharāmi uttarakā nāma thūlūnaṃ nigamo| atha khvāhaṃ, bhaggava, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sunakkhattena licchaviputtena pacchāsamaṇena uttarakaṃ piṇḍāya pāvisiṃ| tena kho pana samayena acelo korakkhattiyo kukkuravatiko catukkuṇḍiko <note>catukuṇḍiko (sī. pī.) catukoṇḍiko (syā. ka.)</note> chamānikiṇṇaṃ bhakkhasaṃ mukheneva khādati, mukheneva bhuñjati| addasā kho, bhaggava, sunakkhatto licchaviputto acelaṃ korakkhattiyaṃ kukkuravatikaṃ <pb ed="M" n="3.0005"/> catukkuṇḍikaṃ chamānikiṇṇaṃ bhakkhasaṃ mukheneva khādantaṃ mukheneva bhuñjantaṃ| disvānassa etadahosi – ‘sādhurūpo vata, bho, ayaṃ <note>arahaṃ (sī. syā. pī.)</note> samaṇo catukkuṇḍiko chamānikiṇṇaṃ bhakkhasaṃ mukheneva khādati, mukheneva bhuñjatī’ti|</p>
 
@@ -44,7 +44,7 @@
 
 <p rend="bodytext" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi> ‘‘atha kho, bhaggava, sunakkhatto licchaviputto yenāhaṃ tenupasaṅkami; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ nisīdi| ekamantaṃ nisinnaṃ kho ahaṃ, bhaggava<pb ed="T" n="3.0009"/>, sunakkhattaṃ licchaviputtaṃ etadavocaṃ – ‘taṃ kiṃ maññasi, sunakkhatta, yatheva te ahaṃ acelaṃ korakkhattiyaṃ ārabbha byākāsiṃ, tatheva taṃ vipākaṃ, aññathā vā’ti? ‘yatheva me, bhante, bhagavā acelaṃ korakkhattiyaṃ ārabbha byākāsi, tatheva taṃ vipākaṃ, no aññathā’ti| ‘taṃ <pb ed="M" n="3.0007"/><pb ed="P" n="3.0009"/> kiṃ maññasi, sunakkhatta, yadi evaṃ sante kataṃ vā hoti uttarimanussadhammā iddhipāṭihāriyaṃ, akataṃ vāti? ‘addhā kho, bhante, evaṃ sante kataṃ hoti uttarimanussadhammā iddhipāṭihāriyaṃ, no akata’nti| ‘evampi kho maṃ tvaṃ, moghapurisa, uttarimanussadhammā iddhipāṭihāriyaṃ karontaṃ evaṃ vadesi – na hi pana me, bhante, bhagavā uttarimanussadhammā iddhipāṭihāriyaṃ karotīti| passa, moghapurisa, yāvañca te idaṃ aparaddha’nti| ‘‘evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva imasmā dhammavinayā, yathā taṃ āpāyiko nerayiko|</p>
 
-<p rend="subhead">acelakaḷāramaṭṭakavatthu</p>
+<p rend="subhead" sid="3">acelakaḷāramaṭṭakavatthu</p>
 
 <p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> ‘‘ekamidāhaṃ, bhaggava, samayaṃ vesāliyaṃ viharāmi mahāvane kūṭāgārasālāyaṃ| tena kho pana samayena acelo kaḷāramaṭṭako vesāliyaṃ paṭivasati lābhaggappatto ceva yasaggappatto ca vajjigāme| tassa sattavatapadāni <note>sattavattapadāni (syā. pī.)</note> samattāni samādinnāni honti – ‘yāvajīvaṃ acelako assaṃ, na vatthaṃ paridaheyyaṃ, yāvajīvaṃ brahmacārī assaṃ, na methunaṃ dhammaṃ paṭiseveyyaṃ, yāvajīvaṃ surāmaṃseneva yāpeyyaṃ, na odanakummāsaṃ <pb ed="T" n="3.0010"/> bhuñjeyyaṃ| puratthimena vesāliṃ udenaṃ nāma cetiyaṃ, taṃ nātikkameyyaṃ, dakkhiṇena vesāliṃ gotamakaṃ nāma cetiyaṃ, taṃ nātikkameyyaṃ, pacchimena vesāliṃ sattambaṃ nāma cetiyaṃ, taṃ <pb ed="P" n="3.0010"/> nātikkameyyaṃ, uttarena vesāliṃ bahuputtaṃ <pb ed="V" n="3.0007"/> nāma <note>bahuputtakaṃ nāma (syā.)</note> cetiyaṃ taṃ nātikkameyya’nti| so imesaṃ sattannaṃ vatapadānaṃ samādānahetu lābhaggappatto ceva yasaggappatto ca vajjigāme|</p>
 
@@ -56,7 +56,7 @@
 
 <p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi> ‘‘assosi kho, bhaggava, sunakkhatto licchaviputto – ‘acelo kira kaḷāramaṭṭako parihito sānucāriko vicaranto odanakummāsaṃ bhuñjamāno sabbāneva vesāliyāni cetiyāni samatikkamitvā yasā nihīno kālaṅkato’ti| atha kho, bhaggava, sunakkhatto <pb ed="V" n="3.0008"/> licchaviputto yenāhaṃ tenupasaṅkami; upasaṅkamitvā maṃ abhivādetvā ekamantaṃ nisīdi| ekamantaṃ nisinnaṃ kho ahaṃ, bhaggava, sunakkhattaṃ licchaviputtaṃ etadavocaṃ – ‘taṃ kiṃ maññasi, sunakkhatta, yatheva te ahaṃ acelaṃ kaḷāramaṭṭakaṃ ārabbha byākāsiṃ, tatheva taṃ vipākaṃ, aññathā vā’ti? ‘yatheva <pb ed="T" n="3.0012"/> me, bhante, bhagavā acelaṃ kaḷāramaṭṭakaṃ ārabbha byākāsi, tatheva taṃ vipākaṃ, no <pb ed="M" n="3.0009"/> aññathā’ti| ‘taṃ kiṃ maññasi, sunakkhatta, yadi evaṃ sante kataṃ <pb ed="P" n="3.0012"/> vā hoti uttarimanussadhammā iddhipāṭihāriyaṃ akataṃ vā’ti? ‘addhā kho, bhante, evaṃ sante kataṃ hoti uttarimanussadhammā iddhipāṭihāriyaṃ, no akata’nti| ‘evampi kho maṃ tvaṃ, moghapurisa, uttarimanussadhammā iddhipāṭihāriyaṃ karontaṃ evaṃ vadesi – na hi pana me, bhante, bhagavā uttarimanussadhammā iddhipāṭihāriyaṃ karotī’’ti| passa, moghapurisa, yāvañca te idaṃ aparaddha’nti| ‘‘eva’mpi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva imasmā dhammavinayā, yathā taṃ āpāyiko nerayiko|</p>
 
-<p rend="subhead">acelapāthikaputtavatthu</p>
+<p rend="subhead" sid="4">acelapāthikaputtavatthu</p>
 
 <p rend="bodytext" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi> ‘‘ekamidāhaṃ, bhaggava, samayaṃ tattheva vesāliyaṃ viharāmi mahāvane kūṭāgārasālāyaṃ| tena kho pana samayena acelo pāthikaputto <note>pāṭikaputto (sī. syā. pī.)</note> vesāliyaṃ paṭivasati lābhaggappatto ceva yasaggappatto ca vajjigāme| so vesāliyaṃ parisati evaṃ vācaṃ bhāsati – ‘samaṇopi gotamo ñāṇavādo, ahampi ñāṇavādo| ñāṇavādo kho pana ñāṇavādena arahati uttarimanussadhammā iddhipāṭihāriyaṃ dassetuṃ| samaṇo gotamo upaḍḍhapathaṃ āgaccheyya, ahampi upaḍḍhapathaṃ gaccheyyaṃ| te tattha ubhopi uttarimanussadhammā iddhipāṭihāriyaṃ kareyyāma| ekaṃ ce samaṇo gotamo uttarimanussadhammā iddhipāṭihāriyaṃ karissati, dvāhaṃ karissāmi| dve ce samaṇo gotamo uttarimanussadhammā iddhipāṭihāriyāni <pb ed="T" n="3.0013"/> karissati, cattārāhaṃ karissāmi<pb ed="P" n="3.0013"/>| cattāri ce samaṇo gotamo uttarimanussadhammā iddhipāṭihāriyāni karissati, aṭṭhāhaṃ karissāmi| iti yāvatakaṃ yāvatakaṃ samaṇo gotamo uttarimanussadhammā iddhipāṭihāriyaṃ karissati, taddiguṇaṃ taddiguṇāhaṃ karissāmī’ti|</p>
 
@@ -80,7 +80,7 @@
 
 <p rend="bodytext">‘so kho panāhaṃ, sunakkhatta, vesāliyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātappaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkamissāmi divāvihārāya| yassadāni tvaṃ, sunakkhatta, icchasi, tassa ārocehī’ti|</p>
 
-<p rend="subhead">iddhipāṭihāriyakathā</p>
+<p rend="subhead" sid="5">iddhipāṭihāriyakathā</p>
 
 <p rend="bodytext" n="20"><hi rend="paranum">20</hi><hi rend="dot">.</hi> ‘‘atha <pb ed="P" n="3.0016"/> khvāhaṃ <note>atha kho svāhaṃ (syā.)</note>, bhaggava, pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya vesāliṃ piṇḍāya pāvisiṃ| vesāliyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātappaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkamiṃ divāvihārāya| atha kho, bhaggava, sunakkhatto licchaviputto taramānarūpo vesāliṃ pavisitvā yena abhiññātā abhiññātā licchavī tenupasaṅkami; upasaṅkamitvā abhiññāte abhiññāte licchavī etadavoca – ‘esāvuso, bhagavā vesāliyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātappaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkami divāvihārāya| abhikkamathāyasmanto abhikkamathāyasmanto, sādhurūpānaṃ samaṇānaṃ uttarimanussadhammā iddhipāṭihāriyaṃ bhavissatī’ti<pb ed="M" n="3.0013"/>| atha kho, bhaggava, abhiññātānaṃ abhiññātānaṃ licchavīnaṃ etadahosi – ‘sādhurūpānaṃ kira, bho, samaṇānaṃ uttarimanussadhammā <pb ed="T" n="3.0017"/> iddhipāṭihāriyaṃ bhavissati; handa vata, bho, gacchāmā’ti| yena ca abhiññātā abhiññātā brāhmaṇamahāsālā gahapatinecayikā nānātitthiyā <note>nānātitthiya (syā.)</note> samaṇabrāhmaṇā tenupasaṅkami| upasaṅkamitvā abhiññāte abhiññāte nānātitthiye <note>nānātitthiya (syā.)</note> samaṇabrāhmaṇe etadavoca – ‘esāvuso, bhagavā vesāliyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātappaṭikkanto yena acelassa pāthikaputtassa ārāmo tenupasaṅkami divāvihārāya| abhikkamathāyasmanto abhikkamathāyasmanto, sādhurūpānaṃ samaṇānaṃ uttarimanussadhammā iddhipāṭihāriyaṃ bhavissatī’ti| atha <pb ed="V" n="3.0012"/> kho, bhaggava, abhiññātānaṃ abhiññātānaṃ nānātitthiyānaṃ samaṇabrāhmaṇānaṃ etadahosi – ‘sādhurūpānaṃ kira, bho, samaṇānaṃ uttarimanussadhammā iddhipāṭihāriyaṃ bhavissati; handa vata, bho, gacchāmā’ti|</p>
 
@@ -178,7 +178,7 @@
 
 <p rend="bodytext">‘‘evampi kho, bhaggava, sunakkhatto licchaviputto mayā vuccamāno apakkameva imasmā dhammavinayā, yathā taṃ āpāyiko nerayiko|</p>
 
-<p rend="subhead">aggaññapaññattikathā</p>
+<p rend="subhead" sid="6">aggaññapaññattikathā</p>
 
 <p rend="bodytext" n="36"><hi rend="paranum">36</hi><hi rend="dot">.</hi> ‘‘aggaññañcāhaṃ, bhaggava, pajānāmi| tañca pajānāmi <note>‘‘tañcapajānāmī’’ti idaṃ syāpotthakenatthi</note>, tato ca uttaritaraṃ pajānāmi, tañca pajānaṃ <note>pajānanaṃ (syā. ka.) aṭṭhakathāsaṃvaṇṇanā passitabbā</note> na parāmasāmi, aparāmasato ca me paccattaññeva nibbuti viditā, yadabhijānaṃ tathāgato no anayaṃ āpajjati<pb ed="T" n="3.0030"/>|</p>
 

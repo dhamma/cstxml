@@ -12,6 +12,11 @@ console.log(require('yase').build({
 		    .paragraph("p").attr("p","n",
 		    	{"depth":2,"sparseval":true,"allowempty":true,"unique":true,
 		    	  "prefix":"pgroup[id]","range":"-"})
+		if (set=='mul') {
+		    this.attr("p","sid", //secondary reference number, SN = sutta no. , DN= section no.
+		    	{"depth":2,"sparseval":true,"allowempty":true,"unique":true,
+		    	  "prefix":"pgroup[id]","range":"-"})
+		}
 	},
 	input:set+'/vri'+set+'.lst',
 	output:'../vri'+set+'.ydb',

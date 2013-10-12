@@ -3,7 +3,7 @@
 <div id="dn1_10" n="dn1_10" type="sutta">
 <head rend="chapter"><pgroup id="d10"/><readunit id="d10">10. subhasuttaṃ</readunit></head>
 
-<p rend="subhead">subhamāṇavavatthu</p>
+<p rend="subhead" sid="1">subhamāṇavavatthu</p>
 
 <p rend="bodytext" n="444"><hi rend="paranum">444</hi><hi rend="dot">.</hi> evaṃ <pb ed="M" n="1.0188"/><pb ed="V" n="1.0180"/><pb ed="P" n="1.0204"/><pb ed="T" n="1.0250"/> me sutaṃ – ekaṃ samayaṃ āyasmā ānando sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme aciraparinibbute bhagavati| tena kho pana samayena subho māṇavo todeyyaputto sāvatthiyaṃ paṭivasati kenacideva karaṇīyena|</p>
 
@@ -21,7 +21,7 @@
 
 <p rend="bodytext" n="449"><hi rend="paranum">449</hi><hi rend="dot">.</hi> ‘‘tiṇṇaṃ kho, māṇava, khandhānaṃ so bhagavā vaṇṇavādī ahosi; ettha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesi| katamesaṃ tiṇṇaṃ? ariyassa sīlakkhandhassa, ariyassa samādhikkhandhassa, ariyassa paññākkhandhassa| imesaṃ kho, māṇava, tiṇṇaṃ khandhānaṃ so bhagavā vaṇṇavādī ahosi; ettha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesī’’ti|</p>
 
-<p rend="subhead">sīlakkhandho</p>
+<p rend="subhead" sid="2">sīlakkhandho</p>
 
 <p rend="bodytext" n="450"><hi rend="paranum">450</hi><hi rend="dot">.</hi> ‘‘katamo <pb ed="M" n="1.0190"/><pb ed="V" n="1.0182"/> pana so, bho ānanda, ariyo sīlakkhandho, yassa so bhavaṃ gotamo vaṇṇavādī ahosi, yattha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesī’’ti?</p>
 
@@ -37,7 +37,7 @@
 
 <p rend="bodytext">‘‘acchariyaṃ, bho ānanda, abbhutaṃ, bho ānanda! so cāyaṃ, bho ānanda, ariyo sīlakkhandho paripuṇṇo, no aparipuṇṇo| evaṃ paripuṇṇaṃ cāhaṃ, bho, ānanda, ariyaṃ sīlakkhandhaṃ <pb ed="P" n="1.0207"/> ito bahiddhā aññesu samaṇabrāhmaṇesu na <pb ed="M" n="1.0192"/> samanupassāmi| evaṃ paripuṇṇañca, bho ānanda, ariyaṃ sīlakkhandhaṃ ito bahiddhā aññe samaṇabrāhmaṇā attani samanupasseyyuṃ, te tāvatakeneva attamanā assu – ‘alamettāvatā, katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttarikaraṇīya’nti| atha ca pana bhavaṃ ānando evamāha – ‘atthi cevettha uttarikaraṇīya’’’nti <note>imassa anantaraṃ sī. pī. potthakesu ‘‘paṭhamabhāṇavāraṃ’’ti pāṭho dissati</note>|</p>
 
-<p rend="subhead">samādhikkhandho</p>
+<p rend="subhead" sid="3">samādhikkhandho</p>
 
 <p rend="bodytext" n="454"><hi rend="paranum">454</hi><hi rend="dot">.</hi> ‘‘katamo <pb ed="V" n="1.0184"/> pana so, bho ānanda, ariyo samādhikkhandho, yassa so bhavaṃ gotamo vaṇṇavādī ahosi, yattha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesī’’ti?</p>
 
@@ -87,7 +87,7 @@
 
 <p rend="bodytext">‘‘acchariyaṃ, bho ānanda, abbhutaṃ, bho <pb ed="T" n="1.0263"/> ānanda! so cāyaṃ, bho ānanda, ariyo samādhikkhandho paripuṇṇo, no aparipuṇṇo| evaṃ paripuṇṇaṃ cāhaṃ, bho ānanda, ariyaṃ samādhikkhandhaṃ ito bahiddhā aññesu samaṇabrāhmaṇesu na samanupassāmi| evaṃ paripuṇṇañca, bho ānanda, ariyaṃ samādhikkhandhaṃ ito bahiddhā aññe samaṇabrāhmaṇā attani samanupasseyyuṃ, te tāvatakeneva attamanā assu – ‘alamettāvatā, katamettāvatā, anuppatto no sāmaññattho, natthi no kiñci uttarikaraṇīya’nti| atha ca pana bhavaṃ ānando evamāha – ‘atthi cevettha uttarikaraṇīya’’’nti|</p>
 
-<p rend="subhead">paññākkhandho</p>
+<p rend="subhead" sid="4">paññākkhandho</p>
 
 <p rend="bodytext" n="472"><hi rend="paranum">472</hi><hi rend="dot">.</hi> ‘‘katamo <pb ed="M" n="1.0198"/> pana so, bho ānanda, ariyo paññākkhandho, yassa bho bhavaṃ gotamo vaṇṇavādī ahosi, yattha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesī’’ti?</p>
 

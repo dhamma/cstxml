@@ -3,13 +3,13 @@
 <div id="dn3_11" n="dn3_11" type="sutta">
 <head rend="chapter"><pgroup id="d34"/><readunit id="d34">11. dasuttarasuttaṃ</readunit></head>
 
-<p rend="bodytext" n="350"><hi rend="paranum">350</hi><hi rend="dot">.</hi> evaṃ <pb ed="P" n="3.0272"/><pb ed="M" n="3.0227"/><pb ed="V" n="3.0217"/><pb ed="T" n="3.0288"/> me sutaṃ – ekaṃ samayaṃ bhagavā campāyaṃ viharati gaggarāya pokkharaṇiyā tīre mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi| tatra kho āyasmā sāriputto bhikkhū āmantesi – ‘‘āvuso bhikkhave’’ti! ‘‘āvuso’’ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ| āyasmā sāriputto etadavoca –</p>
+<p rend="bodytext" sid="1" n="350"><hi rend="paranum">350</hi><hi rend="dot">.</hi> evaṃ <pb ed="P" n="3.0272"/><pb ed="M" n="3.0227"/><pb ed="V" n="3.0217"/><pb ed="T" n="3.0288"/> me sutaṃ – ekaṃ samayaṃ bhagavā campāyaṃ viharati gaggarāya pokkharaṇiyā tīre mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi| tatra kho āyasmā sāriputto bhikkhū āmantesi – ‘‘āvuso bhikkhave’’ti! ‘‘āvuso’’ti kho te bhikkhū āyasmato sāriputtassa paccassosuṃ| āyasmā sāriputto etadavoca –</p>
 
 <p rend="gatha1">‘‘dasuttaraṃ pavakkhāmi, dhammaṃ nibbānapattiyā|</p>
 
 <p rend="gathalast">dukkhassantakiriyāya, sabbaganthappamocanaṃ’’||</p>
 
-<p rend="subhead">eko dhammo</p>
+<p rend="subhead" sid="2">eko dhammo</p>
 
 <p rend="bodytext" n="351"><hi rend="paranum">351</hi><hi rend="dot">.</hi> ‘‘eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo|</p>
 
@@ -35,7 +35,7 @@
 
 <p rend="bodytext">‘‘iti ime dasa dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā|</p>
 
-<p rend="subhead">dve dhammā</p>
+<p rend="subhead" sid="3">dve dhammā</p>
 
 <p rend="bodytext" n="352"><hi rend="paranum">352</hi><hi rend="dot">.</hi> ‘‘dve dhammā bahukārā, dve dhammā bhāvetabbā, dve dhammā pariññeyyā, dve dhammā pahātabbā<pb ed="V" n="3.0219"/>, dve dhammā hānabhāgiyā, dve dhammā visesabhāgiyā, dve dhammā duppaṭivijjhā, dve dhammā uppādetabbā, dve dhammā abhiññeyyā, dve dhammā <pb ed="T" n="3.0290"/> sacchikātabbā|</p>
 
@@ -61,7 +61,7 @@
 
 <p rend="bodytext">‘‘iti <pb ed="V" n="3.0220"/> ime vīsati dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā|</p>
 
-<p rend="subhead">tayo dhammā</p>
+<p rend="subhead" sid="4">tayo dhammā</p>
 
 <p rend="bodytext" n="353"><hi rend="paranum">353</hi><hi rend="dot">.</hi> ‘‘tayo dhammā bahukārā, tayo dhammā bhāvetabbā…pe.… tayo dhammā sacchikātabbā|</p>
 
@@ -87,7 +87,7 @@
 
 <p rend="bodytext">‘‘iti <pb ed="P" n="3.0276"/> ime tiṃsa dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā|</p>
 
-<p rend="subhead">cattāro dhammā</p>
+<p rend="subhead" sid="5">cattāro dhammā</p>
 
 <p rend="bodytext" n="354"><hi rend="paranum">354</hi><hi rend="dot">.</hi> ‘‘cattāro <pb ed="T" n="3.0293"/> dhammā bahukārā, cattāro dhammā bhāvetabbā…pe.… cattāro dhammā sacchikātabbā|</p>
 
@@ -113,7 +113,7 @@
 
 <p rend="bodytext">‘‘iti <pb ed="M" n="3.0232"/> ime cattārīsadhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā|</p>
 
-<p rend="subhead">pañca dhammā</p>
+<p rend="subhead" sid="6">pañca dhammā</p>
 
 <p rend="bodytext" n="355"><hi rend="paranum">355</hi><hi rend="dot">.</hi> ‘‘pañca <pb ed="V" n="3.0223"/> dhammā bahukārā…pe.… pañca dhammā sacchikātabbā|</p>
 
@@ -155,7 +155,7 @@
 
 <p rend="bodytext">‘‘iti ime paññāsa dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā|</p>
 
-<p rend="subhead">cha dhammā</p>
+<p rend="subhead" sid="7">cha dhammā</p>
 
 <p rend="bodytext" n="356"><hi rend="paranum">356</hi><hi rend="dot">.</hi> ‘‘cha dhammā bahukārā…pe.… cha dhammā sacchikātabbā|</p>
 
@@ -211,7 +211,7 @@
 
 <p rend="bodytext">‘‘iti ime saṭṭhi dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā|</p>
 
-<p rend="subhead">satta dhammā</p>
+<p rend="subhead" sid="8">satta dhammā</p>
 
 <p rend="bodytext" n="357"><hi rend="paranum">357</hi><hi rend="dot">.</hi> ‘‘satta <pb ed="P" n="3.0282"/> dhammā bahukārā…pe.… satta dhammā sacchikātabbā|</p>
 
@@ -263,7 +263,7 @@
 
 <p rend="centre">paṭhamabhāṇavāro niṭṭhito|</p>
 
-<p rend="subhead">aṭṭha dhammā</p>
+<p rend="subhead" sid="9">aṭṭha dhammā</p>
 
 <p rend="bodytext" n="358"><hi rend="paranum">358</hi><hi rend="dot">.</hi> ‘‘aṭṭha dhammā bahukārā…pe.… aṭṭha dhammā sacchikātabbā|</p>
 
@@ -373,7 +373,7 @@
 
 <p rend="bodytext">‘‘iti ime asīti dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā|</p>
 
-<p rend="subhead">nava dhammā</p>
+<p rend="subhead" sid="10">nava dhammā</p>
 
 <p rend="bodytext" n="359"><hi rend="paranum">359</hi><hi rend="dot">.</hi> ‘‘nava dhammā bahukārā…pe.… nava dhammā sacchikātabbā|</p>
 
@@ -415,7 +415,7 @@
 
 <p rend="bodytext">‘‘iti ime navuti dhammā bhūtā tacchā tathā avitathā anaññathā sammā tathāgatena abhisambuddhā|</p>
 
-<p rend="subhead">dasa dhammā</p>
+<p rend="subhead" sid="11">dasa dhammā</p>
 
 <p rend="bodytext" n="360"><hi rend="paranum">360</hi><hi rend="dot">.</hi> ‘‘dasa <pb ed="V" n="3.0247"/> dhammā bahukārā…pe.… dasa dhammā sacchikātabbā|</p>
 

@@ -3,7 +3,7 @@
 <div id="dn1_11" n="dn1_11" type="sutta">
 <head rend="chapter"><pgroup id="d11"/><readunit id="d11">11. kevaṭṭasuttaṃ</readunit></head>
 
-<p rend="subhead">kevaṭṭagahapatiputtavatthu</p>
+<p rend="subhead" sid="1">kevaṭṭagahapatiputtavatthu</p>
 
 <p rend="bodytext" n="481"><hi rend="paranum">481</hi><hi rend="dot">.</hi> evaṃ <pb ed="M" n="1.0205"/><pb ed="V" n="1.0195"/><pb ed="P" n="1.0211"/><pb ed="T" n="1.0273"/> me sutaṃ – ekaṃ samayaṃ bhagavā nāḷandāyaṃ viharati pāvārikambavane| atha kho kevaṭṭo gahapatiputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi| ekamantaṃ nisinno kho kevaṭṭo gahapatiputto bhagavantaṃ etadavoca – ‘‘ayaṃ, bhante, nāḷandā iddhā ceva phītā ca bahujanā ākiṇṇamanussā bhagavati abhippasannā| sādhu, bhante, bhagavā ekaṃ bhikkhuṃ samādisatu, yo uttarimanussadhammā, iddhipāṭihāriyaṃ karissati; evāyaṃ nāḷandā bhiyyoso mattāya bhagavati abhippasīdissatī’’ti| evaṃ vutte, bhagavā kevaṭṭaṃ gahapatiputtaṃ etadavoca – ‘‘na kho ahaṃ, kevaṭṭa, bhikkhūnaṃ evaṃ dhammaṃ desemi – etha tumhe, bhikkhave, gihīnaṃ odātavasanānaṃ uttarimanussadhammā iddhipāṭihāriyaṃ karothā’’ti|</p>
 
@@ -11,7 +11,7 @@
 
 <p rend="bodytext">tatiyampi kho kevaṭṭo gahapatiputto bhagavantaṃ etadavoca – ‘‘nāhaṃ, bhante, bhagavantaṃ dhaṃsemi; api ca, evaṃ vadāmi – ‘ayaṃ, bhante, nāḷandā iddhā ceva phītā ca bahujanā ākiṇṇamanussā <pb ed="V" n="1.0196"/> bhagavati abhippasannā| sādhu, bhante, bhagavā ekaṃ bhikkhuṃ samādisatu, yo uttarimanussadhammā iddhipāṭihāriyaṃ karissati| evāyaṃ nāḷandā bhiyyoso mattāya bhagavati abhippasīdissatī’ti|</p>
 
-<p rend="subhead">iddhipāṭihāriyaṃ</p>
+<p rend="subhead" sid="2">iddhipāṭihāriyaṃ</p>
 
 <p rend="bodytext" n="483"><hi rend="paranum">483</hi><hi rend="dot">.</hi> ‘‘tīṇi <pb ed="M" n="1.0206"/> kho imāni, kevaṭṭa, pāṭihāriyāni mayā sayaṃ abhiññā sacchikatvā paveditāni| katamāni tīṇi? iddhipāṭihāriyaṃ, ādesanāpāṭihāriyaṃ<pb ed="T" n="1.0274"/>, anusāsanīpāṭihāriyaṃ|</p>
 
@@ -25,7 +25,7 @@
 
 <p rend="bodytext">‘‘taṃ <pb ed="M" n="1.0207"/> kiṃ maññasi, kevaṭṭa, api nu so assaddho appasanno taṃ saddhaṃ pasannaṃ evaṃ vadeyyā’’ti? ‘‘vadeyya, bhante’’ti| ‘‘imaṃ kho ahaṃ, kevaṭṭa, iddhipāṭihāriye ādīnavaṃ sampassamāno iddhipāṭihāriyena aṭṭīyāmi harāyāmi jigucchāmi’’|</p>
 
-<p rend="subhead">ādesanāpāṭihāriyaṃ</p>
+<p rend="subhead" sid="3">ādesanāpāṭihāriyaṃ</p>
 
 <p rend="bodytext" n="485"><hi rend="paranum">485</hi><hi rend="dot">.</hi> ‘‘katamañca, kevaṭṭa, ādesanāpāṭihāriyaṃ? idha, kevaṭṭa, bhikkhu parasattānaṃ parapuggalānaṃ cittampi ādisati, cetasikampi ādisati, vitakkitampi ādisati, vicāritampi ādisati – ‘evampi te mano, itthampi te mano, itipi te citta’nti|</p>
 
@@ -35,7 +35,7 @@
 
 <p rend="bodytext">‘‘taṃ kiṃ maññasi, kevaṭṭa, api nu so assaddho appasanno taṃ saddhaṃ pasannaṃ evaṃ vadeyyā’’ti<pb ed="V" n="1.0198"/>? ‘‘vadeyya, bhante’’ti| ‘‘imaṃ kho ahaṃ, kevaṭṭa, ādesanāpāṭihāriye ādīnavaṃ sampassamāno ādesanāpāṭihāriyena aṭṭīyāmi harāyāmi jigucchāmi’’|</p>
 
-<p rend="subhead">anusāsanīpāṭihāriyaṃ</p>
+<p rend="subhead" sid="4">anusāsanīpāṭihāriyaṃ</p>
 
 <p rend="bodytext" n="486"><hi rend="paranum">486</hi><hi rend="dot">.</hi> ‘‘katamañca, kevaṭṭa, anusāsanīpāṭihāriyaṃ? idha, kevaṭṭa, bhikkhu evamanusāsati – ‘evaṃ vitakketha, mā evaṃ vitakkayittha, evaṃ manasikarotha, mā <pb ed="M" n="1.0208"/> evaṃ manasākattha, idaṃ pajahatha, idaṃ upasampajja viharathā’ti| idaṃ vuccati, kevaṭṭa, anusāsanīpāṭihāriyaṃ|</p>
 
@@ -43,7 +43,7 @@
 
 <p rend="bodytext">‘‘imāni kho, kevaṭṭa, tīṇi pāṭihāriyāni mayā sayaṃ abhiññā <pb ed="T" n="1.0277"/> sacchikatvā paveditāni’’|</p>
 
-<p rend="subhead">bhūtanirodhesakabhikkhuvatthu</p>
+<p rend="subhead" sid="5">bhūtanirodhesakabhikkhuvatthu</p>
 
 <p rend="bodytext" n="487"><hi rend="paranum">487</hi><hi rend="dot">.</hi> ‘‘bhūtapubbaṃ, kevaṭṭa, imasmiññeva bhikkhusaṅghe aññatarassa bhikkhuno evaṃ cetaso parivitakko udapādi – ‘kattha nu kho ime cattāro mahābhūtā aparisesā nirujjhanti, seyyathidaṃ – pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti?</p>
 
@@ -73,7 +73,7 @@
 
 <p rend="bodytext" n="496"><hi rend="paranum">496</hi><hi rend="dot">.</hi> ‘‘atha kho so, kevaṭṭa, bhikkhu – seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya, pasāritaṃ vā bāhaṃ samiñjeyya evameva brahmaloke antarahito mama purato pāturahosi| atha kho so, kevaṭṭa, bhikkhu maṃ abhivādetvā ekamantaṃ nisīdi, ekamantaṃ nisinno kho, kevaṭṭa, so bhikkhu maṃ etadavoca – ‘kattha nu kho, bhante, ime cattāro <pb ed="V" n="1.0203"/> mahābhūtā aparisesā nirujjhanti, seyyathidaṃ – pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti?</p>
 
-<p rend="subhead">tīradassisakuṇupamā</p>
+<p rend="subhead" sid="6">tīradassisakuṇupamā</p>
 
 <p rend="bodytext" n="497"><hi rend="paranum">497</hi><hi rend="dot">.</hi> ‘‘evaṃ vutte, ahaṃ, kevaṭṭa, taṃ bhikkhuṃ etadavocaṃ – ‘bhūtapubbaṃ, bhikkhu, sāmuddikā vāṇijā tīradassiṃ sakuṇaṃ gahetvā nāvāya samuddaṃ ajjhogāhanti| te atīradakkhiniyā nāvāya tīradassiṃ sakuṇaṃ muñcanti| so gacchateva puratthimaṃ disaṃ, gacchati dakkhiṇaṃ disaṃ, gacchati pacchimaṃ disaṃ, gacchati uttaraṃ disaṃ, gacchati uddhaṃ disaṃ, gacchati anudisaṃ| sace so samantā tīraṃ <pb ed="M" n="1.0213"/> passati, tathāgatakova <note>tathāpakkantova (syā.)</note> hoti| sace pana so samantā tīraṃ na passati, tameva nāvaṃ paccāgacchati| evameva kho tvaṃ, bhikkhu, yato yāva brahmalokā <pb ed="P" n="1.0223"/> pariyesamāno imassa pañhassa <pb ed="T" n="1.0283"/> veyyākaraṇaṃ nājjhagā, atha mamaññeva santike paccāgato| na kho eso, bhikkhu, pañho evaṃ pucchitabbo – ‘kattha nu kho, bhante, ime cattāro mahābhūtā aparisesā nirujjhanti, seyyathidaṃ – pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti?</p>
 

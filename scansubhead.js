@@ -13,7 +13,9 @@ var snsutracount={
   add second reference number for DN and SN
   only 2  sutta in MN has subhead, do it manually.
 */
-/* no harm if run again on p with id */
+/* no harm if run again on p with sid 
+   to roll back, simply remove  ' sid=".+?"'
+*/
 /*
 DN check with DRP
 SN check with http://agama.buddhason.org/SN/index.htm
@@ -27,7 +29,7 @@ SN check with http://agama.buddhason.org/SN/index.htm
 
 
 var fs=require('fs');
-var set=process.argv[2]||'mul';
+var set='mul'; // only for mula, use groupid+pn to link att/tik 
 var yase=require('yase');
 var opts={filelist:set+'/vri'+set+'.lst', folder:set+'/',textfile:true};
 var out=[];
@@ -61,10 +63,11 @@ var processlist=function(){
 				if (range==0) throw 'error range';
 
 				var id=count+1; 
-				if (range>1) id=id+'-'+(count+1+range);//some SN has range
+				if (range>1) id=id+'-'+(count+range);//some SN has range
 				content[i]=content[i].substring(0,offset)
 				+' sid="'+id+'"'+content[i].substring(offset);
-				count+=range;
+				if (range>1) count+=range; else count++;
+
 				out.push(content[i]);
 				var o={unit:readunit,sub:s,n:count};
 				subhead.push(o);
@@ -81,7 +84,10 @@ var processlist=function(){
 				addsid();
 			}
 		}
-		if (touch) console.log('touch',fn)
+		if (touch) {
+			fs.writeFileSync(set+'/'+fn,content.join('\n'),'utf8');
+			//to roll back , simply remove   sid="(.*?)" 
+		}
 
 	})
 	if (nikaya=='s'||nikaya=='d') subheadcount.push(readunit+'='+count);

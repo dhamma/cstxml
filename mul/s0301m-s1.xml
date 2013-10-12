@@ -10,7 +10,7 @@
 
 <p rend="title">1. naḷavaggo</p>
 
-<p rend="subhead">1. oghataraṇasuttaṃ</p>
+<p rend="subhead" sid="1">1. oghataraṇasuttaṃ</p>
 
 <p rend="bodytext" n="1"><hi rend="paranum">1</hi><hi rend="dot">.</hi> evaṃ <pb ed="T" n="1.0001"/><pb ed="V" n="1.0001"/><pb ed="P" n="1.0001"/><pb ed="M" n="1.0001"/> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme| atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi| ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ etadavoca – ‘‘‘kathaṃ nu tvaṃ, mārisa, oghamatarī’ti? ‘appatiṭṭhaṃ khvāhaṃ, āvuso, anāyūhaṃ <pb ed="V" n="1.0002"/> oghamatari’nti| ‘yathā kathaṃ pana tvaṃ, mārisa, appatiṭṭhaṃ anāyūhaṃ oghamatarī’ti? ‘yadākhvāhaṃ, āvuso, santiṭṭhāmi tadāssu saṃsīdāmi<pb ed="T" n="1.0002"/>; yadākhvāhaṃ, āvuso, āyūhāmi tadāssu nibbuyhāmi <note>nivuyhāmi (syā. kaṃ. ka.)</note>| evaṃ khvāhaṃ, āvuso, appatiṭṭhaṃ anāyūhaṃ oghamatari’’’nti|</p>
 
@@ -20,7 +20,7 @@
 
 <p rend="unindented">idamavoca <pb ed="M" n="1.0002"/> sā devatā| samanuñño satthā ahosi| atha kho sā devatā – ‘‘samanuñño me satthā’’ti bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyīti|</p>
 
-<p rend="subhead">2. nimokkhasuttaṃ</p>
+<p rend="subhead" sid="2">2. nimokkhasuttaṃ</p>
 
 <p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="P" n="1.0002"/>| atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi| ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ etadavoca –</p>
 
@@ -32,7 +32,7 @@
 
 <p rend="bodytext">‘‘nandībhavaparikkhayā <pb ed="T" n="1.0003"/> <note>nandibhavaparikkhayā (syā. kaṃ.)</note>, saññāviññāṇasaṅkhayā, vedanānaṃ nirodhā upasamā – evaṃ khvāhaṃ, āvuso, jānāmi sattānaṃ nimokkhaṃ pamokkhaṃ viveka’’nti|</p>
 
-<p rend="subhead">3. upanīyasuttaṃ</p>
+<p rend="subhead" sid="3">3. upanīyasuttaṃ</p>
 
 <p rend="bodytext" n="3"><hi rend="paranum">3</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="V" n="1.0003"/>| ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -52,7 +52,7 @@
 
 <p rend="gathalast">lokāmisaṃ pajahe santipekkho’’ti||</p>
 
-<p rend="subhead">4. accentisuttaṃ</p>
+<p rend="subhead" sid="4">4. accentisuttaṃ</p>
 
 <p rend="bodytext" n="4"><hi rend="paranum">4</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="M" n="1.0003"/>| ekamantaṃ <pb ed="T" n="1.0004"/><pb ed="P" n="1.0003"/> ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -72,7 +72,7 @@
 
 <p rend="gathalast">lokāmisaṃ pajahe santipekkho’’ti||</p>
 
-<p rend="subhead">5. katichindasuttaṃ</p>
+<p rend="subhead" sid="5">5. katichindasuttaṃ</p>
 
 <p rend="bodytext" n="5"><hi rend="paranum">5</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="V" n="1.0004"/>| ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -84,7 +84,7 @@
 
 <p rend="gathalast">pañca saṅgātigo bhikkhu, oghatiṇṇoti vuccatī’’ti||</p>
 
-<p rend="subhead">6. jāgarasuttaṃ</p>
+<p rend="subhead" sid="6">6. jāgarasuttaṃ</p>
 
 <p rend="bodytext" n="6"><hi rend="paranum">6</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| ekamantaṃ <pb ed="T" n="1.0005"/> ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -96,7 +96,7 @@
 
 <p rend="gathalast">pañcabhi <note>pañcahi (sī.)</note> rajamādeti, pañcabhi <note>pañcahi (sī.)</note> parisujjhatī’’ti||</p>
 
-<p rend="subhead">7. appaṭividitasuttaṃ</p>
+<p rend="subhead" sid="7">7. appaṭividitasuttaṃ</p>
 
 <p rend="bodytext" n="7"><hi rend="paranum">7</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="M" n="1.0004"/>| ekamantaṃ <pb ed="P" n="1.0004"/> ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -108,7 +108,7 @@
 
 <p rend="gathalast">te sambuddhā sammadaññā, caranti visame sama’’nti||</p>
 
-<p rend="subhead">8. susammuṭṭhasuttaṃ</p>
+<p rend="subhead" sid="8">8. susammuṭṭhasuttaṃ</p>
 
 <p rend="bodytext" n="8"><hi rend="paranum">8</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -120,7 +120,7 @@
 
 <p rend="gathalast">te sambuddhā sammadaññā, caranti visame sama’’nti||</p>
 
-<p rend="subhead">9. mānakāmasuttaṃ</p>
+<p rend="subhead" sid="9">9. mānakāmasuttaṃ</p>
 
 <p rend="bodytext" n="9"><hi rend="paranum">9</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -140,7 +140,7 @@
 
 <p rend="gathalast">sa maccudheyyassa tareyya pāra’’nti||</p>
 
-<p rend="subhead">10. araññasuttaṃ</p>
+<p rend="subhead" sid="10">10. araññasuttaṃ</p>
 
 <p rend="bodytext" n="10"><hi rend="paranum">10</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="V" n="1.0006"/><pb ed="M" n="1.0005"/>| ekamantaṃ <pb ed="P" n="1.0005"/> ṭhitā kho sā devatā bhagavantaṃ gāthāya ajjhabhāsi –</p>
 
@@ -168,7 +168,7 @@
 
 <p rend="title">2. nandanavaggo</p>
 
-<p rend="subhead">1. nandanasuttaṃ</p>
+<p rend="subhead" sid="11">1. nandanasuttaṃ</p>
 
 <p rend="bodytext" n="11"><hi rend="paranum">11</hi><hi rend="dot">.</hi> evaṃ <pb ed="T" n="1.0008"/> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa <pb ed="V" n="1.0007"/> ārāme| tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti| ‘‘bhadante’’ti te bhikkhū bhagavato paccassosuṃ| bhagavā etadavoca –</p>
 
@@ -186,7 +186,7 @@
 
 <p rend="gathalast">uppajjitvā nirujjhanti, tesaṃ vūpasamo sukho’’ti||</p>
 
-<p rend="subhead">2. nandatisuttaṃ</p>
+<p rend="subhead" sid="12">2. nandatisuttaṃ</p>
 
 <p rend="bodytext" n="12"><hi rend="paranum">12</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| ekamantaṃ <pb ed="T" n="1.0009"/> ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -206,7 +206,7 @@
 
 <p rend="gathalast">na hi so socati yo nirūpadhī’’ti||</p>
 
-<p rend="subhead">3. natthiputtasamasuttaṃ</p>
+<p rend="subhead" sid="13">3. natthiputtasamasuttaṃ</p>
 
 <p rend="bodytext" n="13"><hi rend="paranum">13</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| ekamantaṃ ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -218,7 +218,7 @@
 
 <p rend="gathalast">natthi paññāsamā ābhā, vuṭṭhi ve paramā sarā’’ti||</p>
 
-<p rend="subhead">4. khattiyasuttaṃ</p>
+<p rend="subhead" sid="14">4. khattiyasuttaṃ</p>
 
 <p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi> ‘‘khattiyo <pb ed="T" n="1.0010"/><pb ed="M" n="1.0007"/> dvipadaṃ seṭṭho, balībaddo <note>balivaddo (sī. pī.), balibaddo (syā. kaṃ. ka.)</note> catuppadaṃ|</p>
 
@@ -228,7 +228,7 @@
 
 <p rend="gathalast">sussūsā seṭṭhā bhariyānaṃ, yo ca puttānamassavo’’ti||</p>
 
-<p rend="subhead">5. saṇamānasuttaṃ</p>
+<p rend="subhead" sid="15">5. saṇamānasuttaṃ</p>
 
 <p rend="bodytext" n="15"><hi rend="paranum">15</hi><hi rend="dot">.</hi> ‘‘ṭhite <pb ed="P" n="1.0007"/> majjhanhike <note>majjhantike (sabbattha)</note> kāle, sannisīvesu pakkhisu|</p>
 
@@ -238,7 +238,7 @@
 
 <p rend="gathalast">saṇateva brahāraññaṃ, sā rati paṭibhāti ma’’nti||</p>
 
-<p rend="subhead">6. niddātandīsuttaṃ</p>
+<p rend="subhead" sid="16">6. niddātandīsuttaṃ</p>
 
 <p rend="bodytext" n="16"><hi rend="paranum">16</hi><hi rend="dot">.</hi> ‘‘niddā <pb ed="V" n="1.0009"/> tandī vijambhitā <note>tandi vijambhikā (sī. pī.)</note>, aratī bhattasammado|</p>
 
@@ -248,7 +248,7 @@
 
 <p rend="gathalast">vīriyena <note>viriyena (sī. syā. kaṃ. pī.)</note> naṃ paṇāmetvā, ariyamaggo visujjhatī’’ti||</p>
 
-<p rend="subhead">7. dukkarasuttaṃ</p>
+<p rend="subhead" sid="17">7. dukkarasuttaṃ</p>
 
 <p rend="bodytext" n="17"><hi rend="paranum">17</hi><hi rend="dot">.</hi> ‘‘dukkaraṃ <pb ed="T" n="1.0011"/> duttitikkhañca, abyattena ca sāmaññaṃ|</p>
 
@@ -266,7 +266,7 @@
 
 <p rend="gathalast">parinibbuto nūpavadeyya kañcī’’ti||</p>
 
-<p rend="subhead">8. hirīsuttaṃ</p>
+<p rend="subhead" sid="18">8. hirīsuttaṃ</p>
 
 <p rend="bodytext" n="18"><hi rend="paranum">18</hi><hi rend="dot">.</hi> ‘‘hirīnisedho <pb ed="M" n="1.0008"/> puriso, koci lokasmiṃ vijjati|</p>
 
@@ -276,7 +276,7 @@
 
 <p rend="gathalast">antaṃ dukkhassa pappuyya, caranti visame sama’’nti||</p>
 
-<p rend="subhead">9. kuṭikāsuttaṃ</p>
+<p rend="subhead" sid="19">9. kuṭikāsuttaṃ</p>
 
 <p rend="hangnum" n="19"><hi rend="paranum">19</hi><hi rend="dot">.</hi></p>
 
@@ -300,7 +300,7 @@
 
 <p rend="gathalast">sāhu santānakā natthi, sāhu muttosi bandhanā’’ti||</p>
 
-<p rend="subhead">10. samiddhisuttaṃ</p>
+<p rend="subhead" sid="20">10. samiddhisuttaṃ</p>
 
 <p rend="bodytext" n="20"><hi rend="paranum">20</hi><hi rend="dot">.</hi> evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati tapodārāme| atha kho āyasmā samiddhi rattiyā paccūsasamayaṃ paccuṭṭhāya yena tapodā tenupasaṅkami gattāni parisiñcituṃ| tapode gattāni parisiñcitvā paccuttaritvā ekacīvaro aṭṭhāsi gattāni pubbāpayamāno| atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ tapodaṃ obhāsetvā yena āyasmā samiddhi tenupasaṅkami; upasaṅkamitvā vehāsaṃ ṭhitā āyasmantaṃ samiddhiṃ gāthāya ajjhabhāsi –</p>
 
@@ -400,7 +400,7 @@
 
 <p rend="title">3. sattivaggo</p>
 
-<p rend="subhead">1. sattisuttaṃ</p>
+<p rend="subhead" sid="21">1. sattisuttaṃ</p>
 
 <p rend="bodytext" n="21"><hi rend="paranum">21</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="V" n="1.0015"/><pb ed="P" n="1.0013"/>| ekamantaṃ <pb ed="T" n="1.0019"/> ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -412,7 +412,7 @@
 
 <p rend="gathalast">sakkāyadiṭṭhippahānāya, sato bhikkhu paribbaje’’ti||</p>
 
-<p rend="subhead">2. phusatisuttaṃ</p>
+<p rend="subhead" sid="22">2. phusatisuttaṃ</p>
 
 <p rend="hangnum" n="22"><hi rend="paranum">22</hi><hi rend="dot">.</hi></p>
 
@@ -428,7 +428,7 @@
 
 <p rend="gathalast">sukhumo rajo paṭivātaṃva khitto’’ti||</p>
 
-<p rend="subhead">3. jaṭāsuttaṃ</p>
+<p rend="subhead" sid="23">3. jaṭāsuttaṃ</p>
 
 <p rend="hangnum" n="23"><hi rend="paranum">23</hi><hi rend="dot">.</hi></p>
 
@@ -448,7 +448,7 @@
 
 <p rend="gathalast">paṭighaṃ rūpasaññā ca, etthesā chijjate <note>vijaṭe (ka.)</note> jaṭā’’ti||</p>
 
-<p rend="subhead">4. manonivāraṇasuttaṃ</p>
+<p rend="subhead" sid="24">4. manonivāraṇasuttaṃ</p>
 
 <p rend="bodytext" n="24"><hi rend="paranum">24</hi><hi rend="dot">.</hi> ‘‘yato <pb ed="P" n="1.0014"/> yato mano nivāraye,</p>
 
@@ -466,7 +466,7 @@
 
 <p rend="gathalast">tato tato mano nivāraye’’ti||</p>
 
-<p rend="subhead">5. arahantasuttaṃ</p>
+<p rend="subhead" sid="25">5. arahantasuttaṃ</p>
 
 <p rend="hangnum" n="25"><hi rend="paranum">25</hi><hi rend="dot">.</hi></p>
 
@@ -514,7 +514,7 @@
 
 <p rend="gathalast">vohāramattena so vohareyyā’’ti||</p>
 
-<p rend="subhead">6. pajjotasuttaṃ</p>
+<p rend="subhead" sid="26">6. pajjotasuttaṃ</p>
 
 <p rend="hangnum" n="26"><hi rend="paranum">26</hi><hi rend="dot">.</hi></p>
 
@@ -530,7 +530,7 @@
 
 <p rend="gathalast">sambuddho tapataṃ seṭṭho, esā ābhā anuttarā’’ti||</p>
 
-<p rend="subhead">7. sarasuttaṃ</p>
+<p rend="subhead" sid="27">7. sarasuttaṃ</p>
 
 <p rend="hangnum" n="27"><hi rend="paranum">27</hi><hi rend="dot">.</hi></p>
 
@@ -544,7 +544,7 @@
 
 <p rend="gathalast">ettha nāmañca rūpañca, asesaṃ uparujjhatī’’ti||</p>
 
-<p rend="subhead">8. mahaddhanasuttaṃ</p>
+<p rend="subhead" sid="28">8. mahaddhanasuttaṃ</p>
 
 <p rend="hangnum" n="28"><hi rend="paranum">28</hi><hi rend="dot">.</hi></p>
 
@@ -562,7 +562,7 @@
 
 <p rend="gathalast">khīṇāsavā arahanto, te lokasmiṃ anussukā’’ti||</p>
 
-<p rend="subhead">9. catucakkasuttaṃ</p>
+<p rend="subhead" sid="29">9. catucakkasuttaṃ</p>
 
 <p rend="hangnum" n="29"><hi rend="paranum">29</hi><hi rend="dot">.</hi></p>
 
@@ -574,7 +574,7 @@
 
 <p rend="gathalast">samūlaṃ taṇhamabbuyha, evaṃ yātrā bhavissatī’’ti||</p>
 
-<p rend="subhead">10. eṇijaṅghasuttaṃ</p>
+<p rend="subhead" sid="30">10. eṇijaṅghasuttaṃ</p>
 
 <p rend="hangnum" n="30"><hi rend="paranum">30</hi><hi rend="dot">.</hi></p>
 
@@ -600,7 +600,7 @@
 
 <p rend="title">4. satullapakāyikavaggo</p>
 
-<p rend="subhead">1. sabbhisuttaṃ</p>
+<p rend="subhead" sid="31">1. sabbhisuttaṃ</p>
 
 <p rend="bodytext" n="31"><hi rend="paranum">31</hi><hi rend="dot">.</hi> evaṃ <pb ed="T" n="1.0024"/><pb ed="V" n="1.0020"/> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme| atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu| ekamantaṃ <pb ed="P" n="1.0017"/> ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -646,7 +646,7 @@
 
 <p rend="bodytext">idamavoca bhagavā| attamanā tā devatāyo bhagavantaṃ abhivādetvā padakkhiṇaṃ katvā tatthevantaradhāyiṃsūti|</p>
 
-<p rend="subhead">2. maccharisuttaṃ</p>
+<p rend="subhead" sid="32">2. maccharisuttaṃ</p>
 
 <p rend="bodytext" n="32"><hi rend="paranum">32</hi><hi rend="dot">.</hi> ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme| atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu| ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ <pb ed="T" n="1.0026"/> gāthaṃ abhāsi –</p>
 
@@ -720,7 +720,7 @@
 
 <p rend="gathalast">kalampi nāgghanti tathāvidhassa te’’ti||</p>
 
-<p rend="subhead">3. sādhusuttaṃ</p>
+<p rend="subhead" sid="33">3. sādhusuttaṃ</p>
 
 <p rend="bodytext" n="33"><hi rend="paranum">33</hi><hi rend="dot">.</hi> sāvatthinidānaṃ<pb ed="P" n="1.0020"/>| atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā <pb ed="V" n="1.0024"/> abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu| ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ udānaṃ udānesi –</p>
 
@@ -812,7 +812,7 @@
 
 <p rend="gathalast">nibbānamevajjhagamuṃ sapaññā’’ti||</p>
 
-<p rend="subhead">4. nasantisuttaṃ</p>
+<p rend="subhead" sid="34">4. nasantisuttaṃ</p>
 
 <p rend="bodytext" n="34"><hi rend="paranum">34</hi><hi rend="dot">.</hi> ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme| atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu| ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -874,7 +874,7 @@
 
 <p rend="gathalast">saṅgātigā tepi bhavanti bhikkhū’’ti||</p>
 
-<p rend="subhead">5. ujjhānasaññisuttaṃ</p>
+<p rend="subhead" sid="35">5. ujjhānasaññisuttaṃ</p>
 
 <p rend="bodytext" n="35"><hi rend="paranum">35</hi><hi rend="dot">.</hi> ekaṃ <pb ed="V" n="1.0028"/> samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme| atha kho sambahulā ujjhānasaññikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā vehāsaṃ aṭṭhaṃsu| vehāsaṃ <pb ed="P" n="1.0024"/> ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -922,7 +922,7 @@
 
 <p rend="gathalast">taṃ veraṃ nābhinandāmi, paṭiggaṇhāmi voccaya’’nti||</p>
 
-<p rend="subhead">6. saddhāsuttaṃ</p>
+<p rend="subhead" sid="36">6. saddhāsuttaṃ</p>
 
 <p rend="bodytext" n="36"><hi rend="paranum">36</hi><hi rend="dot">.</hi> ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme| atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ <pb ed="M" n="1.0024"/> obhāsetvā yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu| ekamantaṃ ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi –</p>
 
@@ -952,7 +952,7 @@
 
 <p rend="gathalast">appamatto hi jhāyanto, pappoti paramaṃ sukha’’ntntti||</p>
 
-<p rend="subhead">7. samayasuttaṃ</p>
+<p rend="subhead" sid="37">7. samayasuttaṃ</p>
 
 <p rend="bodytext" n="37"><hi rend="paranum">37</hi><hi rend="dot">.</hi> evaṃ <pb ed="P" n="1.0026"/> me sutaṃ – ekaṃ samayaṃ bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṃ dassanāya bhikkhusaṅghañca| atha kho catunnaṃ suddhāvāsakāyikānaṃ devatānaṃ etadahosi – ‘‘ayaṃ kho bhagavā sakkesu viharati kapilavatthusmiṃ mahāvane mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṃ dassanāya bhikkhusaṅghañca| yaṃnūna mayampi yena bhagavā tenupasaṅkameyyāma; upasaṅkamitvā bhagavato santike paccekaṃ gāthaṃ <note>paccekagāthaṃ (sī. syā. kaṃ. pī.)</note> bhāseyyāmā’’ti|</p>
 
@@ -980,7 +980,7 @@
 
 <p rend="gathalast">pahāya mānusaṃ dehaṃ, devakāyaṃ paripūressantī’’ti||</p>
 
-<p rend="subhead">8. sakalikasuttaṃ</p>
+<p rend="subhead" sid="38">8. sakalikasuttaṃ</p>
 
 <p rend="bodytext" n="38"><hi rend="paranum">38</hi><hi rend="dot">.</hi> evaṃ me sutaṃ – ekaṃ samayaṃ bhagavā rājagahe viharati maddakucchismiṃ <pb ed="T" n="1.0038"/> migadāye| tena kho pana samayena bhagavato pādo sakalikāya <note>sakkhalikāya (ka.)</note> khato hoti| bhusā sudaṃ bhagavato vedanā vattanti sārīrikā vedanā dukkhā tibbā <note>tippā (sī. syā. kaṃ. pī.)</note> kharā kaṭukā asātā amanāpā; tā sudaṃ bhagavā sato sampajāno <pb ed="V" n="1.0032"/> adhivāseti avihaññamāno| atha kho bhagavā catugguṇaṃ saṅghāṭiṃ paññāpetvā dakkhiṇena passena sīhaseyyaṃ kappeti pāde pādaṃ accādhāya sato sampajāno|</p>
 
@@ -1014,7 +1014,7 @@
 
 <p rend="gathalast">eko araññe viharamappamatto, sa maccudheyyassa tareyya pāra’’ntntti||</p>
 
-<p rend="subhead">9. paṭhamapajjunnadhītusuttaṃ</p>
+<p rend="subhead" sid="39">9. paṭhamapajjunnadhītusuttaṃ</p>
 
 <p rend="bodytext" n="39"><hi rend="paranum">39</hi><hi rend="dot">.</hi> evaṃ <pb ed="T" n="1.0041"/> me sutaṃ – ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ| atha kho kokanadā pajjunnassa dhītā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ mahāvanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi| ekamantaṃ ṭhitā kho sā devatā kokanadā pajjunnassa dhītā bhagavato santike imā gāthāyo abhāsi –</p>
 
@@ -1034,7 +1034,7 @@
 
 <p rend="gathalast">pahāya mānusaṃ dehaṃ, devakāya paripūressantī’’ti||</p>
 
-<p rend="subhead">10. dutiyapajjunnadhītusuttaṃ</p>
+<p rend="subhead" sid="40">10. dutiyapajjunnadhītusuttaṃ</p>
 
 <p rend="bodytext" n="40"><hi rend="paranum">40</hi><hi rend="dot">.</hi> evaṃ <pb ed="M" n="1.0028"/> me sutaṃ – ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ| atha kho cūḷakokanadā <note>cullakokanadā (sī. syā. kaṃ.)</note> pajjunnassa dhītā <pb ed="T" n="1.0042"/> abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ mahāvanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi| ekamantaṃ ṭhitā kho sā devatā cūḷakokanadā pajjunnassa dhītā bhagavato santike imā gāthāyo abhāsi –</p>
 
@@ -1064,7 +1064,7 @@
 
 <p rend="title">5. ādittavaggo</p>
 
-<p rend="subhead">1. ādittasuttaṃ</p>
+<p rend="subhead" sid="41">1. ādittasuttaṃ</p>
 
 <p rend="bodytext" n="41"><hi rend="paranum">41</hi><hi rend="dot">.</hi> evaṃ <pb ed="T" n="1.0043"/> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme| atha kho aññatarā devatā abhikkantāya <pb ed="M" n="1.0029"/> rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi| ekamantaṃ ṭhitā kho sā devatā bhagavato santike imā gāthāyo abhāsi –</p>
 
@@ -1088,7 +1088,7 @@
 
 <p rend="gathalast">anindito saggamupeti ṭhāna’’nti||</p>
 
-<p rend="subhead">2. kiṃdadasuttaṃ</p>
+<p rend="subhead" sid="42">2. kiṃdadasuttaṃ</p>
 
 <p rend="hangnum" n="42"><hi rend="paranum">42</hi><hi rend="dot">.</hi></p>
 
@@ -1106,7 +1106,7 @@
 
 <p rend="gathalast">amataṃ dado ca so hoti, yo dhammamanusāsatī’’ti||</p>
 
-<p rend="subhead">3. annasuttaṃ</p>
+<p rend="subhead" sid="43">3. annasuttaṃ</p>
 
 <p rend="hangnum" n="43"><hi rend="paranum">43</hi><hi rend="dot">.</hi></p>
 
@@ -1122,7 +1122,7 @@
 
 <p rend="gathalast">puññāni paralokasmiṃ, patiṭṭhā honti pāṇina’’nti||</p>
 
-<p rend="subhead">4. ekamūlasuttaṃ</p>
+<p rend="subhead" sid="44">4. ekamūlasuttaṃ</p>
 
 <p rend="hangnum" n="44"><hi rend="paranum">44</hi><hi rend="dot">.</hi></p>
 
@@ -1130,7 +1130,7 @@
 
 <p rend="gathalast">samuddaṃ dvādasāvaṭṭaṃ, pātālaṃ atarī isī’’ti||</p>
 
-<p rend="subhead">5. anomasuttaṃ</p>
+<p rend="subhead" sid="45">5. anomasuttaṃ</p>
 
 <p rend="hangnum" n="45"><hi rend="paranum">45</hi><hi rend="dot">.</hi></p>
 
@@ -1138,7 +1138,7 @@
 
 <p rend="gathalast">taṃ passatha sabbaviduṃ sumedhaṃ, ariye pathe kamamānaṃ mahesi’’nti||</p>
 
-<p rend="subhead">6. accharāsuttaṃ</p>
+<p rend="subhead" sid="46">6. accharāsuttaṃ</p>
 
 <p rend="hangnum" n="46"><hi rend="paranum">46</hi><hi rend="dot">.</hi></p>
 
@@ -1158,7 +1158,7 @@
 
 <p rend="gathalast">sa ve etena yānena, nibbānasseva santike’’ti||</p>
 
-<p rend="subhead">7. vanaropasuttaṃ</p>
+<p rend="subhead" sid="47">7. vanaropasuttaṃ</p>
 
 <p rend="hangnum" n="47"><hi rend="paranum">47</hi><hi rend="dot">.</hi></p>
 
@@ -1174,7 +1174,7 @@
 
 <p rend="gathalast">dhammaṭṭhā sīlasampannā, te janā saggagāmino’’ti||</p>
 
-<p rend="subhead">8. jetavanasuttaṃ</p>
+<p rend="subhead" sid="48">8. jetavanasuttaṃ</p>
 
 <p rend="hangnum" n="48"><hi rend="paranum">48</hi><hi rend="dot">.</hi></p>
 
@@ -1194,7 +1194,7 @@
 
 <p rend="gathalast">yopi pāraṅgato bhikkhu, etāvaparamo siyā’’ti||</p>
 
-<p rend="subhead">9. maccharisuttaṃ</p>
+<p rend="subhead" sid="49">9. maccharisuttaṃ</p>
 
 <p rend="hangnum" n="49"><hi rend="paranum">49</hi><hi rend="dot">.</hi></p>
 
@@ -1244,7 +1244,7 @@
 
 <p rend="gathalast">diṭṭhe dhammesa vipāko, samparāye ca suggatī’’ti||</p>
 
-<p rend="subhead">10. ghaṭīkārasuttaṃ</p>
+<p rend="subhead" sid="50">10. ghaṭīkārasuttaṃ</p>
 
 <p rend="hangnum" n="50"><hi rend="paranum">50</hi><hi rend="dot">.</hi></p>
 
@@ -1314,7 +1314,7 @@
 
 <p rend="title">6. jarāvaggo</p>
 
-<p rend="subhead">1. jarāsuttaṃ</p>
+<p rend="subhead" sid="51">1. jarāsuttaṃ</p>
 
 <p rend="hangnum" n="51"><hi rend="paranum">51</hi><hi rend="dot">.</hi></p>
 
@@ -1326,7 +1326,7 @@
 
 <p rend="gathalast">paññā narānaṃ ratanaṃ, puññaṃ corehi dūhara’’nti||</p>
 
-<p rend="subhead">2. ajarasāsuttaṃ</p>
+<p rend="subhead" sid="52">2. ajarasāsuttaṃ</p>
 
 <p rend="hangnum" n="52"><hi rend="paranum">52</hi><hi rend="dot">.</hi></p>
 
@@ -1338,7 +1338,7 @@
 
 <p rend="gathalast">paññā narānaṃ ratanaṃ, puññaṃ corehyahāriya’’nti||</p>
 
-<p rend="subhead">3. mittasuttaṃ</p>
+<p rend="subhead" sid="53">3. mittasuttaṃ</p>
 
 <p rend="hangnum" n="53"><hi rend="paranum">53</hi><hi rend="dot">.</hi></p>
 
@@ -1352,7 +1352,7 @@
 
 <p rend="gathalast">sayaṃkatāni puññāni, taṃ mittaṃ samparāyika’’nti||</p>
 
-<p rend="subhead">4. vatthusuttaṃ</p>
+<p rend="subhead" sid="54">4. vatthusuttaṃ</p>
 
 <p rend="hangnum" n="54"><hi rend="paranum">54</hi><hi rend="dot">.</hi></p>
 
@@ -1364,7 +1364,7 @@
 
 <p rend="gathalast">vuṭṭhiṃ bhūtā upajīvanti, ye pāṇā pathavissitā’’ti||</p>
 
-<p rend="subhead">5. paṭhamajanasuttaṃ</p>
+<p rend="subhead" sid="55">5. paṭhamajanasuttaṃ</p>
 
 <p rend="hangnum" n="55"><hi rend="paranum">55</hi><hi rend="dot">.</hi></p>
 
@@ -1376,7 +1376,7 @@
 
 <p rend="gathalast">satto saṃsāramāpādi, dukkhamassa mahabbhaya’’nti||</p>
 
-<p rend="subhead">6. dutiyajanasuttaṃ</p>
+<p rend="subhead" sid="56">6. dutiyajanasuttaṃ</p>
 
 <p rend="hangnum" n="56"><hi rend="paranum">56</hi><hi rend="dot">.</hi></p>
 
@@ -1388,7 +1388,7 @@
 
 <p rend="gathalast">satto saṃsāramāpādi, dukkhā na parimuccatī’’ti||</p>
 
-<p rend="subhead">7. tatiyajanasuttaṃ</p>
+<p rend="subhead" sid="57">7. tatiyajanasuttaṃ</p>
 
 <p rend="hangnum" n="57"><hi rend="paranum">57</hi><hi rend="dot">.</hi></p>
 
@@ -1400,7 +1400,7 @@
 
 <p rend="gathalast">satto saṃsāramāpādi, kammaṃ tassa parāyana’’nti||</p>
 
-<p rend="subhead">8. uppathasuttaṃ</p>
+<p rend="subhead" sid="58">8. uppathasuttaṃ</p>
 
 <p rend="hangnum" n="58"><hi rend="paranum">58</hi><hi rend="dot">.</hi></p>
 
@@ -1414,7 +1414,7 @@
 
 <p rend="gathalast">tapo ca brahmacariyañca, taṃ sinānamanodaka’’ntntti||</p>
 
-<p rend="subhead">9. dutiyasuttaṃ</p>
+<p rend="subhead" sid="59">9. dutiyasuttaṃ</p>
 
 <p rend="hangnum" n="59"><hi rend="paranum">59</hi><hi rend="dot">.</hi></p>
 
@@ -1426,7 +1426,7 @@
 
 <p rend="gathalast">nibbānābhirato macco, sabbadukkhā pamuccatī’’ti||</p>
 
-<p rend="subhead">10. kavisuttaṃ</p>
+<p rend="subhead" sid="60">10. kavisuttaṃ</p>
 
 <p rend="hangnum" n="60"><hi rend="paranum">60</hi><hi rend="dot">.</hi></p>
 
@@ -1448,7 +1448,7 @@
 
 <p rend="title">7. addhavaggo</p>
 
-<p rend="subhead">1. nāmasuttaṃ</p>
+<p rend="subhead" sid="61">1. nāmasuttaṃ</p>
 
 <p rend="hangnum" n="61"><hi rend="paranum">61</hi><hi rend="dot">.</hi></p>
 
@@ -1460,7 +1460,7 @@
 
 <p rend="gathalast">nāmassa ekadhammassa, sabbeva vasamanvagū’’ti||</p>
 
-<p rend="subhead">2. cittasuttaṃ</p>
+<p rend="subhead" sid="62">2. cittasuttaṃ</p>
 
 <p rend="hangnum" n="62"><hi rend="paranum">62</hi><hi rend="dot">.</hi></p>
 
@@ -1472,7 +1472,7 @@
 
 <p rend="gathalast">cittassa ekadhammassa, sabbeva vasamanvagū’’ti||</p>
 
-<p rend="subhead">3. taṇhāsuttaṃ</p>
+<p rend="subhead" sid="63">3. taṇhāsuttaṃ</p>
 
 <p rend="hangnum" n="63"><hi rend="paranum">63</hi><hi rend="dot">.</hi></p>
 
@@ -1484,7 +1484,7 @@
 
 <p rend="gathalast">taṇhāya ekadhammassa, sabbeva vasamanvagū’’ti||</p>
 
-<p rend="subhead">4. saṃyojanasuttaṃ</p>
+<p rend="subhead" sid="64">4. saṃyojanasuttaṃ</p>
 
 <p rend="hangnum" n="64"><hi rend="paranum">64</hi><hi rend="dot">.</hi></p>
 
@@ -1496,7 +1496,7 @@
 
 <p rend="gathalast">taṇhāya vippahānena, nibbānaṃ iti vuccatī’’ti||</p>
 
-<p rend="subhead">5. bandhanasuttaṃ</p>
+<p rend="subhead" sid="65">5. bandhanasuttaṃ</p>
 
 <p rend="hangnum" n="65"><hi rend="paranum">65</hi><hi rend="dot">.</hi></p>
 
@@ -1508,7 +1508,7 @@
 
 <p rend="gathalast">taṇhāya vippahānena, sabbaṃ chindati bandhana’’nti||</p>
 
-<p rend="subhead">6. attahatasuttaṃ</p>
+<p rend="subhead" sid="66">6. attahatasuttaṃ</p>
 
 <p rend="hangnum" n="66"><hi rend="paranum">66</hi><hi rend="dot">.</hi></p>
 
@@ -1520,7 +1520,7 @@
 
 <p rend="gathalast">taṇhāsallena otiṇṇo, icchādhūpāyito sadā’’ti||</p>
 
-<p rend="subhead">7. uḍḍitasuttaṃ</p>
+<p rend="subhead" sid="67">7. uḍḍitasuttaṃ</p>
 
 <p rend="hangnum" n="67"><hi rend="paranum">67</hi><hi rend="dot">.</hi></p>
 
@@ -1532,7 +1532,7 @@
 
 <p rend="gathalast">maccunā pihito loko, dukkhe loko patiṭṭhito’’ti||</p>
 
-<p rend="subhead">8. pihitasuttaṃ</p>
+<p rend="subhead" sid="68">8. pihitasuttaṃ</p>
 
 <p rend="hangnum" n="68"><hi rend="paranum">68</hi><hi rend="dot">.</hi></p>
 
@@ -1544,7 +1544,7 @@
 
 <p rend="gathalast">taṇhāya uḍḍito loko, jarāya parivārito’’ti||</p>
 
-<p rend="subhead">9. icchāsuttaṃ</p>
+<p rend="subhead" sid="69">9. icchāsuttaṃ</p>
 
 <p rend="hangnum" n="69"><hi rend="paranum">69</hi><hi rend="dot">.</hi></p>
 
@@ -1556,7 +1556,7 @@
 
 <p rend="gathalast">icchāya vippahānena, sabbaṃ chindati bandhana’’nti||</p>
 
-<p rend="subhead">10. lokasuttaṃ</p>
+<p rend="subhead" sid="70">10. lokasuttaṃ</p>
 
 <p rend="hangnum" n="70"><hi rend="paranum">70</hi><hi rend="dot">.</hi></p>
 
@@ -1578,7 +1578,7 @@
 
 <p rend="title">8. chetvāvaggo</p>
 
-<p rend="subhead">1. chetvāsuttaṃ</p>
+<p rend="subhead" sid="71">1. chetvāsuttaṃ</p>
 
 <p rend="bodytext" n="71"><hi rend="paranum">71</hi><hi rend="dot">.</hi> sāvatthinidānaṃ| ekamantaṃ <pb ed="T" n="1.0057"/> ṭhitā kho sā devatā bhagavantaṃ gāthāya ajjhabhāsi –</p>
 
@@ -1592,7 +1592,7 @@
 
 <p rend="gathalast">vadhaṃ ariyā pasaṃsanti, tañhi chetvā na socatī’’ti||</p>
 
-<p rend="subhead">2. rathasuttaṃ</p>
+<p rend="subhead" sid="72">2. rathasuttaṃ</p>
 
 <p rend="hangnum" n="72"><hi rend="paranum">72</hi><hi rend="dot">.</hi></p>
 
@@ -1604,7 +1604,7 @@
 
 <p rend="gathalast">rājā raṭṭhassa paññāṇaṃ, bhattā paññāṇamitthiyā’’ti||</p>
 
-<p rend="subhead">3. vittasuttaṃ</p>
+<p rend="subhead" sid="73">3. vittasuttaṃ</p>
 
 <p rend="hangnum" n="73"><hi rend="paranum">73</hi><hi rend="dot">.</hi></p>
 
@@ -1616,7 +1616,7 @@
 
 <p rend="gathalast">saccaṃ have sādutaraṃ rasānaṃ, paññājīviṃ jīvitamāhu seṭṭha’’nti||</p>
 
-<p rend="subhead">4. vuṭṭhisuttaṃ</p>
+<p rend="subhead" sid="74">4. vuṭṭhisuttaṃ</p>
 
 <p rend="hangnum" n="74"><hi rend="paranum">74</hi><hi rend="dot">.</hi></p>
 
@@ -1632,7 +1632,7 @@
 
 <p rend="gathalast">saṅgho pavajamānānaṃ, buddho pavadataṃ varo’’ti||</p>
 
-<p rend="subhead">5. bhītāsuttaṃ</p>
+<p rend="subhead" sid="75">5. bhītāsuttaṃ</p>
 
 <p rend="hangnum" n="75"><hi rend="paranum">75</hi><hi rend="dot">.</hi></p>
 
@@ -1656,7 +1656,7 @@
 
 <p rend="gathalast">dhamme ṭhito paralokaṃ na bhāye’’ti||</p>
 
-<p rend="subhead">6. najīratisuttaṃ</p>
+<p rend="subhead" sid="76">6. najīratisuttaṃ</p>
 
 <p rend="hangnum" n="76"><hi rend="paranum">76</hi><hi rend="dot">.</hi></p>
 
@@ -1686,7 +1686,7 @@
 
 <p rend="gathalast">niddā tandī <note>tandi (sī.)</note> ca te chidde, sabbaso taṃ vivajjaye’’ti||</p>
 
-<p rend="subhead">7. issariyasuttaṃ</p>
+<p rend="subhead" sid="77">7. issariyasuttaṃ</p>
 
 <p rend="hangnum" n="77"><hi rend="paranum">77</hi><hi rend="dot">.</hi></p>
 
@@ -1706,7 +1706,7 @@
 
 <p rend="gathalast">samaṇaṃ punappunāyantaṃ, abhinandanti paṇḍitā’’ti||</p>
 
-<p rend="subhead">8. kāmasuttaṃ</p>
+<p rend="subhead" sid="78">8. kāmasuttaṃ</p>
 
 <p rend="hangnum" n="78"><hi rend="paranum">78</hi><hi rend="dot">.</hi></p>
 
@@ -1718,7 +1718,7 @@
 
 <p rend="gathalast">vācaṃ muñceyya kalyāṇaṃ, pāpikañca na mocaye’’ti||</p>
 
-<p rend="subhead">9. pātheyyasuttaṃ</p>
+<p rend="subhead" sid="79">9. pātheyyasuttaṃ</p>
 
 <p rend="hangnum" n="79"><hi rend="paranum">79</hi><hi rend="dot">.</hi></p>
 
@@ -1734,7 +1734,7 @@
 
 <p rend="gathalast">icchābaddhā puthū sattā, pāsena sakuṇī yathā’’ti||</p>
 
-<p rend="subhead">10. pajjotasuttaṃ</p>
+<p rend="subhead" sid="80">10. pajjotasuttaṃ</p>
 
 <p rend="hangnum" n="80"><hi rend="paranum">80</hi><hi rend="dot">.</hi></p>
 
@@ -1754,7 +1754,7 @@
 
 <p rend="gathalast">vuṭṭhiṃ bhūtā upajīvanti, ye pāṇā pathavissitā’’ti||</p>
 
-<p rend="subhead">11. araṇasuttaṃ</p>
+<p rend="subhead" sid="81">11. araṇasuttaṃ</p>
 
 <p rend="hangnum" n="81"><hi rend="paranum">81</hi><hi rend="dot">.</hi></p>
 

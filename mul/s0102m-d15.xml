@@ -3,7 +3,7 @@
 <div id="dn2_2" n="dn2_2" type="sutta">
 <head rend="chapter"><pgroup id="d15"/><readunit id="d15">2. mahānidānasuttaṃ</readunit></head>
 
-<p rend="subhead">paṭiccasamuppādo</p>
+<p rend="subhead" sid="1">paṭiccasamuppādo</p>
 
 <p rend="bodytext" n="95"><hi rend="paranum">95</hi><hi rend="dot">.</hi> evaṃ <pb ed="T" n="2.0065"/><pb ed="M" n="2.0047"/><pb ed="P" n="2.0055"/><pb ed="V" n="2.0043"/> me sutaṃ – ekaṃ samayaṃ bhagavā kurūsu viharati kammāsadhammaṃ nāma <note>kammāsadammaṃ nāma (syā.)</note> kurūnaṃ nigamo| atha kho āyasmā ānando yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdi| ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca – ‘‘acchariyaṃ, bhante, abbhutaṃ, bhante! yāva gambhīro cāyaṃ, bhante, paṭiccasamuppādo gambhīrāvabhāso ca, atha ca pana me uttānakuttānako viya khāyatī’’ti| ‘‘mā hevaṃ, ānanda, avaca, mā hevaṃ, ānanda, avaca| gambhīro cāyaṃ, ānanda, paṭiccasamuppādo gambhīrāvabhāso ca| etassa, ānanda, dhammassa ananubodhā appaṭivedhā evamayaṃ pajā tantākulakajātā kulagaṇṭhikajātā <note>gulāguṇṭhikajātā (sī. pī.), guṇagaṇṭhikajātā (syā.)</note> muñjapabbajabhūtā apāyaṃ duggatiṃ vinipātaṃ saṃsāraṃ nātivattati|</p>
 
@@ -65,7 +65,7 @@
 
 <p rend="bodytext" n="116"><hi rend="paranum">116</hi><hi rend="dot">.</hi> ‘‘‘nāmarūpapaccayā <pb ed="M" n="2.0054"/> viññāṇa’nti iti kho panetaṃ vuttaṃ, tadānanda, imināpetaṃ pariyāyena veditabbaṃ, yathā nāmarūpapaccayā viññāṇaṃ| viññāṇañca hi, ānanda, nāmarūpe patiṭṭhaṃ na labhissatha, api nu kho āyatiṃ jātijarāmaraṇaṃ dukkhasamudayasambhavo <note>jātijarāmaraṇadukkhasamudayasambhavo (sī. syā. pī.)</note> paññāyethā’’ti? ‘‘no hetaṃ, bhante’’| ‘‘tasmātihānanda, eseva hetu etaṃ nidānaṃ esa samudayo esa paccayo viññāṇassa yadidaṃ nāmarūpaṃ| ettāvatā kho, ānanda, <pb ed="T" n="2.0075"/> jāyetha vā jīyetha <note>jiyyetha (ka.)</note> vā mīyetha <note>miyyetha (ka.)</note> vā cavetha vā upapajjetha vā| ettāvatā adhivacanapatho, ettāvatā niruttipatho, ettāvatā paññattipatho, ettāvatā paññāvacaraṃ, ettāvatā vaṭṭaṃ vattati itthattaṃ <pb ed="P" n="2.0064"/> paññāpanāya yadidaṃ nāmarūpaṃ saha viññāṇena aññamaññapaccayatā pavattati|</p>
 
-<p rend="subhead">attapaññatti</p>
+<p rend="subhead" sid="2">attapaññatti</p>
 
 <p rend="bodytext" n="117"><hi rend="paranum">117</hi><hi rend="dot">.</hi> ‘‘kittāvatā ca, ānanda, attānaṃ paññapento paññapeti? rūpiṃ vā hi, ānanda, parittaṃ attānaṃ paññapento paññapeti – ‘‘rūpī me paritto attā’’ti| rūpiṃ vā hi<pb ed="V" n="2.0050"/>, ānanda, anantaṃ attānaṃ paññapento paññapeti – ‘rūpī me ananto attā’ti| arūpiṃ vā hi, ānanda, parittaṃ attānaṃ paññapento paññapeti – ‘arūpī me paritto attā’ti| arūpiṃ vā hi, ānanda, anantaṃ attānaṃ paññapento paññapeti – ‘arūpī me ananto attā’ti|</p>
 
@@ -77,7 +77,7 @@
 
 <p rend="bodytext">‘‘tatrānanda, yo so arūpiṃ anantaṃ attānaṃ paññapento paññapeti| etarahi vā so arūpiṃ anantaṃ attānaṃ paññapento paññapeti, tattha bhāviṃ vā so arūpiṃ anantaṃ attānaṃ paññapento paññapeti, ‘atathaṃ vā pana santaṃ tathattāya upakappessāmī’ti iti vā panassa hoti| evaṃ santaṃ kho, ānanda, arūpiṃ <note>arūpī (ka.)</note> anantattānudiṭṭhi anusetīti iccālaṃ vacanāya| ettāvatā kho, ānanda, attānaṃ paññapento paññapeti|</p>
 
-<p rend="subhead">nattapaññatti</p>
+<p rend="subhead" sid="3">nattapaññatti</p>
 
 <p rend="bodytext" n="119"><hi rend="paranum">119</hi><hi rend="dot">.</hi> ‘‘kittāvatā ca, ānanda, attānaṃ na paññapento na paññapeti? rūpiṃ vā hi, ānanda, parittaṃ attānaṃ na paññapento na paññapeti – ‘rūpī me paritto attā’ti| rūpiṃ <pb ed="V" n="2.0051"/> vā hi, ānanda, anantaṃ attānaṃ na paññapento na paññapeti – ‘rūpī me ananto attā’ti| arūpiṃ vā hi, ānanda, parittaṃ attānaṃ na paññapento na paññapeti – ‘arūpī me paritto attā’ti| arūpiṃ vā hi, ānanda, anantaṃ <pb ed="T" n="2.0077"/> attānaṃ na paññapento na paññapeti – ‘arūpī me ananto attā’ti|</p>
 
@@ -89,7 +89,7 @@
 
 <p rend="bodytext">‘‘tatrānanda, yo so arūpiṃ anantaṃ attānaṃ na paññapento na paññapeti| etarahi vā so arūpiṃ anantaṃ attānaṃ na paññapento na <pb ed="T" n="2.0078"/> paññapeti, tattha bhāviṃ vā so arūpiṃ anantaṃ attānaṃ na paññapento na paññapeti, ‘atathaṃ vā pana santaṃ tathattāya upakappessāmī’ti iti vā panassa na <pb ed="P" n="2.0066"/> hoti| evaṃ santaṃ kho, ānanda, arūpiṃ anantattānudiṭṭhi nānusetīti iccālaṃ vacanāya| ettāvatā kho, ānanda, attānaṃ na paññapento na paññapeti|</p>
 
-<p rend="subhead">attasamanupassanā</p>
+<p rend="subhead" sid="4">attasamanupassanā</p>
 
 <p rend="bodytext" n="121"><hi rend="paranum">121</hi><hi rend="dot">.</hi> ‘‘kittāvatā <pb ed="V" n="2.0052"/> ca, ānanda, attānaṃ samanupassamāno samanupassati? vedanaṃ vā hi, ānanda, attānaṃ samanupassamāno samanupassati – ‘vedanā me attā’ti| ‘na heva kho me vedanā attā, appaṭisaṃvedano me attā’ti iti vā hi, ānanda, attānaṃ samanupassamāno samanupassati| ‘na heva kho me vedanā attā, nopi appaṭisaṃvedano me attā, attā me vediyati, vedanādhammo hi me attā’ti iti vā hi, ānanda, attānaṃ samanupassamāno samanupassati|</p>
 
@@ -103,13 +103,13 @@
 
 <p rend="bodytext" n="126"><hi rend="paranum">126</hi><hi rend="dot">.</hi> ‘‘yato kho, ānanda, bhikkhu neva vedanaṃ attānaṃ samanupassati, nopi appaṭisaṃvedanaṃ attānaṃ samanupassati, nopi ‘attā me vediyati, vedanādhammo hi me attā’ti samanupassati| so evaṃ na samanupassanto na ca kiñci loke upādiyati, anupādiyaṃ na paritassati, aparitassaṃ <note>aparitassanaṃ (ka.)</note> paccattaññeva parinibbāyati, ‘khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā’ti pajānāti| evaṃ vimuttacittaṃ kho, ānanda, bhikkhuṃ yo evaṃ vadeyya – ‘hoti tathāgato paraṃ maraṇā itissa <note>iti sā (aṭṭhakathāyaṃ pāṭhantaraṃ)</note> diṭṭhī’ti, tadakallaṃ| ‘na hoti tathāgato paraṃ maraṇā itissa <pb ed="T" n="2.0081"/> diṭṭhī’ti, tadakallaṃ| ‘hoti ca na ca hoti tathāgato paraṃ maraṇā itissa diṭṭhī’ti, tadakallaṃ| ‘neva hoti na na hoti tathāgato paraṃ maraṇā itissa diṭṭhī’ti, tadakallaṃ| taṃ kissa hetu? yāvatā, ānanda, adhivacanaṃ yāvatā adhivacanapatho, yāvatā nirutti yāvatā niruttipatho, yāvatā paññatti yāvatā paññattipatho, yāvatā paññā yāvatā paññāvacaraṃ, yāvatā vaṭṭaṃ <note>yāvatā vaṭṭaṃ vaṭṭati (ka. sī.)</note>, yāvatā vaṭṭati <note>yāvatā vaṭṭaṃ vaṭṭati (ka. sī.)</note>, tadabhiññāvimutto bhikkhu, tadabhiññāvimuttaṃ bhikkhuṃ ‘na jānāti na passati itissa diṭṭhī’ti, tadakallaṃ|</p>
 
-<p rend="subhead">satta viññāṇaṭṭhiti</p>
+<p rend="subhead" sid="5">satta viññāṇaṭṭhiti</p>
 
 <p rend="bodytext" n="127"><hi rend="paranum">127</hi><hi rend="dot">.</hi> ‘‘satta kho, ānanda <note>satta kho imā ānanda (ka. sī. syā.)</note>, viññāṇaṭṭhitiyo, dve āyatanāni| katamā satta? santānanda, sattā nānattakāyā <pb ed="P" n="2.0069"/> nānattasaññino, seyyathāpi manussā<pb ed="M" n="2.0059"/>, ekacce ca devā, ekacce ca <pb ed="V" n="2.0054"/> vinipātikā| ayaṃ paṭhamā viññāṇaṭṭhiti| santānanda, sattā nānattakāyā ekattasaññino, seyyathāpi devā brahmakāyikā paṭhamābhinibbattā| ayaṃ dutiyā viññāṇaṭṭhiti| santānanda, sattā ekattakāyā nānattasaññino, seyyathāpi devā ābhassarā| ayaṃ tatiyā viññāṇaṭṭhiti| santānanda, sattā ekattakāyā ekattasaññino, seyyathāpi devā subhakiṇhā| ayaṃ catutthī viññāṇaṭṭhiti| santānanda, sattā sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanūpagā| ayaṃ pañcamī viññāṇaṭṭhiti<pb ed="T" n="2.0082"/>| santānanda, sattā sabbaso ākāsānañcāyatanaṃ samatikkamma ‘anantaṃ viññāṇa’nti viññāṇañcāyatanūpagā| ayaṃ chaṭṭhī viññāṇaṭṭhiti| santānanda, sattā sabbaso viññāṇañcāyatanaṃ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanūpagā| ayaṃ sattamī viññāṇaṭṭhiti| asaññasattāyatanaṃ nevasaññānāsaññāyatanameva dutiyaṃ|</p>
 
 <p rend="bodytext" n="128"><hi rend="paranum">128</hi><hi rend="dot">.</hi> ‘‘tatrānanda, yāyaṃ paṭhamā viññāṇaṭṭhiti nānattakāyā nānattasaññino, seyyathāpi manussā, ekacce ca devā, ekacce ca vinipātikā| yo nu kho, ānanda, tañca pajānāti, tassā ca samudayaṃ pajānāti, tassā ca atthaṅgamaṃ pajānāti, tassā ca assādaṃ pajānāti, tassā ca ādīnavaṃ pajānāti, tassā ca nissaraṇaṃ pajānāti, kallaṃ nu tena tadabhinanditu’’nti? ‘‘no <pb ed="P" n="2.0070"/> hetaṃ, bhante’’…pe.… ‘‘tatrānanda, yamidaṃ asaññasattāyatanaṃ| yo nu kho, ānanda, tañca pajānāti, tassa ca samudayaṃ pajānāti, tassa ca atthaṅgamaṃ pajānāti, tassa ca assādaṃ pajānāti, tassa ca ādīnavaṃ pajānāti, tassa ca nissaraṇaṃ pajānāti, kallaṃ nu tena tadabhinanditu’’nti? ‘‘no hetaṃ, bhante’’| ‘‘tatrānanda, yamidaṃ nevasaññānāsaññāyatanaṃ| yo nu kho, ānanda, tañca pajānāti, tassa ca samudayaṃ pajānāti, tassa ca atthaṅgamaṃ pajānāti, <pb ed="T" n="2.0083"/> tassa ca assādaṃ pajānāti, tassa ca ādīnavaṃ pajānāti, tassa ca nissaraṇaṃ pajānāti, kallaṃ nu tena tadabhinanditu’’nti? ‘‘no hetaṃ, bhante’’| yato kho, ānanda, bhikkhu imāsañca sattannaṃ viññāṇaṭṭhitīnaṃ imesañca dvinnaṃ āyatanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ viditvā anupādā vimutto hoti, ayaṃ vuccatānanda, bhikkhu paññāvimutto|</p>
 
-<p rend="subhead">aṭṭha vimokkhā</p>
+<p rend="subhead" sid="6">aṭṭha vimokkhā</p>
 
 <p rend="bodytext" n="129"><hi rend="paranum">129</hi><hi rend="dot">.</hi> ‘‘aṭṭha <pb ed="M" n="2.0060"/> kho ime, ānanda, vimokkhā| katame aṭṭha? rūpī rūpāni passati ayaṃ <pb ed="V" n="2.0055"/> paṭhamo vimokkho| ajjhattaṃ arūpasaññī bahiddhā rūpāni passati, ayaṃ dutiyo vimokkho| subhanteva <pb ed="P" n="2.0071"/> adhimutto hoti, ayaṃ tatiyo vimokkho| sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ‘ananto ākāso’ti ākāsānañcāyatanaṃ upasampajja viharati, ayaṃ catuttho vimokkho| sabbaso ākāsānañcāyatanaṃ samatikkamma ‘anantaṃ viññāṇa’nti viññāṇañcāyatanaṃ upasampajja viharati, ayaṃ pañcamo vimokkho| sabbaso viññāṇañcāyatanaṃ samatikkamma ‘natthi <pb ed="T" n="2.0084"/> kiñcī’ti ākiñcaññāyatanaṃ upasampajja viharati, ayaṃ chaṭṭho vimokkho| sabbaso ākiñcaññāyatanaṃ samatikkamma ‘nevasaññānāsaññā’yatanaṃ upasampajja viharati, ayaṃ sattamo vimokkho| sabbaso nevasaññānāsaññāyatanaṃ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati, ayaṃ aṭṭhamo vimokkho| ime kho, ānanda, aṭṭha vimokkhā|</p>
 
