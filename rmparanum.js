@@ -37,8 +37,6 @@ var processlist=function(){
 		}
 		if (touch) {
 			fs.writeFileSync(set+'/'+fn,content.join('\n'),'utf8');
-			//to roll back , simply remove   sid="(.*?)" 
-
 		}
 
 	})
