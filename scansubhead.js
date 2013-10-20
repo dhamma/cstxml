@@ -73,7 +73,7 @@ var processlist=function(){
 				subhead.push(o);
 				touch=true;
 			}
-			//some DN has no subhead after readunit
+			//some DN has no subhead right after readunit
 			if ((nikaya=='d') && count==0 && content[i].substring(0,3)=='<p ' ) {
 				if (content[i].indexOf('rend="bodytext" n=')>-1) {
 					//console.log('warning , first p should be subhead after readunit', fn,i);
