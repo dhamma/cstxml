@@ -1,9 +1,15 @@
 ﻿var set=process.argv[2]||'mul';
+var titles={'mul':"Mulā","att":"Aṭṭhakathā","tik":"Ṭīkā"}
+
+var descs={'mul':"VRI CST Mulā","att":"VRI CST Aṭṭhakathā","tik":"VRI CST Ṭīkā"}
 console.log(require('yase').build({
 	dbid:'vri'+set,
 	slotshift:8,
 	loglevel:2,
 	linkto:'vrimul',
+	title: titles[set],
+	desc: descs[set],
+	groupunit:['p','p[n]'],
 	schema:function() {
 		this.toctag(["nikaya","book"]).attr("book","id",{"depth":1,"saveval":true,"unique":true})
 		 .pagebreak("pb").attr("pb","n",{"depth":2,"saveval":true})
