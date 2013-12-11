@@ -19,7 +19,7 @@ console.log(require('yase').build({
 		if (set=='mul') {
 		    this.attr("p","sid", //secondary reference number, SN = sutta no. , DN= section no.
 		    	{"depth":2,"sparseval":true,"unique":true,
-		    	  "prefix":"pgroup[id]","range":"-"})
+		    	  "prefix":"readunit[id]","range":"-"})
 		}
 	},
 	input:set+'/vri'+set+'.lst',
