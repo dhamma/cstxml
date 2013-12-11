@@ -12,7 +12,7 @@
 <div id="an2_1_1" n="an2_1_1" type="vagga">
 <head rend="chapter"><readunit id="a2-1">1. kammakaraṇavaggo</readunit></head>
 
-<p rend="subhead">1. vajjasuttaṃ</p>
+<p rend="subhead" sid="1">1. vajjasuttaṃ</p>
 
 <p n="1"> evaṃ <pb ed="T" n="1.0061"/><pb ed="V" n="1.0063"/><pb ed="P" n="1.0047"/><pb ed="M" n="1.0049"/> me sutaṃ – ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme| tatra kho bhagavā bhikkhū āmantesi – ‘‘bhikkhavo’’ti| ‘‘bhadante’’ti te bhikkhū bhagavato paccassosuṃ| bhagavā etadavoca –</p>
 
@@ -22,43 +22,43 @@
 
 <p>‘‘katamañca, bhikkhave, samparāyikaṃ vajjaṃ? idha, bhikkhave, ekacco iti paṭisañcikkhati – ‘kāyaduccaritassa kho pana pāpako dukkho vipāko abhisamparāyaṃ, vacīduccaritassa pāpako dukkho vipāko abhisamparāyaṃ, manoduccaritassa pāpako dukkho vipāko abhisamparāyaṃ| ahañceva kho pana kāyena duccaritaṃ careyyaṃ, vācāya duccaritaṃ careyyaṃ<pb ed="V" n="1.0065"/>, manasā duccaritaṃ careyyaṃ| kiñca taṃ yāhaṃ na kāyassa bhedā paraṃ maraṇā apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjeyya’nti| so <pb ed="P" n="1.0049"/> samparāyikassa vajjassa bhīto kāyaduccaritaṃ pahāya kāyasucaritaṃ bhāveti, vacīduccaritaṃ pahāya vacīsucaritaṃ bhāveti, manoduccaritaṃ pahāya manosucaritaṃ bhāveti, suddhaṃ attānaṃ pariharati| idaṃ vuccati, bhikkhave, samparāyikaṃ vajjaṃ| ‘‘imāni kho, bhikkhave, dve vajjāni| tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘diṭṭhadhammikassa vajjassa bhāyissāma, samparāyikassa vajjassa bhāyissāma, vajjabhīruno bhavissāma <pb ed="M" n="1.0051"/> vajjabhayadassāvino’ti| evañhi vo, bhikkhave, sikkhitabbaṃ| vajjabhīruno, bhikkhave, vajjabhayadassāvino etaṃ pāṭikaṅkhaṃ yaṃ parimuccissati <pb ed="T" n="1.0063"/> sabbavajjehī’’ti| paṭhamaṃ|</p>
 
-<p rend="subhead">2. padhānasuttaṃ</p>
+<p rend="subhead" sid="2">2. padhānasuttaṃ</p>
 
 <p n="2"> ‘‘dvemāni, bhikkhave, padhānāni durabhisambhavāni lokasmiṃ| katamāni dve? yañca gihīnaṃ agāraṃ ajjhāvasataṃ cīvarapiṇḍapātasenāsanagilānapaccayabhesajjaparikkhārānuppadānatthaṃ padhānaṃ, yañca agārasmā anagāriyaṃ pabbajitānaṃ sabbūpadhipaṭinissaggatthaṃ padhānaṃ| imāni kho, bhikkhave, dve padhānāni durabhisambhavāni lokasmiṃ|</p>
 
 <p>‘‘etadaggaṃ, bhikkhave, imesaṃ dvinnaṃ padhānānaṃ yadidaṃ sabbūpadhipaṭinissaggatthaṃ padhānaṃ| tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘sabbūpadhipaṭinissaggatthaṃ padhānaṃ padahissāmā’ti| evañhi vo, bhikkhave, sikkhitabba’’nti| dutiyaṃ|</p>
 
-<p rend="subhead">3. tapanīyasuttaṃ</p>
+<p rend="subhead" sid="3">3. tapanīyasuttaṃ</p>
 
 <p n="3"> ‘‘dveme, bhikkhave, dhammā tapanīyā| katame dve? idha, bhikkhave, ekaccassa kāyaduccaritaṃ kataṃ hoti, akataṃ hoti kāyasucaritaṃ; vacīduccaritaṃ kataṃ hoti; akataṃ hoti vacīsucaritaṃ; manoduccaritaṃ kataṃ hoti, akataṃ hoti manosucaritaṃ| so ‘kāyaduccaritaṃ me kata’nti tappati, ‘akataṃ me kāyasucarita’nti tappati; ‘vacīduccaritaṃ me kata’nti tappati, ‘akataṃ me vacīsucarita’nti tappati; ‘manoduccaritaṃ me kata’nti tappati<pb ed="V" n="1.0066"/>, ‘akataṃ me manosucarita’nti tappati| ime kho, bhikkhave, dve dhammā tapanīyā’’ti| tatiyaṃ|</p>
 
-<p rend="subhead">4. atapanīyasuttaṃ</p>
+<p rend="subhead" sid="4">4. atapanīyasuttaṃ</p>
 
 <p n="4"> ‘‘dveme, bhikkhave, dhammā atapanīyā| katame <pb ed="P" n="1.0050"/> dve? idha, bhikkhave, ekaccassa kāyasucaritaṃ kataṃ hoti, akataṃ hoti kāyaduccaritaṃ; vacīsucaritaṃ kataṃ hoti, akataṃ hoti vacīduccaritaṃ; manosucaritaṃ kataṃ hoti, akataṃ hoti manoduccaritaṃ| so ‘kāyasucaritaṃ me kata’nti na tappati, ‘akataṃ me kāyaduccarita’nti na tappati; ‘vacīsucaritaṃ me kata’nti na tappati, ‘akataṃ <pb ed="T" n="1.0064"/> me vacīduccarita’nti na tappati; ‘manosucaritaṃ me kata’nti na tappati, ‘akataṃ me manoduccarita’nti na tappati| ime kho, bhikkhave, dve dhammā atapanīyā’’ti| catutthaṃ|</p>
 
-<p rend="subhead">5. upaññātasuttaṃ</p>
+<p rend="subhead" sid="5">5. upaññātasuttaṃ</p>
 
 <p n="5"> ‘‘dvinnāhaṃ<pb ed="M" n="1.0052"/>, bhikkhave, dhammānaṃ upaññāsiṃ – yā ca asantuṭṭhitā kusalesu dhammesu, yā ca appaṭivānitā padhānasmiṃ| appaṭivānī sudāhaṃ, bhikkhave, padahāmi – ‘kāmaṃ taco ca nhāru <note>nahāru (sī. syā. kaṃ. pī.)</note> ca aṭṭhi ca avasissatu, sarīre upasussatu maṃsalohitaṃ, yaṃ taṃ purisathāmena purisavīriyena purisaparakkamena pattabbaṃ na taṃ apāpuṇitvā vīriyassa saṇṭhānaṃ bhavissatī’ti| tassa mayhaṃ, bhikkhave, appamādādhigatā sambodhi, appamādādhigato anuttaro yogakkhemo| tumhe cepi, bhikkhave, appaṭivānaṃ padaheyyātha – ‘kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upasussatu maṃsalohitaṃ, yaṃ taṃ purisathāmena purisavīriyena <pb ed="V" n="1.0067"/> purisaparakkamena pattabbaṃ na taṃ apāpuṇitvā vīriyassa saṇṭhānaṃ <pb ed="T" n="1.0065"/> bhavissatī’ti, tumhepi, bhikkhave, nacirasseva – yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ – brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharissatha| tasmātiha, bhikkhave, evaṃ sikkhitabbaṃ – ‘appaṭivānaṃ padahissāma| kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upasussatu maṃsalohitaṃ, yaṃ taṃ purisathāmena purisavīriyena purisaparakkamena pattabbaṃ na taṃ apāpuṇitvā vīriyassa saṇṭhānaṃ bhavissatī’ti| evañhi vo, bhikkhave, sikkhitabba’’nti| pañcamaṃ|</p>
 
-<p rend="subhead">6. saṃyojanasuttaṃ</p>
+<p rend="subhead" sid="6">6. saṃyojanasuttaṃ</p>
 
 <p n="6"> ‘‘dveme, bhikkhave, dhammā| katame dve? yā ca saṃyojaniyesu dhammesu assādānupassitā, yā ca saṃyojaniyesu dhammesu nibbidānupassitā| saṃyojaniyesu, bhikkhave, dhammesu assādānupassī viharanto rāgaṃ na <pb ed="P" n="1.0051"/> pajahati, dosaṃ na pajahati, mohaṃ na pajahati| rāgaṃ appahāya, dosaṃ appahāya, mohaṃ appahāya na parimuccati jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi| na parimuccati dukkhasmāti vadāmi|</p>
 
 <p>‘‘saṃyojaniyesu, bhikkhave, dhammesu nibbidānupassī viharanto rāgaṃ pajahati, dosaṃ pajahati, mohaṃ pajahati| rāgaṃ pahāya, dosaṃ pahāya, mohaṃ <pb ed="M" n="1.0053"/> pahāya, parimuccati jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi| parimuccati dukkhasmāti vadāmi| ime kho, bhikkhave, dve dhammā’’ti| chaṭṭhaṃ|</p>
 
-<p rend="subhead">7. kaṇhasuttaṃ</p>
+<p rend="subhead" sid="7">7. kaṇhasuttaṃ</p>
 
 <p n="7"> ‘‘dveme, bhikkhave, dhammā kaṇhā| katame dve? ahirikañca anottappañca| ime kho, bhikkhave, dve dhammā kaṇhā’’ti| sattamaṃ|</p>
 
-<p rend="subhead">8. sukkasuttaṃ</p>
+<p rend="subhead" sid="8">8. sukkasuttaṃ</p>
 
 <p n="8"> ‘‘dveme, bhikkhave, dhammā sukkā| katame dve? hirī <note>hiri (sī. syā. kaṃ. pī.)</note> ca ottappañca| ime kho, bhikkhave, dve dhammā sukkā’’ti| aṭṭhamaṃ|</p>
 
-<p rend="subhead">9. cariyasuttaṃ</p>
+<p rend="subhead" sid="9">9. cariyasuttaṃ</p>
 
 <p n="9"> ‘‘dveme<pb ed="V" n="1.0068"/>, bhikkhave, dhammā sukkā lokaṃ pālenti| katame dve? hirī ca ottappañca| ime kho, bhikkhave, dve sukkā dhammā lokaṃ na pāleyyuṃ, nayidha paññāyetha mātāti vā mātucchāti <pb ed="T" n="1.0066"/> vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti vā| sambhedaṃ loko agamissa, yathā ajeḷakā kukkuṭasūkarā soṇasiṅgālā <note>soṇasigālā (sī. syā. kaṃ. pī.)</note>| yasmā ca kho, bhikkhave, ime dve sukkā dhammā lokaṃ pālenti tasmā paññāyati <note>paññāyanti (sī.)</note> mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṃ dārāti vā’’ti| navamaṃ|</p>
 
-<p rend="subhead">10. vassūpanāyikasuttaṃ</p>
+<p rend="subhead" sid="10">10. vassūpanāyikasuttaṃ</p>
 
 <p n="10"> ‘‘dvemā, bhikkhave, vassūpanāyikā| katamā dve? purimikā ca pacchimikā ca| imā kho, bhikkhave, dve vassūpanāyikā’’ti| dasamaṃ|</p>
 
