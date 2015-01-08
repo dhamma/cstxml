@@ -1,7 +1,7 @@
 var srcpath="mul/";
 var fs=require("fs");
 var mul=fs.readFileSync(srcpath+"vrimul.lst","utf8").replace(/\r?\n/g,"\n").split("\n");
-var tokenizer=require("ksana-document").tokenizers.simple;
+var tokenizer=require("./tokenizers").simple;
 var tokens={},tokencount=0;
 var parseLine=function(line) {
 	var parsed=tokenizer(line);
@@ -23,9 +23,10 @@ var processfile=function(fn) {
 	for (var i=0;i<lines.length;i++) parseLine(lines[i]);
 }
 var sortalpha=function(a,b){
+	//return a>b?1:b>a:-1:0;
 	if (a>b) return 1;
 	else if (b>a) return -1;
-	else return 0;
+	 else return 0;
 }
 
 var sortlength=function(a,b) {
